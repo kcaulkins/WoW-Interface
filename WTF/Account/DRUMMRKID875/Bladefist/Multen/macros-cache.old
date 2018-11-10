@@ -1,0 +1,21 @@
+VER 3 0100000000000004 "buybloodz" "INV_MISC_QUESTIONMARK"
+/run BuyMerchantItem(1)
+END
+VER 3 0100000000000002 "cd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Chaos Blades
+/cast Nemesis
+/cast Fury of the Illidari(Artifact)
+END
+VER 3 0100000000000003 "DH Mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Kor'kron Juggernaut
+/use [flyable]Ashes of Al'ar
+/use [noflyable]Kor'kron Juggernaut
+/script VehicleExit()
+/dismount [mounted]
+END
+VER 3 0100000000000001 "Ench" "SPELL_SHADOW_TELEPORT"
+/click TradeSkillCreateButton
+/use Enchanting Vellum
+END

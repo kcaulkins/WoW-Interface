@@ -1,0 +1,43 @@
+VER 3 0000000000000019 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Jangalar's Voodoo Totem
+END
+VER 3 000000000000000F "asd" "INV_MISC_QUESTIONMARK"
+#showtooltip prospecting
+/cast prospecting
+/use Ghost Iron Ore
+END
+VER 3 0000000000000014 "CM's" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/2 <Insurgency> now selling 9/9 gold cmodes for 75k! Get yours completed before they are GONE in the upcoming patch!!
+END
+VER 3 0000000000000011 "counter" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/cast counter shot
+END
+VER 3 0000000000000013 "enchanting" "INV_MISC_QUESTIONMARK"
+/use Enchanting Vellum
+END
+VER 3 0000000000000012 "mcall" "INV_MISC_QUESTIONMARK"
+#showtooltip Master's Call
+/cast Dive
+/cast Dash
+/cast [@player] Master's Call
+END
+VER 3 0000000000000017 "mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Fathom Dweller
+/use [flyable]Ashes of Al'ar
+/use [noflyable]Kor'kron Juggernaut
+/script VehicleExit()
+/dismount [mounted]
+END
+VER 3 000000000000001B "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMAuctioningBtn
+END
+VER 3 0000000000000018 "wg" "INV_MISC_QUESTIONMARK"
+/tar Conforce
+/cast wild growth
+/targetlasttarget
+END

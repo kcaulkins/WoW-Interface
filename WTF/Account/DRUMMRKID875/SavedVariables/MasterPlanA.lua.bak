@@ -1,0 +1,107 @@
+
+MasterPlanAG = {
+	["Moon Guard"] = {
+		["Keziya"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Alliance",
+		},
+	},
+	["Illidan"] = {
+		["Conforce"] = {
+			["faction"] = "Horde",
+			["class"] = "DRUID",
+		},
+	},
+	["Tichondrius"] = {
+		["Multage"] = {
+			["class"] = "MAGE",
+			["faction"] = "Horde",
+		},
+	},
+	["Area 52"] = {
+		["Conforce"] = {
+			["class"] = "DEATHKNIGHT",
+			["faction"] = "Horde",
+		},
+		["Multage"] = {
+			["faction"] = "Horde",
+			["class"] = "MAGE",
+		},
+	},
+	["Bleeding Hollow"] = {
+		["Bunki"] = {
+			["class"] = "MONK",
+			["faction"] = "Alliance",
+		},
+	},
+	["Bladefist"] = {
+		["Vryn"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Horde",
+		},
+		["Shrekt"] = {
+			["faction"] = "Horde",
+			["class"] = "WARRIOR",
+		},
+		["Mullton"] = {
+			["class"] = "MONK",
+			["summary"] = {
+				["inProgress"] = {
+					[133] = 1421053473,
+					[165] = 1421039080,
+					[376] = 1421067891,
+					[114] = 1421053486,
+					[367] = 1421067896,
+					[127] = 1421046276,
+				},
+			},
+			["faction"] = "Horde",
+		},
+		["Keziya"] = {
+			["class"] = "PRIEST",
+			["faction"] = "Horde",
+		},
+		["Treeniislove"] = {
+			["faction"] = "Horde",
+			["class"] = "ROGUE",
+		},
+		["Buttoucher"] = {
+			["class"] = "SHAMAN",
+			["faction"] = "Horde",
+		},
+		["Zeebrew"] = {
+			["class"] = "MONK",
+			["summary"] = {
+				["inProgress"] = {
+					[133] = 1421053473,
+					[165] = 1421039080,
+					[376] = 1421067891,
+					[114] = 1421053486,
+					[127] = 1421046276,
+					[367] = 1421067896,
+				},
+			},
+			["faction"] = "Horde",
+		},
+		["Lotun"] = {
+			["faction"] = "Horde",
+			["class"] = "PALADIN",
+		},
+		["Multen"] = {
+			["faction"] = "Horde",
+			["class"] = "DEMONHUNTER",
+		},
+		["Xenatu"] = {
+			["class"] = "WARLOCK",
+			["faction"] = "Horde",
+		},
+		["Moltun"] = {
+			["faction"] = "Horde",
+			["class"] = "HUNTER",
+		},
+		["Dekae"] = {
+			["faction"] = "Horde",
+			["class"] = "DEATHKNIGHT",
+		},
+	},
+}

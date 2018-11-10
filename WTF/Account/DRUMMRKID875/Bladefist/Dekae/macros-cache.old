@@ -1,0 +1,22 @@
+VER 3 0100000000000002 "ds" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast death strike
+/cast bone shield
+END
+VER 3 0100000000000001 "fs" "INV_MISC_QUESTIONMARK"
+#showtooltip death coil
+/cast Blood Tap
+/cast Death Coil
+END
+VER 3 0100000000000004 "Pillar" "INV_MISC_QUESTIONMARK"
+#showtooltip Pillar of Frost
+/use Vial of Animated Blood
+/cast Blood Fury(Racial)
+/cast Pillar of Frost
+END
+VER 3 0100000000000003 "winter" "INV_MISC_QUESTIONMARK"
+#showtooltip Remorseless Winter
+/use Vial of Animated Blood
+/cast Blood Fury(Racial)
+/cast Remorseless Winter
+END

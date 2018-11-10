@@ -1,0 +1,5 @@
+BigWigs: enabled
+TellMeWhen: enabled
+TellMeWhen_Options: enabled
+ArekosGratz: disabled
+ElvUI: enabled

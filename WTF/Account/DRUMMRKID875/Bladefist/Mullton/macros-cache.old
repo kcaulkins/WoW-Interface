@@ -1,0 +1,11 @@
+VER 3 0100000000000004 "trinkheal" "INV_MISC_QUESTIONMARK"
+#showtooltip essence font
+/use Balefire Branch
+/cast essence font
+END
+VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
+R1DH1MR1OM1OM2LR2MR2WM2EM[x]3NM3EM3WM3IH4PH4ET[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]2OH[x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000003 "VuhDoDCShieldNames" "Ability_Repair"
+NDetOwaÓatYanValLliDíaImp[x]ZerHesKäzCryKärKan[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Mul[x][x][x][x][x]Wat[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

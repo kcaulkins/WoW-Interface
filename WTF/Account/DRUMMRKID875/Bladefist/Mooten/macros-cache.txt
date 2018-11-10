@@ -1,0 +1,16 @@
+VER 3 0100000000000001 "Mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Kor'kron Juggernaut
+/cast [flyable]Swift Flight form
+/use [noflyable]Kor'kron Juggernaut
+/script VehicleExit()
+/dismount [mounted]
+END
+VER 3 0100000000000002 "mount2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Regal Riding Crane
+/use [flyable]Crimson Pandaren Phoenix
+/use [noflyable]Regal Riding Crane
+/script VehicleExit()
+/dismount [mounted]
+END

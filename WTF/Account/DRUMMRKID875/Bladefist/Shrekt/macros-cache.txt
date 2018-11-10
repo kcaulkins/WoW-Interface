@@ -1,0 +1,10 @@
+VER 3 0100000000000002 "csmash" "INV_MISC_QUESTIONMARK"
+#showtooltip Colossus smash
+/use Void Stalker's Contract
+/cast colossus smash
+END
+VER 3 0100000000000001 "intro" "INV_MISC_QUESTIONMARK"
+/cast Battle Cry
+/cast Demoralizing Shout
+/cast Shield Block
+END

@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "intro" "INV_MISC_QUESTIONMARK"
+/cast Battle Cry
+/cast Demoralizing Shout
+/cast Shield Block
+END

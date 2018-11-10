@@ -1,0 +1,138 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Basatan|Illidan|Horde|1|ROGUE", -- [1]
+				"Bunki|Bleeding Hollow|Alliance|12|MONK", -- [2]
+				"Buttlove|Gorefiend|Horde|1|WARRIOR", -- [3]
+				"Buttoucher|Bladefist|Horde|90|SHAMAN", -- [4]
+				"Conforce|Area 52|Horde|120|DEATHKNIGHT", -- [5]
+				"Conforce|Illidan|Horde|110|DRUID", -- [6]
+				"Dekae|Bladefist|Horde|120|DEATHKNIGHT", -- [7]
+				"Kesiya|Moon Guard|Alliance|1|WARRIOR", -- [8]
+				"Keziya|Bladefist|Horde|100|PRIEST", -- [9]
+				"Keziya|Moon Guard|Alliance|1|ROGUE", -- [10]
+				"Lotun|Bladefist|Horde|100|PALADIN", -- [11]
+				"Moltun|Bladefist|Horde|112|HUNTER", -- [12]
+				"Mooten|Bladefist|Horde|103|DRUID", -- [13]
+				"Mullton|Bladefist|Horde|120|MONK", -- [14]
+				"Multage|Area 52|Horde|120|MAGE", -- [15]
+				"Multage|Tichondrius|Horde|120|MAGE", -- [16]
+				"Multen|Bladefist|Horde|110|DEMONHUNTER", -- [17]
+				"Multon|Gorefiend|Alliance|110|DRUID", -- [18]
+				"Multon|Gorefiend|Horde|110|DRUID", -- [19]
+				"Shrekt|Bladefist|Horde|110|WARRIOR", -- [20]
+				"Treeniislove|Bladefist|Horde|4|ROGUE", -- [21]
+				"Vryn|Bladefist|Horde|88|ROGUE", -- [22]
+				"Xenatu|Bladefist|Horde|110|WARLOCK", -- [23]
+				"Zeebrew|Bladefist|Horde|119|MONK", -- [24]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Multon - Gorefiend"] = "Multon - Gorefiend",
+		["Keziya - Bladefist"] = "Keziya - Bladefist",
+		["Buttoucher - Bladefist"] = "Buttoucher - Bladefist",
+		["Kesiya - Moon Guard"] = "Kesiya - Moon Guard",
+		["Buttlove - Gorefiend"] = "Buttlove - Gorefiend",
+		["Keziya - Moon Guard"] = "Keziya - Moon Guard",
+		["Dekae - Bladefist"] = "Dekae - Bladefist",
+		["Lotun - Bladefist"] = "Lotun - Bladefist",
+		["Moltun - Bladefist"] = "Moltun - Bladefist",
+		["Multage - Area 52"] = "Multage - Area 52",
+		["Multen - Bladefist"] = "Multen - Bladefist",
+		["Bunki - Bleeding Hollow"] = "Bunki - Bleeding Hollow",
+		["Basatan - Illidan"] = "Basatan - Illidan",
+		["Mullton - Bladefist"] = "Mullton - Bladefist",
+		["Conforce - Area 52"] = "Conforce - Area 52",
+		["Xenatu - Bladefist"] = "Xenatu - Bladefist",
+		["Multage - Tichondrius"] = "Multage - Tichondrius",
+		["Zeebrew - Bladefist"] = "Zeebrew - Bladefist",
+		["Conforce - Illidan"] = "Conforce - Illidan",
+		["Mooten - Bladefist"] = "Mooten - Bladefist",
+		["Treeniislove - Bladefist"] = "Treeniislove - Bladefist",
+		["Shrekt - Bladefist"] = "Shrekt - Bladefist",
+		["Vryn - Bladefist"] = "Vryn - Bladefist",
+	},
+	["profiles"] = {
+		["Multon - Gorefiend"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Boarnme-Gorefiend|Gorefiend|Horde", -- [1]
+				},
+			},
+		},
+		["Keziya - Bladefist"] = {
+		},
+		["Buttoucher - Bladefist"] = {
+		},
+		["Kesiya - Moon Guard"] = {
+		},
+		["Buttlove - Gorefiend"] = {
+		},
+		["Keziya - Moon Guard"] = {
+		},
+		["Dekae - Bladefist"] = {
+		},
+		["Lotun - Bladefist"] = {
+		},
+		["Moltun - Bladefist"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Zeebrew|Bladefist|Horde", -- [1]
+				},
+			},
+		},
+		["Multage - Area 52"] = {
+		},
+		["Multen - Bladefist"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Moltun|Bladefist|Horde", -- [1]
+					"Shrekt|Bladefist|Horde", -- [2]
+					"Conforce-Illidan|Bladefist|Horde", -- [3]
+				},
+			},
+		},
+		["Bunki - Bleeding Hollow"] = {
+		},
+		["Basatan - Illidan"] = {
+		},
+		["Mullton - Bladefist"] = {
+		},
+		["Conforce - Area 52"] = {
+		},
+		["Xenatu - Bladefist"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Multen|Bladefist|Horde", -- [1]
+				},
+			},
+		},
+		["Multage - Tichondrius"] = {
+		},
+		["Zeebrew - Bladefist"] = {
+		},
+		["Conforce - Illidan"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Xenatu-Bladefist|Illidan|Horde", -- [1]
+				},
+			},
+		},
+		["Mooten - Bladefist"] = {
+		},
+		["Treeniislove - Bladefist"] = {
+		},
+		["Shrekt - Bladefist"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Xenatu|Bladefist|Horde", -- [1]
+				},
+			},
+		},
+		["Vryn - Bladefist"] = {
+		},
+	},
+}

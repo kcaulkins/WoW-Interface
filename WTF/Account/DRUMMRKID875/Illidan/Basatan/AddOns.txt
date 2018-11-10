@@ -1,0 +1,13 @@
+Azeroth Auto Pilot: disabled
+Clique: disabled
+frenzyregen: disabled
+MasterPlan: disabled
+MasterPlanA: disabled
+QE-DungeonTips: disabled
+Telemancy: disabled
+TellMeWhen: disabled
+TellMeWhen_Options: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+ElvUI_EverySecondCounts: disabled

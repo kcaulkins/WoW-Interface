@@ -1,0 +1,27 @@
+
+KibsItemLevelContinuedDB = {
+	["profileKeys"] = {
+		["Conforce - Illidan"] = "Default",
+		["Keziya - Bladefist"] = "Default",
+		["Buttoucher - Bladefist"] = "Default",
+		["Zeebrew - Bladefist"] = "Default",
+		["Keziya - Moon Guard"] = "Default",
+		["Xenatu - Bladefist"] = "Default",
+		["Lotun - Bladefist"] = "Default",
+		["Multen - Bladefist"] = "Default",
+		["Bunki - Bleeding Hollow"] = "Default",
+		["Basatan - Illidan"] = "Default",
+		["Mullton - Bladefist"] = "Default",
+		["Moltun - Bladefist"] = "Default",
+		["Multage - Tichondrius"] = "Default",
+		["Dekae - Bladefist"] = "Default",
+		["Conforce - Area 52"] = "Default",
+		["Treeniislove - Bladefist"] = "Default",
+		["Shrekt - Bladefist"] = "Default",
+		["Vryn - Bladefist"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
