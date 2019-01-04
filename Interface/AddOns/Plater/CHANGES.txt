@@ -1,7 +1,0 @@
-changeset:   151:407ea62d475c
-tag:         tip
-user:        Tercioo
-date:        Wed Nov 07 17:39:24 2018 -0200
-summary:     - Added text to the status bar.
-
-

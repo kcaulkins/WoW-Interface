@@ -1,0 +1,27 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0232,
+	["LastPlayerFullName"] = "Lotun-Bladefist",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[128823] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 5,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 6,
+					["Type"] = "Life",
+				}, -- [2]
+			},
+			["Name"] = "The Silver Hand",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}

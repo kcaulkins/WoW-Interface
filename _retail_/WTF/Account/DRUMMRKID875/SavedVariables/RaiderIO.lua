@@ -1,0 +1,26 @@
+
+RaiderIO_Config = {
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["enableWhoTooltips"] = true,
+	["showRaiderIOProfile"] = true,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["inverseProfileModifier"] = false,
+	["showScoreInCombat"] = true,
+	["lockProfile"] = false,
+	["positionProfileAuto"] = true,
+	["showMainsScore"] = true,
+	["alwaysExtendTooltip"] = false,
+	["enableProfileModifier"] = true,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableLFGTooltips"] = true,
+	["enableClientEnhancements"] = true,
+	["enableFriendsTooltips"] = true,
+	["enableWhoMessages"] = true,
+	["showSimpleScoreColors"] = false,
+	["enableUnitTooltips"] = true,
+	["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "us-Multen-area-52"

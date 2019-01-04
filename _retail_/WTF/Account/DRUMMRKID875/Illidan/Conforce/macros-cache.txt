@@ -1,0 +1,19 @@
+VER 3 0100000000000002 "cd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast essence of g'hanir
+/use Velen's Future Sight
+END
+VER 3 0100000000000001 "Mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Fathom Dweller
+/cast [flyable]Travel Form
+/use [noflyable]Great Northern Elderhorn
+/script VehicleExit()
+/dismount [mounted]
+END
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Con[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,157 @@
+
+AngryAssign_Pages = {
+	[2267545475] = {
+		["Updated"] = 1538526112,
+		["Name"] = "Omega Vector",
+		["Id"] = 2267545475,
+		["UpdateId"] = 1809584598,
+		["Contents"] = "Group 1 > {circle}\n\nGroup 2 > {star}\n\nGroup 3 > {Diamond}",
+	},
+	[1076229451] = {
+		["Updated"] = 1544994212,
+		["Name"] = "asd",
+		["Id"] = 1076229451,
+		["UpdateId"] = 941754460,
+		["Backup"] = "1- bert\n2- conforce\n3- greyfrog\n4- rodney\n5- tam",
+		["Contents"] = "1- bert\n2- conforce\n3- greyfrog\n4- rodney\n5- tam",
+	},
+	[907699768] = {
+		["Updated"] = 1538442126,
+		["Name"] = "Ghuun Norm",
+		["Id"] = 907699768,
+		["UpdateId"] = 3143223301,
+		["Contents"] = "1 - Bert, Pickle\n2 - Multage, Enjoy\n3 - Brohawk, Crysse\n4 - Xamul, After",
+	},
+	[297828194] = {
+		["Updated"] = 1542861035,
+		["Name"] = "Orbs",
+		["Id"] = 297828194,
+		["UpdateId"] = 657313532,
+		["Contents"] = "1st Orb - Trik\n2nd Orb - Pickle and Echo\n3rd Orb - Elynu and Zam\n4th Orb - Lold\n5th Orb - Dash and Shy\n6th Orb - Tooty and Allertse",
+	},
+	[1297573129] = {
+		["Updated"] = 1545958859,
+		["Name"] = "Ghuun Achieve",
+		["Id"] = 1297573129,
+		["UpdateId"] = 1078474597,
+		["Contents"] = "1 Ray, Varkiss, Grey\n2 Tam, Pickle, Zether\n3 Bro, Bert, Lold",
+	},
+	[487764182] = {
+		["Updated"] = 1539302836,
+		["Name"] = "Ghuun H",
+		["Id"] = 487764182,
+		["UpdateId"] = 3601298964,
+		["Contents"] = "1 - Kovas, After\n2 - Rickflairwoo, Trenshot\n3 - Fuumonchuu,Pickleblades\n4 - Conforce, Xamui\n5 - Brohawk, Varkiss\n6 - Bert, Trikk",
+	},
+	[3427383958] = {
+		["Updated"] = 1542766953,
+		["Name"] = "Vec",
+		["Id"] = 3427383958,
+		["UpdateId"] = 428128468,
+		["Contents"] = "Group 1 = {Star}\n\nGroup 2 = {Circle}\n\nGroup 3 = {Diamond}\n\nGroup 4 = {Triangle}",
+	},
+	[377995245] = {
+		["Updated"] = 1541552881,
+		["Name"] = "Zek Interrupt",
+		["Id"] = 377995245,
+		["UpdateId"] = 145027943,
+		["Contents"] = "Pickle\nLold\nÁftershock\nWoo\n----\nBro\nRay\nBert\nTren",
+	},
+	[946460446] = {
+		["Updated"] = 1546572098,
+		["Name"] = "Fetid",
+		["Id"] = 946460446,
+		["UpdateId"] = 1008165065,
+		["Contents"] = "-ALPHA-\nVarkiss\nFazakk\n\n-BRAVO-\n\nPetestah\nPickle\nHelly\nDippin\nGreyfrog\nSylledriel\n\n\n-CHARLIE-\nTrikk\nBert \nChikkinz\nTam\nLold\nDwyn",
+	},
+	[3702764610] = {
+		["Updated"] = 1544666667,
+		["Name"] = "H Ghuun",
+		["Id"] = 3702764610,
+		["UpdateId"] = 4270353623,
+		["Contents"] = "",
+	},
+	[980069009] = {
+		["Updated"] = 1543375575,
+		["Name"] = "Zul Kill Order",
+		["Id"] = 980069009,
+		["UpdateId"] = 2027622033,
+		["Contents"] = "Tam = {X} = Backup - Bertelsen\n\nLold = {Square} = Backup - Grayfrog\n\nTrenshot  = {Diamond} = Backup- Zamdan\n\nPickle   = {Triangle} = Backup - Lold",
+	},
+	[2086449496] = {
+		["Updated"] = 1544667245,
+		["Name"] = "H Ghuun",
+		["Id"] = 2086449496,
+		["UpdateId"] = 3686000024,
+		["Contents"] = "1 - Lime\n2 - Brohawk, Bert\n3 - Pickle\n4 - Zether \n5 - Tam, Dwyn\n6 - Behind",
+	},
+	[1125962750] = {
+		["Updated"] = 1543458629,
+		["Name"] = "Ghuun H",
+		["Id"] = 1125962750,
+		["UpdateId"] = 281792440,
+		["Contents"] = "1st Orb (Left) - Lime\n2nd Orb (Right) - Lold\n3rd Orb ( Left) -Trik\n\n4th Orb (Left) - Echo\n5th Orb (Right) - Gris / Holy\n6th Orb (Left) - Zether",
+	},
+	[827369958] = {
+		["Updated"] = 1544581108,
+		["Name"] = "Zul Mythic",
+		["Id"] = 827369958,
+		["UpdateId"] = 3596462946,
+		["Contents"] = "Beefie\nRay\nAscalli\nZamdan\nBert\nDipp\nPete\nTamarien\nGreyFROG\nTrikkster\nBrohawk\nMassey",
+	},
+	[3286745809] = {
+		["Updated"] = 1538524073,
+		["Name"] = "Mother Groups",
+		["Id"] = 3286745809,
+		["UpdateId"] = 422623862,
+		["Contents"] = "Mother Chamber Order\n\n\nGroup 1 > Trikk, Warbanner, Kóvas\nGroup 2 > Beef, Xamui, Conforce\nGroup 3 > Thatsmybis, After, Echeron\nGroup 4 > Pickles, Nadda, Warpole\nGroup 5 > Trevaa, Brohaw, Bert\nGroup 6 > Vódká, Varkiss,Sidrith  \nGroup 7 > Lime,Masse, Asgaut",
+	},
+	[810267751] = {
+		["Updated"] = 1538523893,
+		["Name"] = "Mother",
+		["Id"] = 810267751,
+		["UpdateId"] = 1184778,
+		["Contents"] = "",
+	},
+	[4135279898] = {
+		["Updated"] = 1544754209,
+		["Name"] = "Myth",
+		["Id"] = 4135279898,
+		["UpdateId"] = 3411374416,
+		["Contents"] = "Interupt Order:\nPickle\nLold\nAfter\nChikkin\nBehind",
+	},
+}
+AngryAssign_Categories = {
+}
+AngryAssign_State = {
+	["locked"] = true,
+	["display"] = {
+		["y"] = -21.9998779296875,
+		["x"] = 176.666763305664,
+		["point"] = "TOPLEFT",
+		["scale"] = 1,
+		["hidden"] = false,
+	},
+	["window"] = {
+		["height"] = 499.999908447266,
+		["top"] = 929.166564941406,
+		["left"] = 80.8335876464844,
+		["width"] = 700.000061035156,
+	},
+	["tree"] = {
+		["groups"] = {
+			["1076229451"] = true,
+		},
+		["scrollvalue"] = 0,
+		["treesizable"] = true,
+		["selected"] = 1076229451,
+		["treewidth"] = 175,
+		["fullwidth"] = 666,
+	},
+	["directionUp"] = false,
+}
+AngryAssign_Config = {
+	["lineSpacing"] = 1,
+	["fontName"] = "Noto Sans Regular",
+	["allowall"] = true,
+}

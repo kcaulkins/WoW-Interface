@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "Lod" "INV_MISC_QUESTIONMARK"
+#showtooltip light of dawn
+/cast rule of law
+/cast light of dawn
+END

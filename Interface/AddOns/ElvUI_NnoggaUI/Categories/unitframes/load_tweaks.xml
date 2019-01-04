@@ -1,4 +1,0 @@
-<Ui xmlns="http://www.blizzard.com/wow/ui/">
-	<Script file='classbar.lua'/>
-	<Script file='targetFrameBlizzBuffs.lua'/>
-</Ui>

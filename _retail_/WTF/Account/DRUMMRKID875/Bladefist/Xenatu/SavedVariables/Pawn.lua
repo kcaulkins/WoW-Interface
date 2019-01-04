@@ -1,0 +1,30 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0232,
+	["LastPlayerFullName"] = "Xenatu-Bladefist",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[128943] = {
+			["Relics"] = {
+				{
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 14,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["ItemLevel"] = 13,
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "Skull of the Man'ari",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "WARLOCK",
+	["LastAdded"] = 1,
+}

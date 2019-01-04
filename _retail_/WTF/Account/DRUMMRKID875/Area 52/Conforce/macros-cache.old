@@ -1,0 +1,17 @@
+VER 3 0100000000000004 "Control Undead" "INV_MISC_QUESTIONMARK"
+#showtooltip Control Undead
+/petdismiss
+/cast Control Undead
+END
+VER 3 0100000000000005 "DRW" "INV_MISC_QUESTIONMARK"
+#showtooltip Dancing Rune Weapon
+/use Jes' Howler
+/cast Blood Fury(Racial)
+/cast Dancing Rune Weapon
+END
+VER 3 0100000000000003 "Pillar of Frost" "INV_MISC_QUESTIONMARK"
+#showtooltip Pillar of Frost
+/cast Blood Fury(Racial)
+/use Jes' Howler
+/cast Pillar of Frost
+END

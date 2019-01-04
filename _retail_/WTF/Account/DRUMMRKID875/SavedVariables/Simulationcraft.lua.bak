@@ -1,0 +1,58 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Conforce - Illidan"] = "Conforce - Illidan",
+		["Moltun - Bladefist"] = "Moltun - Bladefist",
+		["Multage - Area 52"] = "Multage - Area 52",
+		["Testacules - Area 52"] = "Testacules - Area 52",
+		["Shesta - Area 52"] = "Shesta - Area 52",
+		["Shesta - Tichondrius"] = "Shesta - Tichondrius",
+		["Lotun - Area 52"] = "Lotun - Area 52",
+		["Vrill - Area 52"] = "Vrill - Area 52",
+		["Multen - Area 52"] = "Multen - Area 52",
+		["Mullton - Area 52"] = "Mullton - Area 52",
+		["Conforce - Area 52"] = "Conforce - Area 52",
+		["Xenatu - Bladefist"] = "Xenatu - Bladefist",
+		["Lotun - Bladefist"] = "Lotun - Bladefist",
+		["Vryn - Bladefist"] = "Vryn - Bladefist",
+	},
+	["profiles"] = {
+		["Conforce - Illidan"] = {
+		},
+		["Moltun - Bladefist"] = {
+		},
+		["Multage - Area 52"] = {
+		},
+		["Testacules - Area 52"] = {
+		},
+		["Shesta - Area 52"] = {
+		},
+		["Shesta - Tichondrius"] = {
+		},
+		["Lotun - Area 52"] = {
+		},
+		["Vrill - Area 52"] = {
+		},
+		["Multen - Area 52"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Mullton - Area 52"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Conforce - Area 52"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Xenatu - Bladefist"] = {
+		},
+		["Lotun - Bladefist"] = {
+		},
+		["Vryn - Bladefist"] = {
+		},
+	},
+}
