@@ -683,5 +683,71 @@ ElvCharacterDB = {
 			[51] = 1545079165,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [30]
+		{
+			"|cffffff00Lakeshire is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Redridge Mountains", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Redridge Mountains", -- [9]
+			0, -- [10]
+			3433, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1547494998,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [31]
+		{
+			"sorry abouit that....moved my BLINK button to the wrong key", -- [1]
+			"Nostromo-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nostromo-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3514, -- [11]
+			"Player-3661-080BD2E3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaNostromo-Hyjal|r",
+			[51] = 1547495402,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [32]
+		{
+			"all good, we lived lol", -- [1]
+			"Erolathe-Proudmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Erolathe-Proudmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3518, -- [11]
+			"Player-5-0B494560", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Erolathe-Proudmoore|r",
+			[51] = 1547495413,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [33]
 	},
 }

@@ -48,16 +48,16 @@ GottaGoFastDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["ObjectiveCompleteColor"] = "ffc31f3b",
-			["MobPoints"] = true,
 			["TimerFont"] = "ArchivoNarrow-Bold",
-			["DeathInObjectives"] = true,
 			["ObjectiveAlign"] = "RIGHT",
-			["ObjectiveFont"] = "ArchivoNarrow-Bold",
-			["TimerFontSize"] = 27,
+			["ObjectiveCompleteColor"] = "ffc31f3b",
+			["DeathInObjectives"] = true,
 			["Version"] = 30200,
-			["TimerAlign"] = "RIGHT",
+			["MobPoints"] = true,
 			["ObjectiveFontSize"] = 18,
+			["TimerAlign"] = "RIGHT",
+			["TimerFontSize"] = 27,
+			["ObjectiveFont"] = "ArchivoNarrow-Bold",
 		},
 	},
 }

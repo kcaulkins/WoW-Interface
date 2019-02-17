@@ -1,0 +1,9 @@
+VER 3 0100000000000002 "af" "INV_MISC_QUESTIONMARK"
+#showtooltip Angelic Feather
+/cast [@player] Angelic Feather
+/stopspelltarget
+END
+VER 3 0100000000000001 "PWS Self" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Power word: shield
+END

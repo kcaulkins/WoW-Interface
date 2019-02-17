@@ -1,0 +1,5 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="actionbars\load_tweaks.xml"/>
+	<Include file="unitframes\load_tweaks.xml"/>
+	<Include file="chat\load_tweaks.xml"/>
+</Ui>

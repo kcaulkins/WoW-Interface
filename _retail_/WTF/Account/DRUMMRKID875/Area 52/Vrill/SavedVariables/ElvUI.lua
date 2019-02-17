@@ -1,1646 +1,1646 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/raid is pyreness afk", -- [1]
-		"/cw Worrog-Zul'jin sry i bopped u meant to sac", -- [2]
-		"/cw Worrog-Zul'jin i bet haha", -- [3]
-		"/raid my highest roll today", -- [4]
-		"/raid ty", -- [5]
-		"/raid orbs don't spawn on melee anymore", -- [6]
-		"/raid yea they nerfed it a while ago", -- [7]
-		"/raid yea", -- [8]
-		"/raid and holy pally counts as melee, rip", -- [9]
-		"/g heroic", -- [10]
-		"/g yea idk how u can save them", -- [11]
-		"/g u mean the emissary?", -- [12]
-		"/g wtf is a paragon bos", -- [13]
-		"/g oh", -- [14]
-		"/g yea ik what you mean now", -- [15]
-		"/g the are re-enabling artifact knowledge", -- [16]
-		"/g so u need less to level", -- [17]
-		"/raid have the monk heal", -- [18]
-		"/logout", -- [19]
-		"/p Yo", -- [20]
+		"/p im 347 and the reward is 340", -- [1]
+		"/g why not just come on hunter...", -- [2]
+		"/g he's here", -- [3]
+		"/g gonna take a PISS", -- [4]
+		"/g with my weiner and balls", -- [5]
+		"/g yea", -- [6]
+		"/g lots of people quit this game ", -- [7]
+		"/g that too", -- [8]
+		"/p 5 underrot", -- [9]
+		"/p mage food plz", -- [10]
+		"/p it was reset while we were in herer", -- [11]
+		"/p r?", -- [12]
+		"/p k going", -- [13]
+		"/p wtf tam", -- [14]
+		"/p stop taking all the damage", -- [15]
+		"/roll", -- [16]
+		"/trade", -- [17]
+		"/p ty", -- [18]
+		"/2 90% chance i get my highest ilvl slot every week", -- [19]
+		"/logout", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"so pissed i broke my mouse last week i ordered a new one got delievered today but someone needed to be here to sign fucking fedx", -- [1]
-			"Áftershock-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3649, -- [11]
-			"Player-3676-09CF43CE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddÁftershock|r",
-			[51] = 1546463303,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"Interrumpido Terror ciclópeo's |cff71d5ff|Hspell:267427:0|h[Tormento]|h|r!", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
+			"2", -- [1]
+			"Ironhíde-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Ironhíde-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3651, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			761, -- [11]
+			"Player-3676-09DF937C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463307,
+			[52] = "|cffc41e3aIronhíde|r",
+			[51] = 1546905730,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [1]
+		{
+			"1", -- [1]
+			"Ironhíde-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Ironhíde-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			762, -- [11]
+			"Player-3676-09DF937C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aIronhíde|r",
+			[51] = 1546905731,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"Interrupted Cyclopean Terror's |cff71d5ff|Hspell:267427:0|h[Torment]|h|r!", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
-			"Orcish", -- [3]
+			"Kssh'ga za Phquathi", -- [1]
+			"Echovoid-Area52", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3652, -- [11]
-			"Player-162-09E87E57", -- [12]
+			765, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463309,
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905742,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"2", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-3676-0A233EE3:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3658, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			767, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463326,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [4]
 		{
-			"1", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-3676-0A233EE3:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3659, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			768, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463327,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [5]
 		{
-			"I am Grewt", -- [1]
-			"Grêwt-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-3676-0A233EE3:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3664, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			769, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463338,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [6]
 		{
-			"I am Grewt", -- [1]
-			"Grêwt-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-3676-0A2412E1:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Nuggits-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3665, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			770, -- [11]
+			"Player-3676-0A2412E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463338,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [7]
 		{
-			"I am Grewt", -- [1]
-			"Grêwt-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-3676-0A2412E1:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Nuggits-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3666, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			771, -- [11]
+			"Player-3676-0A2412E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463338,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [8]
 		{
-			"I am Grewt", -- [1]
-			"Grêwt-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-3676-0A2412E1:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Nuggits-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3667, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			772, -- [11]
+			"Player-3676-0A2412E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463338,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [9]
 		{
-			"Explosive Corruption on Ohbrezzy", -- [1]
-			"Ohbrezzy-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ohbrezzy-Dalaran", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3669, -- [11]
-			"Player-3683-0A96D0A5", -- [12]
+			773, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edOhbrezzy-Dalaran|r",
-			[51] = 1546463350,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [10]
 		{
-			"3", -- [1]
-			"Ohbrezzy-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ohbrezzy-Dalaran", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3670, -- [11]
-			"Player-3683-0A96D0A5", -- [12]
+			774, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edOhbrezzy-Dalaran|r",
-			[51] = 1546463351,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [11]
 		{
-			"2", -- [1]
-			"Ohbrezzy-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ohbrezzy-Dalaran", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3671, -- [11]
-			"Player-3683-0A96D0A5", -- [12]
+			775, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edOhbrezzy-Dalaran|r",
-			[51] = 1546463352,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [12]
 		{
-			"1", -- [1]
-			"Ohbrezzy-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:11183:Player-3676-0A2412E1:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Keystone Initiate]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ohbrezzy-Dalaran", -- [5]
+			"Nuggits-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3672, -- [11]
-			"Player-3683-0A96D0A5", -- [12]
+			787, -- [11]
+			"Player-3676-0A2412E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edOhbrezzy-Dalaran|r",
-			[51] = 1546463353,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [13]
 		{
-			"Explosive Corruption on Kelblade", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:11183:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Keystone Initiate]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3678, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			788, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463374,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905745,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [14]
 		{
-			"Explosive Corruption on Justpally", -- [1]
-			"Justpally-Azralon", -- [2]
-			"Orcish", -- [3]
+			"|cffa335ee|Hkeystone:158923:251:5:9:5:0:0|h[Keystone: The Underrot (5)]|h|r", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3679, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			799, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463375,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905757,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [15]
 		{
-			"Explosive Corruption on Glucokinase", -- [1]
-			"Glucokinase-Illidan", -- [2]
-			"Orcish", -- [3]
+			"uuuu 82% upgrade ", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3680, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			802, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463375,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905769,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [16]
 		{
-			"3", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"ty", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3681, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			804, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463376,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905773,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [17]
 		{
-			"3", -- [1]
-			"Justpally-Azralon", -- [2]
-			"Orcish", -- [3]
+			"afk 5 min", -- [1]
+			"Ironhíde-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"Ironhíde-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3682, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			806, -- [11]
+			"Player-3676-09DF937C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463376,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aIronhíde|r",
+			[51] = 1546905780,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [18]
 		{
-			"3", -- [1]
-			"Glucokinase-Illidan", -- [2]
-			"Orcish", -- [3]
+			"oh u gonna run it w us?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3683, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			807, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463376,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905791,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"2", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"is this the tank u know", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3684, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			808, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463377,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905801,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [20]
 		{
-			"2", -- [1]
-			"Justpally-Azralon", -- [2]
-			"Orcish", -- [3]
+			"yeah, i started to push keys w his grp", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3685, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			809, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463377,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905814,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [21]
 		{
-			"2", -- [1]
-			"Glucokinase-Illidan", -- [2]
-			"Orcish", -- [3]
+			"he doesnt know how to use bonestorm", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3686, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			810, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463377,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905840,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [22]
 		{
-			"1", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"he is very chill", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3687, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			811, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463378,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905842,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [23]
 		{
-			"1", -- [1]
-			"Justpally-Azralon", -- [2]
-			"Orcish", -- [3]
+			"lol", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3688, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			812, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463378,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905846,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [24]
 		{
-			"1", -- [1]
-			"Glucokinase-Illidan", -- [2]
-			"Orcish", -- [3]
+			"i ran w his monk tank mostly", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3689, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			819, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463378,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905884,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [25]
 		{
-			"do we need to reset or are healers good on mana?", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
+			"did a few runs when he was on his dk", -- [1]
+			"Echovoid-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3695, -- [11]
-			"Player-162-09E87E57", -- [12]
+			821, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463406,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905895,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [26]
 		{
-			"imgood", -- [1]
-			"Grêwt-Zul'jin", -- [2]
+			"thanks for the group guys", -- [1]
+			"Nuggits-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Nuggits-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3696, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			825, -- [11]
+			"Player-3676-0A2412E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463411,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546905919,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"Explosive Corruption on Worrog", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"do u want to do the 5?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3701, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			827, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463434,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905941,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [28]
 		{
-			"Explosive Corruption on Drogosh", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
-			"Orcish", -- [3]
+			"yea", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3702, -- [11]
-			"Player-162-09E87E57", -- [12]
+			828, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463435,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905945,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [29]
 		{
-			"Explosive Corruption on Piripe", -- [1]
-			"Piripe-Area52", -- [2]
-			"Orcish", -- [3]
+			"anyone would like to dps a +5 underrot?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Piripe-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3703, -- [11]
-			"Player-3676-09C2331B", -- [12]
+			833, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPiripe|r",
-			[51] = 1546463435,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905977,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [30]
 		{
-			"3", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"ill do the 5 then prolly be out", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3704, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			834, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463435,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546905982,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"3", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
-			"Orcish", -- [3]
+			"yeah my last too", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3705, -- [11]
-			"Player-162-09E87E57", -- [12]
+			835, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463436,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546905990,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"3", -- [1]
-			"Piripe-Area52", -- [2]
-			"Orcish", -- [3]
+			"np", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Piripe-Area52", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3706, -- [11]
-			"Player-3676-09C2331B", -- [12]
+			836, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPiripe|r",
-			[51] = 1546463436,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546905990,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"2", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
-			"Orcish", -- [3]
+			"im trying to see if my emissary reward would go up to 355", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3707, -- [11]
-			"Player-162-09E87E57", -- [12]
+			844, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463437,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906038,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"2", -- [1]
-			"Piripe-Area52", -- [2]
-			"Orcish", -- [3]
+			"do i have to be 340+ for that?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Piripe-Area52", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3708, -- [11]
-			"Player-3676-09C2331B", -- [12]
+			846, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPiripe|r",
-			[51] = 1546463437,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906044,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"Again, grew", -- [1]
-			"Glucokinase-Illidan", -- [2]
+			"idk", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3709, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			848, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463442,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906055,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"come", -- [1]
-			"Glucokinase-Illidan", -- [2]
+			"its wacky as fuck", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3710, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			851, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463444,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906058,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"Explosive Corruption on Worrog", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3711, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463450,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Explosive Corruption on Drogosh", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3712, -- [11]
-			"Player-162-09E87E57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463450,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"Explosive Corruption on Vrill", -- [1]
+			"im 347 and the reward is 340", -- [1]
 			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Vrill-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3714, -- [11]
-			"Player-3676-0A233EE3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463451,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"3", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3715, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463451,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"3", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3716, -- [11]
-			"Player-162-09E87E57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463451,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"3", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Vrill-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3717, -- [11]
-			"Player-3676-0A233EE3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463452,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"2", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3718, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463452,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"2", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3719, -- [11]
-			"Player-162-09E87E57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463452,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"2", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Vrill-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3720, -- [11]
-			"Player-3676-0A233EE3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463453,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"1", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3721, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463453,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"1", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Vrill-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3722, -- [11]
-			"Player-3676-0A233EE3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463454,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"Explosive Corruption on Worrog", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3723, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463466,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"3", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3724, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463467,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"2", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3725, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463468,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"1", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3726, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463469,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"Explosive Corruption on Kalantta", -- [1]
-			"Kalantta-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kalantta-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3729, -- [11]
-			"Player-3683-0B237AA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddKalantta-Dalaran|r",
-			[51] = 1546463482,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
-		{
-			"Corrupción explosiva en Ubuthi", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3730, -- [11]
-			"Player-1428-096B82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463483,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
-		{
-			"3", -- [1]
-			"Kalantta-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kalantta-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3731, -- [11]
-			"Player-3683-0B237AA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddKalantta-Dalaran|r",
-			[51] = 1546463483,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"3", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3732, -- [11]
-			"Player-1428-096B82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463484,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
-		{
-			"1", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3733, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463485,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
-		{
-			"2", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3734, -- [11]
-			"Player-1428-096B82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463485,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"1", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3735, -- [11]
-			"Player-1428-096B82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463486,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"Explosive Corruption on Worrog", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3736, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463497,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"3", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3738, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463499,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"3", -- [1]
-			"Grêwt-Zul'jin", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3740, -- [11]
-			"Player-61-0B52FFA6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463499,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"On my shitty laptop for the week....sucks for my skill shit", -- [1]
-			"Glucokinase-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3741, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			855, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463499,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906068,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [38]
+		{
+			"interesting", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Echovoid-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			859, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906082,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [39]
+		{
+			"ill come to that underot on my shaman", -- [1]
+			"Nuggits-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			862, -- [11]
+			"Player-3676-0A2412E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546906091,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [40]
+		{
+			"if you want", -- [1]
+			"Nuggits-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			863, -- [11]
+			"Player-3676-0A2412E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546906094,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [41]
+		{
+			"yea by the time it actually upgrades its usually obsolete", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bertelsen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			864, -- [11]
+			"Player-3676-09D98E10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906100,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [42]
+		{
+			"its up to beefie ^^", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			870, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906113,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [43]
+		{
+			"what is?", -- [1]
+			"Desecrathe-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			872, -- [11]
+			"Player-3676-0971A25B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDesecrathe|r",
+			[51] = 1546906121,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [44]
+		{
+			"if he wants to dps go ahead", -- [1]
+			"Desecrathe-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			876, -- [11]
+			"Player-3676-0971A25B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDesecrathe|r",
+			[51] = 1546906148,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [45]
+		{
+			"why not just come on hunter...", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			878, -- [11]
+			"Player-3676-0A233EE3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906160,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [46]
+		{
+			"oh chikkinz wants the mountt", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			879, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906162,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [47]
+		{
+			"with chicken you going to 3 chest it", -- [1]
+			"Desecrathe-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			885, -- [11]
+			"Player-3676-0971A25B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDesecrathe|r",
+			[51] = 1546906201,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [48]
+		{
+			"well if your dk needs a key done i dont have to go", -- [1]
+			"Chikkinz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			887, -- [11]
+			"Player-3676-0A1404EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1546906231,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [49]
+		{
+			"no im good", -- [1]
+			"Desecrathe-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			891, -- [11]
+			"Player-3676-0971A25B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDesecrathe|r",
+			[51] = 1546906252,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [50]
+		{
+			"bert wtf", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			894, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906268,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [51]
+		{
+			"u joined and left?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			895, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906271,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [52]
+		{
+			"it was accident", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			896, -- [11]
+			"Player-3676-09D98E10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906282,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [53]
+		{
+			"on disc?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			897, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906282,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [54]
+		{
+			"he's here", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			898, -- [11]
+			"Player-3676-0A233EE3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906282,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [55]
+		{
+			"is siege open , or do i still need to umlock it", -- [1]
+			"Desecrathe-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			899, -- [11]
+			"Player-3676-0971A25B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDesecrathe|r",
+			[51] = 1546906284,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [56]
+		{
+			"-.-", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			900, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906286,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [57]
+		{
+			"i wanted to look at council chat", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			901, -- [11]
+			"Player-3676-09D98E10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906288,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [58]
+		{
+			"its open", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			902, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906292,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [59]
+		{
+			"ty", -- [1]
+			"Desecrathe-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			903, -- [11]
+			"Player-3676-0971A25B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDesecrathe|r",
+			[51] = 1546906299,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [60]
+		{
+			"there are no restrictions for siege and kr", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			904, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906302,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [61]
+		{
+			"chikk, will inv u in a sec", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			905, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906321,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [62]
+		{
+			"tank is afk", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			906, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906324,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [63]
 		{
-			"2", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"gonna take a PISS", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3742, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			907, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463499,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906332,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [64]
 		{
-			"2", -- [1]
-			"Grêwt-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:974:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[50 Daily Quests Completed]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3743, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			908, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463500,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906337,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [65]
 		{
-			"1", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"pop a squat", -- [1]
+			"Desecrathe-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3744, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			909, -- [11]
+			"Player-3676-0971A25B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463501,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aDesecrathe|r",
+			[51] = 1546906339,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [66]
 		{
-			"1", -- [1]
-			"Grêwt-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"with my weiner and balls", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3745, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			910, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463501,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906347,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [67]
 		{
-			"Explosive Corruption on Worrog", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"lol no leaderboard is full on our server?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3746, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			911, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463513,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906409,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [68]
 		{
-			"Corrupción explosiva en Ubuthi", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
+			"is that real?", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3747, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			912, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463513,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906411,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [69]
 		{
-			"3", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"yea", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3748, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			913, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463514,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906458,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [70]
 		{
-			"2", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"lots of people quit this game ", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3749, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			914, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463515,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906464,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [71]
 		{
-			"1", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"ppl dont give a fuck ", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3750, -- [11]
-			"Player-61-0B6C8027", -- [12]
+			915, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463516,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906467,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [72]
 		{
-			"Blood Feast on Vrill", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"well its end of season 1 tho", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3752, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			917, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463520,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906475,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [73]
 		{
-			"{rt7} 3", -- [1]
+			"that too", -- [1]
 			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3756, -- [11]
+			918, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1648,233 +1648,233 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463527,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1546906483,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [74]
 		{
-			"{rt7} 2", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"wat this?", -- [1]
+			"Ironhíde-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Ironhíde-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3757, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			919, -- [11]
+			"Player-3676-09DF937C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463528,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aIronhíde|r",
+			[51] = 1546906497,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [75]
 		{
-			"{rt7} 1", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"5 underrot", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3758, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			920, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463529,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906502,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [76]
 		{
-			"Explosive Corruption on Zapheer", -- [1]
-			"Zapheer-Azralon", -- [2]
-			"Orcish", -- [3]
+			"5 underrot", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zapheer-Azralon", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3759, -- [11]
-			"Player-3209-0A025ACF", -- [12]
+			921, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Zapheer-Azralon|r",
-			[51] = 1546463530,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906503,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [77]
 		{
-			"3", -- [1]
-			"Zapheer-Azralon", -- [2]
-			"Orcish", -- [3]
+			"ah", -- [1]
+			"Ironhíde-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zapheer-Azralon", -- [5]
+			"Ironhíde-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3760, -- [11]
-			"Player-3209-0A025ACF", -- [12]
+			922, -- [11]
+			"Player-3676-09DF937C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Zapheer-Azralon|r",
-			[51] = 1546463531,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aIronhíde|r",
+			[51] = 1546906506,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [78]
 		{
-			"2", -- [1]
-			"Zapheer-Azralon", -- [2]
-			"Orcish", -- [3]
+			"we r dpne after this :)", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zapheer-Azralon", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3761, -- [11]
-			"Player-3209-0A025ACF", -- [12]
+			925, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Zapheer-Azralon|r",
-			[51] = 1546463532,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906524,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [79]
 		{
-			"1", -- [1]
-			"Zapheer-Azralon", -- [2]
-			"Orcish", -- [3]
+			"mage food plz", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zapheer-Azralon", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3762, -- [11]
-			"Player-3209-0A025ACF", -- [12]
+			927, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Zapheer-Azralon|r",
-			[51] = 1546463533,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906557,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"Explosive Corruption on Kelblade", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"so needy", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3763, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			928, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463545,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906564,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"Explosive Corruption on Vrill", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"umm", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3765, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			933, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463545,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906573,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"3", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"wherre r u guys>", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3766, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			934, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463546,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906576,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"3", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"in the instance", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3767, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			935, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463546,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906581,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"2", -- [1]
+			"it was reset while we were in herer", -- [1]
 			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Vrill-Area52", -- [5]
 			"", -- [6]
@@ -1882,7 +1882,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3768, -- [11]
+			936, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1890,13 +1890,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463547,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1546906583,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"1", -- [1]
+			"r?", -- [1]
 			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Vrill-Area52", -- [5]
 			"", -- [6]
@@ -1904,7 +1904,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3769, -- [11]
+			942, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1912,101 +1912,101 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463548,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1546906627,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"Explosive Corruption on Kelblade", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"always", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3773, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			943, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463561,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906634,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [87]
 		{
-			"3", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"not sure", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3774, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			944, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463562,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906636,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"Explosive Corruption on Vrill", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			" /afk", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3776, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			945, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463562,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546906637,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"2", -- [1]
-			"Kelblade-Zul'jin", -- [2]
-			"Orcish", -- [3]
+			"k going", -- [1]
+			"Vrill-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kelblade-Zul'jin", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3777, -- [11]
-			"Player-61-0B8343EF", -- [12]
+			946, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Kelblade-Zul'jin|r",
-			[51] = 1546463563,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546906644,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"3", -- [1]
+			"wtf tam", -- [1]
 			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Vrill-Area52", -- [5]
 			"", -- [6]
@@ -2014,7 +2014,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3778, -- [11]
+			954, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2022,35 +2022,35 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463563,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1546906705,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"2", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"what? :P", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3779, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			956, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463564,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906712,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"1", -- [1]
+			"stop taking all the damage", -- [1]
 			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Vrill-Area52", -- [5]
 			"", -- [6]
@@ -2058,7 +2058,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3780, -- [11]
+			957, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2066,11 +2066,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463565,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1546906713,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"Explosive Corruption on Vrill", -- [1]
+			"ill keep u busy", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Echovoid-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			959, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906755,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [94]
+		{
+			"Dark Omen on Vrill", -- [1]
 			"Vrill-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2080,7 +2102,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3790, -- [11]
+			962, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2088,693 +2110,671 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463577,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
-		{
-			"Corrupción explosiva en Ubuthi", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3791, -- [11]
-			"Player-1428-096B82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463577,
+			[51] = 1546906765,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"3", -- [1]
-			"Vrill-Area52", -- [2]
-			"Orcish", -- [3]
+			"hahahaha", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3792, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			985, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463578,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906874,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"3", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
+			"i could not see", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3793, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			986, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463578,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546906892,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"2", -- [1]
-			"Vrill-Area52", -- [2]
+			"Upheaval on Chikkinz", -- [1]
+			"Chikkinz-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Chikkinz-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3794, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			1033, -- [11]
+			"Player-3676-0A1404EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463579,
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1546907370,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"2", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
+			"3", -- [1]
+			"Chikkinz-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Chikkinz-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3795, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			1035, -- [11]
+			"Player-3676-0A1404EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463579,
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1546907373,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 		{
-			"brezztank", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Chikkinz-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Chikkinz-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3796, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			1038, -- [11]
+			"Player-3676-0A1404EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463580,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1546907374,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [100]
 		{
 			"1", -- [1]
-			"Vrill-Area52", -- [2]
+			"Chikkinz-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Vrill-Area52", -- [5]
+			"Chikkinz-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3797, -- [11]
-			"Player-3676-0A233EE3", -- [12]
+			1039, -- [11]
+			"Player-3676-0A1404EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546463580,
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1546907375,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"1", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
+			"Upheaval on Bertelsen", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3798, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			1042, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463580,
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907394,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [102]
 		{
-			"cant", -- [1]
-			"Ohbrezzy-Dalaran", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ohbrezzy-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3801, -- [11]
-			"Player-3683-0A96D0A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edOhbrezzy-Dalaran|r",
-			[51] = 1546463583,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
-		{
-			"man its like polar cold outside but i need sirracha sauce", -- [1]
-			"Greyfrog-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3802, -- [11]
-			"Player-3676-0920A3DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Greyfrog|r",
-			[51] = 1546463586,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
-		{
-			"runners are taking too long", -- [1]
-			"Worrog-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Worrog-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3803, -- [11]
-			"Player-61-0B6C8027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWorrog-Zul'jin|r",
-			[51] = 1546463587,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
-		{
-			"what to do", -- [1]
-			"Greyfrog-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3804, -- [11]
-			"Player-3676-0920A3DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Greyfrog|r",
-			[51] = 1546463588,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
-		{
-			"Hold rezzes for anyone but runners and tanks/heals", -- [1]
-			"Deathvendir-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Deathvendir-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3806, -- [11]
-			"Player-61-0A9017FD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aDeathvendir-Zul'jin|r",
-			[51] = 1546463593,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [107]
-		{
-			"Explosive Corruption on Justpally", -- [1]
-			"Justpally-Azralon", -- [2]
+			"3", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3811, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			1044, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463595,
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907397,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [103]
+		{
+			"2", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bertelsen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1046, -- [11]
+			"Player-3676-09D98E10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907398,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [104]
+		{
+			"1", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bertelsen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1048, -- [11]
+			"Player-3676-09D98E10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907399,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"Phquathi za Phquathi", -- [1]
+			"Echovoid-Area52", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Echovoid-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1050, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907415,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [106]
+		{
+			"Upheaval on Bertelsen", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bertelsen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1051, -- [11]
+			"Player-3676-09D98E10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907415,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [107]
+		{
+			"I", -- [1]
+			"Echovoid-Area52", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Echovoid-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1052, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907418,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [108]
 		{
-			"Corrupción explosiva en Ubuthi", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
+			"I", -- [1]
+			"Echovoid-Area52", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3812, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			1053, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463595,
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907419,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [109]
 		{
-			"3", -- [1]
-			"Justpally-Azralon", -- [2]
-			"Orcish", -- [3]
+			"I", -- [1]
+			"Echovoid-Area52", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3813, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			1054, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463596,
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907420,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"3", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
+			"invis ftw", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3814, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			1066, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463596,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907545,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [111]
 		{
-			"2", -- [1]
-			"Justpally-Azralon", -- [2]
+			"Cleansing Light on Vrill", -- [1]
+			"Vrill-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3815, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			1072, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463597,
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546907606,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [112]
 		{
-			"2", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
+			"Cleansing Light on Vrill", -- [1]
+			"Vrill-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3816, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			1080, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463597,
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546907636,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [113]
 		{
-			"1", -- [1]
-			"Justpally-Azralon", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12500:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Underrot]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Justpally-Azralon", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3817, -- [11]
-			"Player-3209-08DFB5C3", -- [12]
+			1092, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJustpally-Azralon|r",
-			[51] = 1546463598,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907692,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [114]
 		{
-			"1", -- [1]
-			"Ubuthi-Quel'Thalas", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12501:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underrot]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ubuthi-Quel'Thalas", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3818, -- [11]
-			"Player-1428-096B82C1", -- [12]
+			1093, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Ubuthi-Quel'Thalas|r",
-			[51] = 1546463598,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907692,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [115]
 		{
-			"my bad", -- [1]
-			"Seaja-Mal'Ganis", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12502:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Underrot]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Seaja-Mal'Ganis", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3819, -- [11]
-			"Player-3684-096193BC", -- [12]
+			1094, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Seaja-Mal'Ganis|r",
-			[51] = 1546463598,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907692,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [116]
 		{
-			"if a dps dies and isn't a runner let em sit there", -- [1]
-			"Deathvendir-Zul'jin", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11184:Player-3676-0A275183:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Keystone Challenger]|h|r!", -- [1]
+			"Echovoid-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Deathvendir-Zul'jin", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3822, -- [11]
-			"Player-61-0A9017FD", -- [12]
+			1097, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDeathvendir-Zul'jin|r",
-			[51] = 1546463602,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907692,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [117]
 		{
-			"throw", -- [1]
-			"Drogosh-EmeraldDream", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11184:Player-3676-0A233EE3:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Keystone Challenger]|h|r!", -- [1]
+			"Vrill-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drogosh-EmeraldDream", -- [5]
+			"Vrill-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3823, -- [11]
-			"Player-162-09E87E57", -- [12]
+			1098, -- [11]
+			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Drogosh-EmeraldDream|r",
-			[51] = 1546463602,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfff48cbaVrill|r",
+			[51] = 1546907692,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [118]
 		{
-			"Grewt is going to come with me both times. ", -- [1]
-			"Glucokinase-Illidan", -- [2]
+			"ok", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Glucokinase-Illidan", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3824, -- [11]
-			"Player-57-0B2EF0EB", -- [12]
+			1105, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGlucokinase-Illidan|r",
-			[51] = 1546463603,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907711,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [119]
 		{
-			"Come to Florida where it's 82 degrees F", -- [1]
-			"Pickleblades-Area52", -- [2]
+			"fight to the death", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3825, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			1110, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546463603,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907716,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [120]
 		{
-			"ye ill gelp", -- [1]
-			"Grêwt-Zul'jin", -- [2]
+			"for the ring", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3827, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			1111, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463610,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907717,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [121]
 		{
-			"help", -- [1]
-			"Grêwt-Zul'jin", -- [2]
+			"lol", -- [1]
+			"Echovoid-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Grêwt-Zul'jin", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3829, -- [11]
-			"Player-61-0B52FFA6", -- [12]
+			1113, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aGrêwt-Zul'jin|r",
-			[51] = 1546463612,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907722,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [122]
 		{
-			"postmates", -- [1]
-			"Lold-Area52", -- [2]
+			"...", -- [1]
+			"Echovoid-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Echovoid-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3831, -- [11]
-			"Player-3676-09F74822", -- [12]
+			1115, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546463617,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1546907729,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [123]
 		{
-			"whats up guys", -- [1]
-			"Deathfrost-Nazgrel", -- [2]
+			"thanks guys, take care", -- [1]
+			"Chikkinz-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Deathfrost-Nazgrel", -- [5]
+			"Chikkinz-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1820, -- [11]
-			"Player-1184-0B213E77", -- [12]
+			1119, -- [11]
+			"Player-3676-0A1404EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaDeathfrost-Nazgrel|r",
-			[51] = 1546553301,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1546907743,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [124]
 		{
-			"hi guys ", -- [1]
-			"Psycoblade-Zul'jin", -- [2]
+			"lata", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Psycoblade-Zul'jin", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1826, -- [11]
-			"Player-61-09BFE45D", -- [12]
+			1120, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Psycoblade-Zul'jin|r",
-			[51] = 1546553309,
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1546907747,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [125]
 		{
-			"Yo", -- [1]
+			"ty", -- [1]
 			"Vrill-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2784,7 +2784,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1827, -- [11]
+			1122, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2792,30 +2792,30 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546553310,
+			[51] = 1546907748,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [126]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12546:Player-3676-0A233EE3:1:1:3:19:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!", -- [1]
+			"90% chance i get my highest ilvl slot every week", -- [1]
 			"Vrill-Area52", -- [2]
 			"", -- [3]
-			"", -- [4]
+			"2. Trade - City", -- [4]
 			"Vrill-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			2030, -- [11]
+			125, -- [11]
 			"Player-3676-0A233EE3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
+			true, -- [17]
 			[52] = "|cfff48cbaVrill|r",
-			[51] = 1546553831,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1546960362,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

@@ -1,624 +1,1050 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Sylledriel-Mal'Ganis damn you're owning", -- [1]
-		"/cw Fazzak good job on the mutated mass", -- [2]
-		"/cw Sylledriel-Mal'Ganis yea that's what im looking at", -- [3]
-		"/cw Raytotems man the nerf to will or necro really makes this fight harder", -- [4]
-		"/cw Raytotems-Area52 it's blocking 1/2 as much damage as when we killed this the 1st time", -- [5]
-		"/cw Hawtz-Area52 yep", -- [6]
-		"/raid Jesus", -- [7]
-		"/raid That thrash hit me for 260k", -- [8]
-		"/raid 360k*", -- [9]
-		"/raid ya", -- [10]
-		"/raid thanks for nerfing dk's blizz", -- [11]
-		"/raid really", -- [12]
-		"/s check flasks", -- [13]
-		"/cw Chikkinz what toy is that", -- [14]
-		"/cw Limelife would you be open to switching jobs", -- [15]
-		"/cw Limelife im curious to see if you can deal with thrash better", -- [16]
-		"/cw Limelife well i got 1 shot", -- [17]
-		"/raid i just wanna be like a dh and blade dance", -- [18]
-		"/g If you need a 10 done let me know", -- [19]
-		"/g I'll help ya", -- [20]
+		" no we 1shot heroic", -- [1]
+		" still haven't killed jaina heroic", -- [2]
+		" people get hit by icefall", -- [3]
+		" every time", -- [4]
+		" like 10 people", -- [5]
+		" as soon as we go into p3", -- [6]
+		" yea", -- [7]
+		" guild is soooo bad", -- [8]
+		" yea kinda", -- [9]
+		" sometimes she just wants to stay and cast", -- [10]
+		" o", -- [11]
+		" mythic plate mog?", -- [12]
+		" damn im jelly", -- [13]
+		" yea it looks sick af", -- [14]
+		" it looks fucking awesome", -- [15]
+		" oh really lol", -- [16]
+		"/1 how did you get a 2 letter name", -- [17]
+		"/cw Trikkster can i come on priest tomorrow", -- [18]
+		"/cw Trikkster sweet", -- [19]
+		"/cw Trikkster im gonna do eft quest rq if you want to come", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r interrupted!", -- [1]
+			"Imaberroo-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Imaberroo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8169, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2628, -- [11]
+			"Player-3676-0A046B23", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572307,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddImaberroo|r",
+			[51] = 1550028164,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [1]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Bártho-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8170, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2630, -- [11]
+			"Player-3676-0A288633", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572312,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028179,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [2]
 		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
+			"Darkness activated. Don't move out of the black stuff.", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Pickleblades-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8171, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2631, -- [11]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572313,
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1550028181,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"Malodorous Miasma on Brewphoria", -- [1]
-			"Brewphoria-Dalaran", -- [2]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8172, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2632, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572316,
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1550028186,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Malodorous Miasma on Pickleblades", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r interrupted!", -- [1]
+			"Imaberroo-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"Imaberroo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8173, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			2633, -- [11]
+			"Player-3676-0A046B23", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572318,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddImaberroo|r",
+			[51] = 1550028196,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [5]
 		{
-			"Malodorous Miasma on Lold", -- [1]
-			"Lold-Area52", -- [2]
+			"Bestial Throw on Imaberroo", -- [1]
+			"Imaberroo-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"Imaberroo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8175, -- [11]
-			"Player-3676-09F74822", -- [12]
+			2634, -- [11]
+			"Player-3676-0A046B23", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572329,
+			[52] = "|cff0070ddImaberroo|r",
+			[51] = 1550028200,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Bártho-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8176, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2636, -- [11]
+			"Player-3676-0A288633", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572331,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028211,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [7]
 		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"i got some insane pieces today already", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8177, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2638, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572332,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028220,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [8]
 		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"my bad", -- [1]
+			"Yurihime-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Yurihime-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8178, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2639, -- [11]
+			"Player-3676-0A2A3490", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572333,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Yurihime|r",
+			[51] = 1550028228,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [9]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"|Hitem:165555::::::::120:252::6:4:4824:1537:4786:5421:::|h[Spaulders of the Gorilla King]|h", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8179, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2640, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572333,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028228,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [10]
 		{
-			"Putrid Paroxysm on Brewphoria", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"|Hitem:165586:3368:::::::120:250::6:3:4800:1537:4786:::|h[Dawnbreaker]|h", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8180, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2641, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572334,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028229,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [11]
 		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"feared", -- [1]
+			"Yurihime-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"Yurihime-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8181, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			2642, -- [11]
+			"Player-3676-0A2A3490", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572334,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Yurihime|r",
+			[51] = 1550028230,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [12]
 		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"zz", -- [1]
+			"Yurihime-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"Yurihime-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8183, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			2643, -- [11]
+			"Player-3676-0A2A3490", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572335,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Yurihime|r",
+			[51] = 1550028230,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [13]
 		{
-			"Putrid Paroxysm on Pickleblades", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"|Hitem:165558::::::::120:252::5:3:4799:1547:4784:::|h[Roka's Bonecrushing Manacles]|h", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8184, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2644, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572336,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028231,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [14]
 		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"|Hitem:165574::::::::120:252::5:3:4799:1537:4784:::|h[Grong's Primal Rage]|h", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8186, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2645, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572339,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028232,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [15]
 		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"holy shit sick", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8187, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2646, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572340,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028238,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [16]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"grong is huge", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8188, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2649, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572340,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028246,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [17]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"manacles not an up cause i have socket on old", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8189, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2651, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572341,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028251,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [18]
 		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"we are 6 healing", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8190, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			2652, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572341,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1550028254,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [19]
 		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"yea big monkey", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8191, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2653, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572342,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028254,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [20]
 		{
-			"3", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"and shoulders like .001 % upgrade", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8192, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
+			2657, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572344,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028258,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [21]
 		{
-			"Malodorous Miasma on Pickleblades", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"how the fuck are people dying", -- [1]
+			"Bertelsen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8193, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			2658, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572344,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1550028260,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [22]
 		{
-			"2", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"|Hitem:165920::::::::120:252::6:3:4800:1537:4786:::|h[Apetagonizer's Claw]|h also", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8194, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
+			2659, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572345,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028260,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [23]
 		{
-			"Malodorous Miasma on Beefiie", -- [1]
-			"Beefiie-Area52", -- [2]
-			"Orcish", -- [3]
+			"oh y u goin frost", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Beefiie-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8195, -- [11]
-			"Player-3676-095230AA", -- [12]
-			0, -- [13]
+			2662, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aBeefiie|r",
-			[51] = 1546572368,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028272,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [24]
 		{
-			"Malodorous Miasma on Hellyfïsh", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
+			"im not", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8196, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
+			2664, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572373,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028276,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [25]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"well kinda", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8198, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2665, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572386,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028278,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [26]
 		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"o", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8199, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2666, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572387,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028280,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [27]
 		{
-			"Malodorous Miasma fading in 1", -- [1]
+			"i swap back n forth depending on boss", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2667, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028282,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [28]
+		{
+			"gotcha", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2671, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028288,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [29]
+		{
+			"some bosses have way shitty uptime patterns for frost, like mekkatorque", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2677, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028297,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [30]
+		{
+			"what boss u progging on", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2678, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028297,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [31]
+		{
+			"every breath something ruins breath", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2680, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028302,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [32]
+		{
+			"we on blockade", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2683, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028308,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [33]
+		{
+			"nice", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2684, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028313,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [34]
+		{
+			"im on grong :)", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2687, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028317,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [35]
+		{
+			"monky :)", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2691, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028324,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [36]
+		{
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Trikkster-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trikkster-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2693, -- [11]
+			"Player-3676-0962C631", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTrikkster|r",
+			[51] = 1550028326,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [37]
+		{
+			"im ", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2696, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028339,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [38]
+		{
+			"switching mains", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2697, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028341,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [39]
+		{
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bártho-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2699, -- [11]
+			"Player-3676-0A288633", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028342,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [40]
+		{
+			"real?", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2700, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028348,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [41]
+		{
+			"yea", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2701, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028354,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [42]
+		{
+			"fuck tanking", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2702, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028355,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [43]
+		{
+			"|cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r interrupted!", -- [1]
+			"Imaberroo-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Imaberroo-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2703, -- [11]
+			"Player-3676-0A046B23", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddImaberroo|r",
+			[51] = 1550028359,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [44]
+		{
+			"going to go", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2706, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028370,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [45]
+		{
+			"Darkness activated. Don't move out of the black stuff.", -- [1]
 			"Pickleblades-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -628,7 +1054,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8200, -- [11]
+			2707, -- [11]
 			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -636,1969 +1062,1261 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572388,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Putrid Paroxysm on Chikkinz", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8201, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572388,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"2", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8202, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572389,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"1", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8203, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572390,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"3", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8204, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572390,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8205, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572391,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Putrid Paroxysm on Hellyfïsh", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8206, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572391,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"2", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8207, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572392,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8208, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572392,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"1", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8209, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572393,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8210, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572393,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Putrid Paroxysm on Lold", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8211, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572393,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"3", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8212, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572394,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"2", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8213, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572395,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"1", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8214, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572396,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Malodorous Miasma on Fazzak", -- [1]
-			"Fazzak-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fazzak-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8215, -- [11]
-			"Player-3676-0A2422A7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFazzak|r",
-			[51] = 1546572400,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Varkiss-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8217, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572401,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Varkiss-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8218, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572402,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Varkiss-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8219, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572403,
+			[51] = 1550028371,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"Putrid Paroxysm on Varkiss", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
+			"spriest", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Varkiss-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8220, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
+			2708, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572404,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028372,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [47]
 		{
-			"Malodorous Miasma on Pickleblades", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"Bártho-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8221, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			2709, -- [11]
+			"Player-3676-0A288633", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572405,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028375,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [48]
 		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Varkiss-Area52", -- [2]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Varkiss-Area52", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8222, -- [11]
-			"Player-3676-09D2AD96", -- [12]
+			2711, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572407,
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1550028380,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
+			"fotm baby", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Varkiss-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8223, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
+			2712, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572408,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028381,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [50]
 		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
+			"spriest is sicko mode", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Varkiss-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8224, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
+			2713, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572409,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028382,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [51]
 		{
-			"Malodorous Miasma on Varkiss", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
+			"i know", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Varkiss-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8226, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
+			2714, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572411,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028388,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [52]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r interrupted!", -- [1]
+			"Imaberroo-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Chikkinz-Area52", -- [5]
+			"Imaberroo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8227, -- [11]
-			"Player-3676-0A1404EE", -- [12]
+			2715, -- [11]
+			"Player-3676-0A046B23", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572413,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddImaberroo|r",
+			[51] = 1550028389,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [53]
 		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
+			"i leveled one", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Chikkinz-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8228, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
+			2718, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572414,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028396,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [54]
 		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
+			"got to 120 on friday", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Chikkinz-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8229, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
+			2721, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572415,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028399,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [55]
 		{
-			"Putrid Paroxysm on Chikkinz", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
+			"already 390", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Chikkinz-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8230, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
+			2722, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572416,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028401,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [56]
 		{
-			"3", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
+			"Bártho-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8231, -- [11]
-			"Player-3676-09A4A027", -- [12]
+			2724, -- [11]
+			"Player-3676-0A288633", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572416,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028404,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [57]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"ya its kinda retarded how fast you can gear", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8232, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2725, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572417,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028424,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [58]
 		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"havent even", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8233, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2727, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572418,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028433,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [59]
 		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
+			"done heroic", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Chikkinz-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8234, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
+			2728, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572419,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028435,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [60]
 		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"on it", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8235, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2730, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572419,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028438,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [61]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
+			"the ilvl drops from +10 feels really disproportionate to how high it was last tier", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Chikkinz-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8236, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
+			2731, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572420,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028438,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [62]
 		{
-			"Putrid Paroxysm on Brewphoria", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"but its no different", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8237, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2732, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572420,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028441,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [63]
 		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"just still 15 ilvl behind mythic level", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8238, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2735, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572423,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028446,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [64]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Trikkster-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Trikkster-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8239, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2736, -- [11]
+			"Player-3676-0962C631", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572424,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aTrikkster|r",
+			[51] = 1550028451,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [65]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
+			"Bestial Throw Target on Hamaliel", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Hamaliel-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8243, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2737, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572453,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1550028453,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
+			"3", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Hamaliel-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8244, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2738, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572454,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1550028456,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
+			"2", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Hamaliel-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8245, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2740, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572455,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1550028457,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
+			"1", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Hamaliel-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8246, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2741, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572459,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1550028458,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Bártho-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8247, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2743, -- [11]
+			"Player-3676-0A288633", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572460,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028467,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [70]
 		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bertelsen-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"Bertelsen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8248, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
+			2744, -- [11]
+			"Player-3676-09D98E10", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572461,
+			[52] = "|cff3fc6eaBertelsen|r",
+			[51] = 1550028474,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Varkiss-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8250, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572470,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
-		{
-			"3", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8251, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572471,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Varkiss-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8252, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572471,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"2", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8253, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572472,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
-		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Varkiss-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Varkiss-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8254, -- [11]
-			"Player-3676-09D2AD96", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaVarkiss|r",
-			[51] = 1546572472,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
-		{
-			"1", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8255, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572473,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8256, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572473,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8258, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572474,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8260, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572475,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"Putrid Paroxysm on Chikkinz", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8261, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572476,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
-		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8262, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572479,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
-		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8263, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572480,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
-		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Chikkinz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chikkinz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8264, -- [11]
-			"Player-3676-0A1404EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572481,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
-		{
-			"Malodorous Miasma on Lold", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lold-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8266, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572488,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
-		{
-			"againt this DH", -- [1]
-			"Beefiie-Area52", -- [2]
+			"i need a new guild man", -- [1]
+			"|Kq28|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Beefiie-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8267, -- [11]
-			"Player-3676-095230AA", -- [12]
-			0, -- [13]
+			2747, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aBeefiie|r",
-			[51] = 1546572499,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028482,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [72]
+		{
+			"i can't wipe on grong for 3 hours", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2748, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028488,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [73]
+		{
+			"grong hero?", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2749, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028494,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [74]
+		{
+			"or wait", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2750, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028496,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [75]
+		{
+			"what", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2751, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028497,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [76]
+		{
+			"mythic", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2752, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028498,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [77]
+		{
+			"ok at least its mythic", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2753, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028502,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [78]
+		{
+			"LOL", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2754, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028503,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [79]
+		{
+			"lmao", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2755, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028506,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [80]
+		{
+			"no we 1shot heroic", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2757, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028511,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [81]
+		{
+			"still haven't killed jaina heroic", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2758, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028531,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [82]
+		{
+			"people get hit by icefall", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2759, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028536,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [83]
+		{
+			"every time", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2760, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028537,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [84]
+		{
+			"like 10 people", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2762, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028538,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [85]
+		{
+			"icefall is ez to dodge thats weird", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2763, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028544,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [86]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"as soon as we go into p3", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8268, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2764, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572501,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028544,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [87]
 		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"yea", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8269, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2765, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572502,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028548,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [88]
 		{
-			"Malodorous Miasma on Brewphoria", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"especially since tanks usually drag boss away from the line", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8270, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2766, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572503,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028550,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [89]
 		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"guild is soooo bad", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8271, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2767, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572503,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028550,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [90]
 		{
-			"3", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"just chase boss and ur safe", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8272, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
+			2768, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572503,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028554,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [91]
 		{
-			"Putrid Paroxysm on Pickleblades", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"yea kinda", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8273, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2769, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572504,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028558,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [92]
 		{
-			"2", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"sometimes she just wants to stay and cast", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8274, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
+			2770, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572504,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028563,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [93]
 		{
-			"1", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"they hotfixed her recently", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8275, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
+			2771, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572506,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028570,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [94]
 		{
-			"Putrid Paroxysm on Lold", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"to run while casting", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8276, -- [11]
-			"Player-3676-09F74822", -- [12]
-			0, -- [13]
+			2772, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572506,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028572,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [95]
 		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"if its ice shard at least", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8278, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2773, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572507,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028578,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [96]
 		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"o", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8279, -- [11]
-			"Player-3676-09D7A725", -- [12]
-			0, -- [13]
+			2774, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572508,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028585,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [97]
 		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Pickleblades-Area52", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Trikkster-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pickleblades-Area52", -- [5]
+			"Trikkster-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8280, -- [11]
-			"Player-3676-09D7A725", -- [12]
+			2780, -- [11]
+			"Player-3676-0962C631", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Pickleblades|r",
-			[51] = 1546572509,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aTrikkster|r",
+			[51] = 1550028598,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [98]
 		{
-			"3", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"Bártho-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8281, -- [11]
-			"Player-3676-09F74822", -- [12]
+			2784, -- [11]
+			"Player-3676-0A288633", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572509,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028614,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [99]
 		{
-			"2", -- [1]
-			"Lold-Area52", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r interrupted!", -- [1]
+			"Imaberroo-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"Imaberroo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8282, -- [11]
-			"Player-3676-09F74822", -- [12]
+			2786, -- [11]
+			"Player-3676-0A046B23", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572510,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddImaberroo|r",
+			[51] = 1550028631,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [100]
 		{
-			"1", -- [1]
-			"Lold-Area52", -- [2]
+			"Bestial Throw Target on Chikkinz", -- [1]
+			"Chikkinz-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Lold-Area52", -- [5]
+			"Chikkinz-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8283, -- [11]
-			"Player-3676-09F74822", -- [12]
+			2788, -- [11]
+			"Player-3676-0A1404EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Lold|r",
-			[51] = 1546572511,
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1550028633,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Bertelsen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Bertelsen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8284, -- [11]
-			"Player-3676-09D98E10", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBertelsen|r",
-			[51] = 1546572515,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
-		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Tamarien-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tamarien-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8285, -- [11]
-			"Player-3676-09F0597C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Tamarien|r",
-			[51] = 1546572517,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
-		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Tamarien-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tamarien-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8287, -- [11]
-			"Player-3676-09F0597C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Tamarien|r",
-			[51] = 1546572518,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
-		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8288, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572518,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
-		{
-			"Malodorous Miasma fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8289, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572519,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
-		{
-			"Malodorous Miasma fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8290, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572520,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
-		{
-			"Putrid Paroxysm on Brewphoria", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8291, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572521,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
-		{
-			"Malodorous Miasma on Limelife", -- [1]
-			"Limelife-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Limelife-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8292, -- [11]
-			"Player-3676-098A9147", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaLimelife|r",
-			[51] = 1546572523,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
-		{
-			"Malodorous Miasma on Tamarien", -- [1]
-			"Tamarien-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tamarien-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8293, -- [11]
-			"Player-3676-09F0597C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Tamarien|r",
-			[51] = 1546572523,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
-		{
-			"Putrid Paroxysm fading in 3", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8294, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572524,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
-		{
-			"Malodorous Miasma on Bertelsen", -- [1]
-			"Bertelsen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Bertelsen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8295, -- [11]
-			"Player-3676-09D98E10", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBertelsen|r",
-			[51] = 1546572525,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
-		{
-			"Putrid Paroxysm fading in 2", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8296, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572525,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
-		{
-			"Malodorous Miasma on Hawtz", -- [1]
-			"Hawtz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hawtz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8297, -- [11]
-			"Player-3676-0A1F4149", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aHawtz|r",
-			[51] = 1546572525,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
-		{
-			"Putrid Paroxysm fading in 1", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8298, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572526,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
-		{
 			"3", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8299, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572529,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
-		{
-			"Malodorous Miasma on Dwyn", -- [1]
-			"Dwyn-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dwyn-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8300, -- [11]
-			"Player-3676-09450419", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaDwyn|r",
-			[51] = 1546572531,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
-		{
-			"Malodorous Miasma on Chikkinz", -- [1]
 			"Chikkinz-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2608,7 +2326,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8301, -- [11]
+			2789, -- [11]
 			"Player-3676-0A1404EE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2616,121 +2334,488 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddChikkinz|r",
-			[51] = 1546572531,
+			[51] = 1550028636,
 			[50] = "CHAT_MSG_SAY",
+		}, -- [102]
+		{
+			"Darkness activated. Don't move out of the black stuff.", -- [1]
+			"Pickleblades-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Pickleblades-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2790, -- [11]
+			"Player-3676-09D7A725", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1550028644,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [103]
+		{
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bártho-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2793, -- [11]
+			"Player-3676-0A288633", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028647,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [104]
+		{
+			"im only missing legs for the plate mog", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2794, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028654,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [105]
+		{
+			"oh and chest", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2795, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028657,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [106]
+		{
+			"Bestial Throw on Quicklikeme", -- [1]
+			"Quicklikeme-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Quicklikeme-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2797, -- [11]
+			"Player-3676-0A2D326D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Quicklikeme|r",
+			[51] = 1550028664,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [107]
+		{
+			"mythic plate mog?", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2798, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028665,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [108]
+		{
+			"Interrupted Apetagonizer 3000's |cff71d5ff|Hspell:282243:0|h[Apetagonize]|h|r!", -- [1]
+			"Bártho-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bártho-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2800, -- [11]
+			"Player-3676-0A288633", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBártho|r",
+			[51] = 1550028668,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [109]
+		{
+			"yeah", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2801, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028668,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [110]
+		{
+			"damn im jelly", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2805, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028674,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [111]
+		{
+			"with big dino shoulder", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2806, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028675,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [112]
+		{
+			"i took that insta trik mb", -- [1]
+			"Tracobii-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tracobii-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2807, -- [11]
+			"Player-3676-0A289CF0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Tracobii|r",
+			[51] = 1550028677,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [113]
+		{
+			"yea it looks sick af", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2809, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028681,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [114]
+		{
+			"youre a male orc right?", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2810, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028682,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [115]
+		{
+			"|Hitem:165555::::::::120:251::6:4:4824:1537:4786:5421:::|h[Spaulders of the Gorilla King]|h", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2811, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028684,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
+		}, -- [116]
+		{
+			"yea", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2812, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028686,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
+		}, -- [117]
+		{
+			"its so fkn big on u guys", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2813, -- [11]
+			false, -- [12]
+			29, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028687,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [118]
 		{
-			"Malodorous Miasma on Brewphoria", -- [1]
-			"Brewphoria-Dalaran", -- [2]
-			"Orcish", -- [3]
+			"it looks fucking awesome", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Brewphoria-Dalaran", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8302, -- [11]
-			"Player-3683-0B3D9C89", -- [12]
-			0, -- [13]
+			2814, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBrewphoria-Dalaran|r",
-			[51] = 1546572534,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028690,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [119]
 		{
-			"3", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
+			"its itty bitty on belf", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8303, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
+			2816, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572535,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028701,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [120]
 		{
-			"Malodorous Miasma on Hellyfïsh", -- [1]
-			"Hellyfïsh-Area52", -- [2]
-			"Orcish", -- [3]
+			"lol", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Hellyfïsh-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8304, -- [11]
-			"Player-3676-09A4A027", -- [12]
-			0, -- [13]
+			2817, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Hellyfïsh|r",
-			[51] = 1546572536,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028702,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Alex",
 		}, -- [121]
 		{
-			"Malodorous Miasma fading in 3", -- [1]
-			"Limelife-Area52", -- [2]
-			"Orcish", -- [3]
+			"oh really lol", -- [1]
+			"|Kq28|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Limelife-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8311, -- [11]
-			"Player-3676-098A9147", -- [12]
-			0, -- [13]
+			2819, -- [11]
+			false, -- [12]
+			29, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLimelife|r",
-			[51] = 1546572551,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aAlex|r",
+			[51] = 1550028706,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Alex",
 		}, -- [122]
 		{
-			"Dippindotzs was awarded with |cffa335ee|Hitem:160644::::::::120:102::6:4:4800:1808:1507:4786:::|h[Plasma-Spattered Greatcloak]|h|r for Mainspec/Need!", -- [1]
-			"Trikkster-Area52", -- [2]
+			"how did you get a 2 letter name", -- [1]
+			"Conforce-Area52", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Trikkster-Area52", -- [5]
+			"1. General - Battle of Dazar'alor", -- [4]
+			"Conforce-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Battle of Dazar'alor", -- [9]
 			0, -- [10]
-			8332, -- [11]
-			"Player-3676-0962C631", -- [12]
+			2823, -- [11]
+			"Player-3676-0A0699C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aTrikkster|r",
-			[51] = 1546572649,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			true, -- [17]
+			[52] = "|cffc41e3aConforce|r",
+			[51] = 1550028730,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [123]
 		{
-			"Bertelsen was awarded with |cffa335ee|Hitem:160715::::::::120:102::6:3:4800:1507:4786:::|h[Mutagenic Protofluid Handwraps]|h|r for Mainspec/Need!", -- [1]
+			"can i come on priest tomorrow", -- [1]
 			"Trikkster-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2740,7 +2825,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8336, -- [11]
+			2850, -- [11]
 			"Player-3676-0962C631", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2748,55 +2833,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aTrikkster|r",
-			[51] = 1546572659,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[51] = 1550028793,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [124]
 		{
-			"If you need a 10 done let me know", -- [1]
-			"Conforce-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8338, -- [11]
-			"Player-3676-0A0699C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aConforce|r",
-			[51] = 1546572667,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
-		{
-			"I'll help ya", -- [1]
-			"Conforce-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8339, -- [11]
-			"Player-3676-0A0699C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aConforce|r",
-			[51] = 1546572669,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
-		{
-			"Trikkster was awarded with |cffa335ee|Hitem:160623::::::::120:102::6:4:4824:1507:4786:5402:::|h[Hood of Pestilent Ichor]|h|r for Mainspec/Need!", -- [1]
+			"Sure", -- [1]
 			"Trikkster-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2806,7 +2847,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8340, -- [11]
+			2853, -- [11]
 			"Player-3676-0962C631", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2814,8 +2855,52 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aTrikkster|r",
-			[51] = 1546572669,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[51] = 1550028804,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [125]
+		{
+			"sweet", -- [1]
+			"Trikkster-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trikkster-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2854, -- [11]
+			"Player-3676-0962C631", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTrikkster|r",
+			[51] = 1550028806,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [126]
+		{
+			"im gonna do eft quest rq if you want to come", -- [1]
+			"Trikkster-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Trikkster-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2858, -- [11]
+			"Player-3676-0962C631", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTrikkster|r",
+			[51] = 1550028816,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [127]
 	},
 }

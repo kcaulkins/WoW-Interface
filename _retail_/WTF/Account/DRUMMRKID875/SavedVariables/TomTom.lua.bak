@@ -5,29 +5,31 @@ TomTomDB = {
 		["Keziya - Bladefist"] = "Default",
 		["Testacules - Area 52"] = "Default",
 		["Shesta - Tichondrius"] = "Default",
+		["Moltun - Bladefist"] = "Default",
 		["Buttoucher - Bladefist"] = "Default",
+		["Keziya - Area 52"] = "Default",
 		["Zeebrew - Bladefist"] = "Default",
 		["Mullton - Area 52"] = "Default",
-		["Keziya - Moon Guard"] = "Default",
+		["Conforce - Area 52"] = "Default",
 		["Dekae - Bladefist"] = "Default",
 		["Lotun - Bladefist"] = "Default",
-		["Vryn - Bladefist"] = "Default",
-		["Vrill - Area 52"] = "Default",
-		["Conforce - Illidan"] = "Default",
-		["Shesta - Area 52"] = "Default",
+		["Keziya - Moon Guard"] = "Default",
+		["Multage - Area 52"] = "Default",
+		["Multen - Area 52"] = "Default",
+		["Kesiya - Moon Guard"] = "Default",
 		["Multen - Bladefist"] = "Default",
-		["Conforce - Area 52"] = "Default",
+		["Artefakt - Area 52"] = "Default",
 		["Basatan - Illidan"] = "Default",
 		["Mullton - Bladefist"] = "Default",
-		["Xenatu - Bladefist"] = "Default",
-		["Lotun - Area 52"] = "Default",
 		["Multage - Tichondrius"] = "Default",
-		["Kesiya - Moon Guard"] = "Default",
-		["Multen - Area 52"] = "Default",
-		["Multage - Area 52"] = "Default",
+		["Lotun - Area 52"] = "Default",
+		["Xenatu - Bladefist"] = "Default",
+		["Shesta - Area 52"] = "Default",
+		["Conforce - Illidan"] = "Default",
+		["Vrill - Area 52"] = "Default",
 		["Treeniislove - Bladefist"] = "Default",
 		["Shrekt - Bladefist"] = "Default",
-		["Moltun - Bladefist"] = "Default",
+		["Vryn - Bladefist"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -51,21 +53,23 @@ TomTomWaypointsM = {
 		["Keziya - Moon Guard"] = "Keziya - Moon Guard",
 		["Xenatu - Bladefist"] = "Xenatu - Bladefist",
 		["Lotun - Bladefist"] = "Lotun - Bladefist",
-		["Vryn - Bladefist"] = "Vryn - Bladefist",
-		["Vrill - Area 52"] = "Vrill - Area 52",
-		["Multen - Bladefist"] = "Multen - Bladefist",
+		["Moltun - Bladefist"] = "Moltun - Bladefist",
+		["Keziya - Area 52"] = "Keziya - Area 52",
 		["Multage - Area 52"] = "Multage - Area 52",
+		["Multen - Area 52"] = "Multen - Area 52",
+		["Multen - Bladefist"] = "Multen - Bladefist",
+		["Artefakt - Area 52"] = "Artefakt - Area 52",
 		["Basatan - Illidan"] = "Basatan - Illidan",
 		["Mullton - Bladefist"] = "Mullton - Bladefist",
-		["Shesta - Area 52"] = "Shesta - Area 52",
-		["Lotun - Area 52"] = "Lotun - Area 52",
-		["Multage - Tichondrius"] = "Multage - Tichondrius",
-		["Conforce - Area 52"] = "Conforce - Area 52",
 		["Dekae - Bladefist"] = "Dekae - Bladefist",
-		["Multen - Area 52"] = "Multen - Area 52",
+		["Lotun - Area 52"] = "Lotun - Area 52",
+		["Conforce - Area 52"] = "Conforce - Area 52",
+		["Multage - Tichondrius"] = "Multage - Tichondrius",
+		["Shesta - Area 52"] = "Shesta - Area 52",
+		["Vrill - Area 52"] = "Vrill - Area 52",
 		["Treeniislove - Bladefist"] = "Treeniislove - Bladefist",
 		["Shrekt - Bladefist"] = "Shrekt - Bladefist",
-		["Moltun - Bladefist"] = "Moltun - Bladefist",
+		["Vryn - Bladefist"] = "Vryn - Bladefist",
 	},
 	["profiles"] = {
 		["Conforce - Illidan"] = {
@@ -88,35 +92,39 @@ TomTomWaypointsM = {
 		},
 		["Lotun - Bladefist"] = {
 		},
-		["Vryn - Bladefist"] = {
+		["Moltun - Bladefist"] = {
 		},
-		["Vrill - Area 52"] = {
+		["Keziya - Area 52"] = {
+		},
+		["Multage - Area 52"] = {
+		},
+		["Multen - Area 52"] = {
 		},
 		["Multen - Bladefist"] = {
 		},
-		["Multage - Area 52"] = {
+		["Artefakt - Area 52"] = {
 		},
 		["Basatan - Illidan"] = {
 		},
 		["Mullton - Bladefist"] = {
 		},
-		["Shesta - Area 52"] = {
+		["Dekae - Bladefist"] = {
 		},
 		["Lotun - Area 52"] = {
 		},
-		["Multage - Tichondrius"] = {
-		},
 		["Conforce - Area 52"] = {
 		},
-		["Dekae - Bladefist"] = {
+		["Multage - Tichondrius"] = {
 		},
-		["Multen - Area 52"] = {
+		["Shesta - Area 52"] = {
+		},
+		["Vrill - Area 52"] = {
 		},
 		["Treeniislove - Bladefist"] = {
 		},
 		["Shrekt - Bladefist"] = {
 		},
-		["Moltun - Bladefist"] = {
+		["Vryn - Bladefist"] = {
 		},
 	},
 }

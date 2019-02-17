@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0232,
+	["LastVersion"] = 2.0234,
 	["LastPlayerFullName"] = "Conforce-Illidan",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

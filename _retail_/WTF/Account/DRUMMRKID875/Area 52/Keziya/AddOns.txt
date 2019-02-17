@@ -1,0 +1,12 @@
+ElvUI_EverySecondCounts: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+AAP-Core: disabled
+AAP-BfA: disabled
+LittleWigs: enabled
+BigWigs_Azeroth: enabled
+BigWigs_BattleOfDazaralor: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled
+TwintopInsanityBar: disabled

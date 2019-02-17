@@ -7,8 +7,8 @@ LittleWigs: enabled
 BigWigs_Azeroth: enabled
 RaiderIO_DB_US_A: disabled
 Pawn: enabled
-TradeSkillMaster: enabled
-TradeSkillMaster_AppHelper: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled
 Clique: enabled
 Azeroth Auto Pilot: disabled
 Skada: disabled
@@ -77,3 +77,5 @@ AAP-TBC-WotLK: disabled
 AAP-Cata-MoP: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
+Hekili: disabled
+TwintopInsanityBar: disabled

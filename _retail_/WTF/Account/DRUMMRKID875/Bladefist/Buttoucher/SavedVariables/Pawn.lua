@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0231,
+	["LastVersion"] = 2.0234,
 	["LastPlayerFullName"] = "Buttoucher-Bladefist",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

@@ -36,8 +36,8 @@ RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_A_R: disabled
 Pawn: enabled
-TradeSkillMaster: enabled
-TradeSkillMaster_AppHelper: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled
 Skada: disabled
 PremadeGroupsFilter: disabled
 AzeriteTooltip: enabled
@@ -90,3 +90,5 @@ AAP-TBC-WotLK: disabled
 AAP-Cata-MoP: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
+Hekili: disabled
+TwintopInsanityBar: disabled

@@ -7,272 +7,12 @@ ElvCharacterDB = {
 		"/reload", -- [4]
 		"/logout", -- [5]
 		"/vuhdo op", -- [6]
+		"/details options", -- [7]
+		"/wa", -- [8]
+		"/ec", -- [9]
+		"/g you guys get jaina on heroic yet?", -- [10]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"353 ilvl hunter simming 10k dps ", -- [1]
-			"Fluffybunny-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9062, -- [11]
-			"Player-1147-07D0EE1E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Fluffybunny|r",
-			[51] = 1537571451,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"rogue op", -- [1]
-			"Miriska-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9063, -- [11]
-			"Player-1147-0668E151", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMiriska|r",
-			[51] = 1537571497,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"<has no idea what good but not op dps is atm XD", -- [1]
-			"Bonemodel-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9064, -- [11]
-			"Player-1147-0668D4EB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edBonemodel|r",
-			[51] = 1537571585,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"damnit unbleed", -- [1]
-			"Miriska-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9066, -- [11]
-			"Player-1147-0668E151", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMiriska|r",
-			[51] = 1537571598,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
-			"XD", -- [1]
-			"Bonemodel-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9067, -- [11]
-			"Player-1147-0668D4EB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edBonemodel|r",
-			[51] = 1537571606,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
-		{
-			"you should sim close to 13k at 350+ as any class imo", -- [1]
-			"Fluffybunny-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9068, -- [11]
-			"Player-1147-07D0EE1E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Fluffybunny|r",
-			[51] = 1537571614,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
-		{
-			"unless you are a shaman", -- [1]
-			"Miriska-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9069, -- [11]
-			"Player-1147-0668E151", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMiriska|r",
-			[51] = 1537571621,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
-		{
-			"thats not true", -- [1]
-			"Nolan-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9070, -- [11]
-			"Player-1147-0668D862", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNolan|r",
-			[51] = 1537571635,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
-		{
-			"lol there are a lot of factors that could have certain specs below 13k over 350", -- [1]
-			"Nolan-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9071, -- [11]
-			"Player-1147-0668D862", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNolan|r",
-			[51] = 1537571661,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
-		{
-			"i bet if nolan wore all 350 cloth he would sim less then 13k :3", -- [1]
-			"Miriska-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9073, -- [11]
-			"Player-1147-0668E151", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMiriska|r",
-			[51] = 1537571680,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
-			"my UH spec didnt break 13k sim until yesterday when i hit 360", -- [1]
-			"Nolan-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9074, -- [11]
-			"Player-1147-0668D862", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNolan|r",
-			[51] = 1537571692,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
-		{
-			"you could agrue you class still could", -- [1]
-			"Miriska-Bladefist", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9075, -- [11]
-			"Player-1147-0668E151", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMiriska|r",
-			[51] = 1537571712,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
 		{
 			"becuase that is the weaker of the 2 specs", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -294,7 +34,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571717,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [1]
 		{
 			"inb4 they bring that back: \"Back in my day I wore cloth cause it had better stats, it was better back then!\" XD", -- [1]
 			"Bonemodel-Bladefist", -- [2]
@@ -316,7 +56,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edBonemodel|r",
 			[51] = 1537571723,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
+		}, -- [2]
 		{
 			"unbleed", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -338,7 +78,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571737,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
+		}, -- [3]
 		{
 			"|cffa335ee|Hitem:50818::::::::120:262::15::::|h[Invincible's Reins]|h|r", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -360,7 +100,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571739,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
+		}, -- [4]
 		{
 			"yo", -- [1]
 			"Bonemodel-Bladefist", -- [2]
@@ -382,7 +122,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edBonemodel|r",
 			[51] = 1537571740,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
+		}, -- [5]
 		{
 			":O", -- [1]
 			"Bonemodel-Bladefist", -- [2]
@@ -404,7 +144,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edBonemodel|r",
 			[51] = 1537571742,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
+		}, -- [6]
 		{
 			"|cffa335ee|Hitem:22470::::::::120:262::15::::|h[Earthshatter Girdle]|h|r|cff0070dd|Hitem:43698::::::::120:262::15::::|h[Giant Sewer Rat]|h|r", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -426,7 +166,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571743,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
+		}, -- [7]
 		{
 			"|cff0070dd|Hitem:34499::::::::120:262::15::::|h[Paper Flying Machine Kit]|h|r|cffa335ee|Hitem:22423::::::::120:262::15::::|h[Dreadnaught Bracers]|h|r", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -448,7 +188,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571745,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
+		}, -- [8]
 		{
 			"|cffa335ee|Hitem:141995::::::::120:262::15::::|h[Unclaimed Black Market Container]|h|r", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -470,7 +210,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571747,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
+		}, -- [9]
 		{
 			"gratz!", -- [1]
 			"Bonemodel-Bladefist", -- [2]
@@ -492,7 +232,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edBonemodel|r",
 			[51] = 1537571747,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
+		}, -- [10]
 		{
 			"oh, nvm XD", -- [1]
 			"Bonemodel-Bladefist", -- [2]
@@ -514,7 +254,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edBonemodel|r",
 			[51] = 1537571749,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
+		}, -- [11]
 		{
 			"bmah", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -536,7 +276,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571749,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
+		}, -- [12]
 		{
 			"XD", -- [1]
 			"Bonemodel-Bladefist", -- [2]
@@ -558,7 +298,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edBonemodel|r",
 			[51] = 1537571755,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
+		}, -- [13]
 		{
 			"im aware, just stating a blanketed 350+ of any class should sim 13k isnt accurate", -- [1]
 			"Nolan-Bladefist", -- [2]
@@ -580,7 +320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aNolan|r",
 			[51] = 1537571758,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [14]
 		{
 			"oh i agree", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -602,7 +342,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571774,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [15]
 		{
 			"speakng of simming", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -624,7 +364,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571784,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [16]
 		{
 			"somebody sim for me", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -646,7 +386,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571786,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [17]
 		{
 			"i dont know how", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -668,7 +408,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571793,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [18]
 		{
 			"just use the website", -- [1]
 			"Nolan-Bladefist", -- [2]
@@ -690,7 +430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aNolan|r",
 			[51] = 1537571799,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [19]
 		{
 			"its super easy", -- [1]
 			"Nolan-Bladefist", -- [2]
@@ -712,7 +452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aNolan|r",
 			[51] = 1537571802,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [20]
 		{
 			"what website", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -734,7 +474,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571806,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [21]
 		{
 			"raidbots", -- [1]
 			"Nolan-Bladefist", -- [2]
@@ -756,7 +496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aNolan|r",
 			[51] = 1537571812,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
+		}, -- [22]
 		{
 			"jump in discord ill explain it if you want", -- [1]
 			"Nolan-Bladefist", -- [2]
@@ -778,7 +518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aNolan|r",
 			[51] = 1537571831,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
+		}, -- [23]
 		{
 			"no thats ok", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -800,7 +540,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571836,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [24]
 		{
 			"ill poke around", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -822,7 +562,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571841,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [25]
 		{
 			"plus im doing islands in a second", -- [1]
 			"Miriska-Bladefist", -- [2]
@@ -844,7 +584,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMiriska|r",
 			[51] = 1537571852,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
+		}, -- [26]
 		{
 			"kk. its super useful for quick sims without having to have the actually simcraft thing installed on your comp", -- [1]
 			"Nolan-Bladefist", -- [2]
@@ -866,7 +606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aNolan|r",
 			[51] = 1537571868,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [27]
 		{
 			"|cffffff00The Dranosh'ar Blockade is under attack!|r", -- [1]
 			"", -- [2]
@@ -888,7 +628,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1539359358,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [28]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:403:Player-1147-07FC45A6:1:10:15:18:4294967295:4294967295:4294967295:4294967295|h[Three's Company: 1750]|h|r!", -- [1]
 			"Shaltear-Bladefist", -- [2]
@@ -910,7 +650,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaShaltear|r",
 			[51] = 1539650492,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [41]
+		}, -- [29]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:641:Player-1147-0666AD1E:1:10:15:18:4294967295:4294967295:4294967295:4294967295|h[Sunken Temple]|h|r!", -- [1]
 			"Cruelchi", -- [2]
@@ -932,7 +672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Cruelchi|r",
 			[51] = 1539651008,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [42]
+		}, -- [30]
 		{
 			"|cffa335ee|Hkeystone:158923:250:8:9:5:3:0|h[Keystone: Temple of Sethraliss (8)]|h|r anyone?", -- [1]
 			"Kuresaki-Bladefist", -- [2]
@@ -954,7 +694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKuresaki|r",
 			[51] = 1539651272,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [31]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:545:Player-1147-07FEF47D:1:10:15:18:4294967295:4294967295:4294967295:4294967295|h[Shave and a Haircut]|h|r!", -- [1]
 			"Nologs-Bladefist", -- [2]
@@ -976,7 +716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nologs|r",
 			[51] = 1539651488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [44]
+		}, -- [32]
 		{
 			"8 temple anyone>", -- [1]
 			"Kuresaki-Bladefist", -- [2]
@@ -998,7 +738,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKuresaki|r",
 			[51] = 1539651919,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [33]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12560:Player-1147-07FEF47D:1:10:15:18:4294967295:4294967295:4294967295:4294967295|h[Explore Vol'dun]|h|r!", -- [1]
 			"Nologs-Bladefist", -- [2]
@@ -1020,7 +760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nologs|r",
 			[51] = 1539651959,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [46]
+		}, -- [34]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:255:Player-1147-0668B43F:1:10:20:18:4294967295:4294967295:4294967295:4294967295|h[Bring Me The Head of... Oh Wait]|h|r!", -- [1]
 			"Keziya-Bladefist", -- [2]
@@ -1042,7 +782,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKeziya|r",
 			[51] = 1540094106,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [47]
+		}, -- [35]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:979:Player-1147-0668B43F:1:10:20:18:4294967295:4294967295:4294967295:4294967295|h[The Mask Task]|h|r!", -- [1]
 			"Keziya-Bladefist", -- [2]
@@ -1064,6 +804,2008 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKeziya|r",
 			[51] = 1540094118,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [36]
+		{
+			"cuz I was a 374 iLvl trashcan yesterday", -- [1]
+			"Failblog-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-1147-0668DF6A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edFailblog|r",
+			[51] = 1549047653,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [37]
+		{
+			"im 396 now", -- [1]
+			"Jukö-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-1147-0792557C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Jukö|r",
+			[51] = 1549047658,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [38]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:607:Player-1147-0667F771:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[10 Coins of Ancestry]|h|r!", -- [1]
+			"Marilwen-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Marilwen-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-1147-0667F771", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aMarilwen|r",
+			[51] = 1549047663,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [39]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:607:Player-1147-06689EE6:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[10 Coins of Ancestry]|h|r!", -- [1]
+			"Velinani-KulTiras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Velinani-KulTiras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-1147-06689EE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaVelinani-KulTiras|r",
+			[51] = 1549047664,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [40]
+		{
+			"FeelsPlebMan", -- [1]
+			"Jukö-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-1147-0792557C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Jukö|r",
+			[51] = 1549047664,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [41]
+		{
+			"|cff0070dd|Hitem:158153::::::::120:267::27:3:4803:1552:4785:::|h[Gilded Loa Figurine]|h|r lul", -- [1]
+			"Failblog-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-1147-0668DF6A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edFailblog|r",
+			[51] = 1549047667,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [42]
+		{
+			"385 poggs", -- [1]
+			"Starshrimp-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-1147-080C3EDC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aStarshrimp|r",
+			[51] = 1549047674,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [43]
+		{
+			"Still need to do the first 5 of heroic, which will be fun pugging", -- [1]
+			"Starshrimp-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-1147-080C3EDC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aStarshrimp|r",
+			[51] = 1549047693,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [44]
+		{
+			"shouldnt be too bad", -- [1]
+			"Merehn-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-1147-06B80F6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaMerehn|r",
+			[51] = 1549047711,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [45]
+		{
+			"i didnt get any heroic last week", -- [1]
+			"Failblog-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-1147-0668DF6A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edFailblog|r",
+			[51] = 1549047740,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [46]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:508:Player-1147-0667F771:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[1500 Quests Completed]|h|r!", -- [1]
+			"Marilwen-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Marilwen-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-1147-0667F771", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aMarilwen|r",
+			[51] = 1549048236,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [47]
+		{
+			"|cffa335ee|Hitem:165664::::::::120:64::28:3:4803:1577:4786:::|h[Sea Giant's Tidestone]|h|r neat", -- [1]
+			"Merehn-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			162, -- [11]
+			"Player-1147-06B80F6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaMerehn|r",
+			[51] = 1549048933,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [48]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:914:Player-1147-0667F771:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[Elders of the Horde]|h|r!", -- [1]
+			"Marilwen-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Marilwen-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			197, -- [11]
+			"Player-1147-0667F771", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aMarilwen|r",
+			[51] = 1549049106,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [49]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:608:Player-1147-0667F771:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[25 Coins of Ancestry]|h|r!", -- [1]
+			"Marilwen-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Marilwen-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			198, -- [11]
+			"Player-1147-0667F771", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aMarilwen|r",
+			[51] = 1549049106,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [50]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:914:Player-1147-06689EE6:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[Elders of the Horde]|h|r!", -- [1]
+			"Velinani-KulTiras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Velinani-KulTiras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			199, -- [11]
+			"Player-1147-06689EE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaVelinani-KulTiras|r",
+			[51] = 1549049107,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [51]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:608:Player-1147-06689EE6:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[25 Coins of Ancestry]|h|r!", -- [1]
+			"Velinani-KulTiras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Velinani-KulTiras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			200, -- [11]
+			"Player-1147-06689EE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaVelinani-KulTiras|r",
+			[51] = 1549049107,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [52]
+		{
+			"anybody have a mr wiggles pet i can buy", -- [1]
+			"Marilwen-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			213, -- [11]
+			"Player-1147-0667F771", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aMarilwen|r",
+			[51] = 1549049184,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [53]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13126:Player-1147-07B57DE0:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[Give Me The Energy]|h|r!", -- [1]
+			"Wärped-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wärped-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			228, -- [11]
+			"Player-1147-07B57DE0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWärped|r",
+			[51] = 1549049243,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [54]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13396:Player-1147-07B57DE0:1:2:1:19:4294967295:4294967295:4294967295:4294967295|h[Havenswood]|h|r!", -- [1]
+			"Wärped-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wärped-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			266, -- [11]
+			"Player-1147-07B57DE0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWärped|r",
+			[51] = 1549049386,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [55]
+		{
+			"Cant even get invited to a M0 ", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			177, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549381361,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [56]
+		{
+			"GG", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			178, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549381361,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [57]
+		{
+			"leveling.... ", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			201, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549381706,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [58]
+		{
+			"BLAH", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			204, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549381731,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [59]
+		{
+			"So much fun?", -- [1]
+			"Velinami-KulTiras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			206, -- [11]
+			"Player-1147-074CE3DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaVelinami|r",
+			[51] = 1549381738,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [60]
+		{
+			":||", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			210, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549381763,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [61]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13296:Player-1147-074CE3DD:1:2:5:19:4294967295:4294967295:4294967295:4294967295|h[War for the Shore]|h|r!", -- [1]
+			"Velinami-KulTiras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Velinami-KulTiras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"Player-1147-074CE3DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaVelinami-KulTiras|r",
+			[51] = 1549381892,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [62]
+		{
+			"you guys get jaina on heroic yet?", -- [1]
+			"Keziya-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			313, -- [11]
+			"Player-1147-0668B43F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKeziya|r",
+			[51] = 1549382471,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [63]
+		{
+			"kill adds 1st", -- [1]
+			"Ralphm-Darkspear", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ralphm-Darkspear", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			435, -- [11]
+			"Player-120-089F56A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Ralphm-Darkspear|r",
+			[51] = 1549383117,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [64]
+		{
+			"Toxic Wound on Keziya", -- [1]
+			"Keziya-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keziya-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			442, -- [11]
+			"Player-1147-0668B43F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKeziya|r",
+			[51] = 1549383151,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"kill all surrounding boss first", -- [1]
+			"Ralphm-Darkspear", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ralphm-Darkspear", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			453, -- [11]
+			"Player-120-089F56A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Ralphm-Darkspear|r",
+			[51] = 1549383246,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [66]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9211:Player-1147-066728C4:1:2:5:19:4294967295:4294967295:4294967295:4294967295|h[My Item Level Is Higher than Yours]|h|r!", -- [1]
+			"Stormyfronts-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stormyfronts-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			457, -- [11]
+			"Player-1147-066728C4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Stormyfronts|r",
+			[51] = 1549383293,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [67]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9212:Player-1147-066728C4:1:2:5:19:4294967295:4294967295:4294967295:4294967295|h[My Item Level Is Way Higher than Yours]|h|r!", -- [1]
+			"Stormyfronts-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stormyfronts-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			458, -- [11]
+			"Player-1147-066728C4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Stormyfronts|r",
+			[51] = 1549383293,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [68]
+		{
+			"Toxic Wound on Keziya", -- [1]
+			"Keziya-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keziya-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			462, -- [11]
+			"Player-1147-0668B43F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKeziya|r",
+			[51] = 1549383309,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12854:Player-1147-07470D2B:1:2:5:19:4294967295:4294967295:4294967295:4294967295|h[Ready for Raiding VI]|h|r!", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Heero-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			469, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549383386,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [70]
+		{
+			"REEEEE", -- [1]
+			"Ronkey-Korialstrasz", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Ronkey-Korialstrasz", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			491, -- [11]
+			"Player-123-072D136B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffRonkey-Korialstrasz|r",
+			[51] = 1549383500,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12546:Player-1147-074CE3DD:1:2:5:19:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!", -- [1]
+			"Velinami-KulTiras", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Velinami-KulTiras", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			508, -- [11]
+			"Player-1147-074CE3DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaVelinami-KulTiras|r",
+			[51] = 1549383617,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [72]
+		{
+			"LET THERE BE LOOT", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			585, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549385992,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [73]
+		{
+			"There was, and it was alright", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			589, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386007,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [74]
+		{
+			"|cffa335ee|Hitem:159245::::::::120:258::35:3:5010:1582:4783:::|h[Cord of the Pious Warder]|h|r ", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			592, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386011,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [75]
+		{
+			"lol", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			594, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386025,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [76]
+		{
+			"Ohai", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			595, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386028,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [77]
+		{
+			"Hai", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			599, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386033,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [78]
+		{
+			"Couldn't stay away from me eh?", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			600, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386037,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [79]
+		{
+			"nope", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			604, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386045,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [80]
+		{
+			":D", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			605, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386045,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [81]
+		{
+			"^.^", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			607, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386049,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [82]
+		{
+			"have to be here to torment you", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			609, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386052,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [83]
+		{
+			"Well you're losing that battle, cause I missed you!", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			610, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386065,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [84]
+		{
+			":D", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			612, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386075,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [85]
+		{
+			"Now be level 120 already.", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			613, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386083,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [86]
+		{
+			"Missed you too!", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			614, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386085,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [87]
+		{
+			"2/3 away", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			615, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386091,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [88]
+		{
+			"Tempted to finish leveling my Mage and gear it with you.", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			618, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386114,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [89]
+		{
+			"i member", -- [1]
+			"Urpetfood-Shandris", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Urpetfood-Shandris", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			622, -- [11]
+			"Player-117-05D01342", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffaad372Urpetfood-Shandris|r",
+			[51] = 1549386133,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"Cody level my warlock", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			625, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386147,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"i dont want you to uninstall from the leveling", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			626, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386151,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"i need to play a real class", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			627, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386154,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"SO BORING", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			628, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386166,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"Lol yeah you do and yes it is so fkin boring!", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			634, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386188,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"|cffa335ee|Hitem:159273::::::::120:258::35:4:5445:1572:4786:5418:::|h[Amice of the Returned]|h|r so disappointing..", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			636, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386244,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"Oh yeah!?", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			637, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386257,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [97]
+		{
+			"|cff0070dd|Hitem:159254::::::::119:258::19:4:5115:1467:4785:4775:::|h[Brood Cleanser's Amice]|h|r BAM!", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			639, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386263,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"Yeah traits are shit", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			640, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386263,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [99]
+		{
+			"Lol bet", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			641, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386269,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [100]
+		{
+			"why is it so hot ", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			655, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386395,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [101]
+		{
+			"it shouldnt be 60 in Feb", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			656, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386402,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [102]
+		{
+			"Fuck you", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			657, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386411,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [103]
+		{
+			"dude", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			658, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386413,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [104]
+		{
+			"its -45 here", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			659, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386417,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [105]
+		{
+			"well was", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			660, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386419,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [106]
+		{
+			"^^^^^^^", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			661, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386420,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"I WANT WINTER", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			662, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386421,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"Yep", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			663, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386423,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"YOU CAN HAVE IT", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			664, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386432,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"Come to NE, I'll show you winter.", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			665, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386434,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"GIMME ME", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			666, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386437,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"Its funny", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			667, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386448,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [113]
+		{
+			"Like last friday it was like -10", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			668, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386457,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"now its 60", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			669, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386459,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"come talk to me when it gets to -45", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			670, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386472,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"Talking to you right now kid", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			672, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386485,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"whatcha gonna do", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			673, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386487,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"nothing", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			675, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386495,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"Hmm Sailor Moon?", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			677, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386497,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"xD", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			678, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386506,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"Shits gettin real", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			679, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386567,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"Is it weird id rather live somewhere cold like that?", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			680, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386571,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"no", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			682, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386578,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"Yeah it's fucking wierd", -- [1]
+			"Cynqt-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			683, -- [11]
+			"Player-1147-066892F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCynqt|r",
+			[51] = 1549386578,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"youd hate it after a while tho", -- [1]
+			"Charine-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			684, -- [11]
+			"Player-1147-0720650B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffCharine-Bladefist|r",
+			[51] = 1549386584,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"Prob", -- [1]
+			"Heero-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			685, -- [11]
+			"Player-1147-07470D2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Heero|r",
+			[51] = 1549386591,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [127]
 	},
 }

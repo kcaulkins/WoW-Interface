@@ -12,8 +12,8 @@ AngryAssign_Pages = {
 		["Name"] = "asd",
 		["Id"] = 1076229451,
 		["UpdateId"] = 941754460,
-		["Backup"] = "1- bert\n2- conforce\n3- greyfrog\n4- rodney\n5- tam",
 		["Contents"] = "1- bert\n2- conforce\n3- greyfrog\n4- rodney\n5- tam",
+		["Backup"] = "1- bert\n2- conforce\n3- greyfrog\n4- rodney\n5- tam",
 	},
 	[907699768] = {
 		["Updated"] = 1538442126,
@@ -22,6 +22,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3143223301,
 		["Contents"] = "1 - Bert, Pickle\n2 - Multage, Enjoy\n3 - Brohawk, Crysse\n4 - Xamul, After",
 	},
+	[2329603313] = {
+		["Updated"] = 1549415573,
+		["Name"] = "Gronkilla",
+		["Id"] = 2329603313,
+		["UpdateId"] = 1389221346,
+		["Contents"] = "{hero}Bloodlust @ ||cgreen40%||r\n\n2 groups of ||cyellowMELEE||r. 2 groups of ||cyellowRANGED||r.\n\n- @||cgreen100||r RAGE: [Death Knell], massive AOE per ||cgreen25||r rage.\n- ||cffff9933STACK||r to avoid [Ferocious Roar] (Mythic)\n\n||cyellowRANGED||r:\n- ||cffff9933RUN||r for [Voodoo Blast]\n- ||cffff9933RUN||r from ||cyellowraid||r if targetted by [Bestial Throw]\n\n||cyellowMELEE||r:\n-  ||cffff9933RUN||r from slam circle, otherwise ||cffff9933STACK||r.\n\n||cffff33ccWHEN ADD SPAWNS||r:\n1. ||cffff9933SWAP||r to robot add. ||cffff9933SEPARATE||r from ||cyellowGrong||r. (||cgreen 15||r yards)\n2. ||cffff9933Interrupt||r [Death Empowerment] and ||cffff9933KILL||r.\n3. ||cpurplePickles||r grab [Necrotic Core] & cast on ||cyellowboss||r.\n   --> Inc [Death Knell]! (Above ||cgreen50||r rage, below ||cgreen75||r rage.)\n\nTam\nMad\nGrey\nBert\nTrikk\nZan",
+	},
 	[297828194] = {
 		["Updated"] = 1542861035,
 		["Name"] = "Orbs",
@@ -29,12 +36,33 @@ AngryAssign_Pages = {
 		["UpdateId"] = 657313532,
 		["Contents"] = "1st Orb - Trik\n2nd Orb - Pickle and Echo\n3rd Orb - Elynu and Zam\n4th Orb - Lold\n5th Orb - Dash and Shy\n6th Orb - Tooty and Allertse",
 	},
+	[1204367711] = {
+		["Updated"] = 1547775940,
+		["Name"] = "Jadefire Masters",
+		["Id"] = 1204367711,
+		["UpdateId"] = 2204108327,
+		["Contents"] = "--Magma Trap Clears--\n\n1. Tamarien\n2. Greyfrog\n3. Trenshot\n\n--Searing Ember Mass Dispells--\n\n1. Tompriest\n2. Ascali\n3. ?Adaym?\n\n--Mini Game--\n\nDon't get shit on (Beefie)\n\n--Living Bomb Beams--\n\nBasically Trilliax from NH, don't be dumb :)",
+	},
+	[557944427] = {
+		["Updated"] = 1548384063,
+		["Name"] = "Conclave",
+		["Id"] = 557944427,
+		["UpdateId"] = 2198395027,
+		["Contents"] = "KILL ORDER: ||cyellowGonk||r -> ||cyellowKimbul||r -> ||cyellowPa'ku||r -> ||cyellowAkunda||r\n\n||cffff33ccWHOLE FIGHT||r:\n- Each time a ||cyellowLoa||r dies, ||cffff9933HEALING CD||r ([Cry of the Fallen])\n||cffff33ccFROM PULL||r \n- ||cyellowKrag'wa||r jumps at furthest target. ||cffff9933MOVE OUT||r\n- ||cffff9933RUN||r in for [Pa'ku's Wrath]\n- [Gonk's Wrath]: ||cffff9933STUN||r + ||cffff9933SLOW||r Raptors and ||cffff9933KILL||r.\n   -->Keep them separate, or they become ||cgreenIMMUNE TO CC & WILL SPRINT.||r\n||cffff33ccAFTER KIMBUL SPAWN||r (until end): \n- ||cffff9933MOVE OUT||r of||cyellow Raid||r for [Kimbul's Wrath].\n||cffff33ccAFTER AKUNDA SPAWN||r (until end):\n- ||cffff9933RUN OUT||r of ||cyellowRaid||r & ||cffff9933DODGE||r Orbs.\n\nASPECT ABILITIES:\n||cyellowPa'ku's Aspect||r:\n- ||cffff9933PURGE||r [Gift of Wind]\n\n||cyellow Gonk's Aspect||r:\n- ||cffff9933RUN OUT||r with [Crawling Hex].\n   -->{healer} ||credDO NOT||r ||cffff9933DISPEL||r until ||cyellowtarget||r is out of the ||cyellowgroup||r.\n   -->{dps}DPS:||cffff9933AVOID||r front of ||cyellowGonk||r.\n\n||cyellowKimbul's Aspect||r:\n- {tank}||cyellowTanks||r: ||cffff9933TANK SWAP||r on [Lacerating Claws]\n\n||cyellowAkunda's Aspect||r:\n- ||cffff9933MOVE OUT||r of circle for [Thundering Storm]\n- {healer}||cyellowHealers||r: ||cffff9933DISPEL||r [Mind Wipe]",
+	},
 	[1297573129] = {
 		["Updated"] = 1545958859,
 		["Name"] = "Ghuun Achieve",
 		["Id"] = 1297573129,
 		["UpdateId"] = 1078474597,
 		["Contents"] = "1 Ray, Varkiss, Grey\n2 Tam, Pickle, Zether\n3 Bro, Bert, Lold",
+	},
+	[2493641464] = {
+		["Updated"] = 1547777471,
+		["Name"] = "Opulence",
+		["Id"] = 2493641464,
+		["UpdateId"] = 616387,
+		["Contents"] = "--Left Group--\n\nTrikk       - Opal\nZandand  - Opal\nKano       -\nDippin     -\nLucíe       -\nPetes       -\nDwyn       -\nBert         -\nBrofoó      -\n\nAscali      -\nTracobi    - \n\n \n--Right Group--\n\nPickle     -\nLold       -\nChikkin   -\nShiburin  -\nGreyfrog  -\nTamarien -\nBarthó     -\nHamaliel -\nZetha      -\n\nBeefie     -\nTompries  -",
 	},
 	[487764182] = {
 		["Updated"] = 1539302836,
@@ -50,6 +78,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 428128468,
 		["Contents"] = "Group 1 = {Star}\n\nGroup 2 = {Circle}\n\nGroup 3 = {Diamond}\n\nGroup 4 = {Triangle}",
 	},
+	[3040505469] = {
+		["Updated"] = 1548470112,
+		["Name"] = "Stormwall Blockade",
+		["Id"] = 3040505469,
+		["UpdateId"] = 949492649,
+		["Contents"] = "||cffff33ccPHASE 1||r (Boat Phase):\n- {dps}||cffff9933DPS||r mini-bosses to ||cgreen50%||r ||credat same time.||r\n- {healer}||cyellowHealers||r: ||cffff9933AOE HEALS||r for [Jolting Volley][Tidal Volley]\n- {dps} ||cffff9933BREAK||r shield and ||cffff9933INTERRUPT||r [Storm's Empowerment]\n||cyellowLEFT SHIP (Odds||r):\n- Starts with ||cyellowSister Katherine||r:\n  - ||cffff9933MOVE OUT||r and drop [Crackling Lightning] @{star}/{circle}\n  - ||cffff9933DODGE||r lightning balls ([Voltaic Flash])\n- ||cyellowMini-Bosses||r swap @||cgreen50%||r. See 'RIGHT SHIP' notes.\n\n||cyellowRIGHT SHIP (Evens)||r:\n- Starts with ||cyellowBrother Joseph||r:\n  - ||cffff9933DROP||r [Sea Storm] in ||cyellowcenter of ship.||r\n  - ||cffff9933RUN||r opposite from Siren for [Tempting Song]\n    - Use ||cyellowpools||r to slow the pull-effect.\n  - {dps} ||cffff9933KILL||r ||cyellowTempting Siren||r\n- ||cyellowMini-Bosses||r swap @||cgreen50%||r. See 'LEFT SHIP' notes.\n\n||cffff33ccPHASE 2||r (Boss):\n- ||cffff9933GROUP||r but ||credDO NOT||r ||cffff9933STACK||r (Range ||cgreen4||r yds)\n- ||cffff9933MOVE OUT||r of pools from [Sea Swell]\n- ||cffff9933SOAK||r ||cyellowORB CIRCLES||r as a ||cyellowgroup||r (Immunities work)\n- {dps}||cffff9933SLOW AND KILL||r ||cyellowEnergized Storm||r add.\n- ||cyellowPickle ||cffff9933GRAB||r ||cyelloworb||r, ||cffff9933CLEAN UP||r ||cyellowpools||r and ||cffff9933RUN||r.\n\n ||cffff9933DROP||r debuff @||cyellowadd||r.\n  --> ([Kelp-Wrapped Fists])",
+	},
 	[377995245] = {
 		["Updated"] = 1541552881,
 		["Name"] = "Zek Interrupt",
@@ -58,11 +93,11 @@ AngryAssign_Pages = {
 		["Contents"] = "Pickle\nLold\nÁftershock\nWoo\n----\nBro\nRay\nBert\nTren",
 	},
 	[946460446] = {
-		["Updated"] = 1546572098,
+		["Updated"] = 1547608497,
 		["Name"] = "Fetid",
 		["Id"] = 946460446,
-		["UpdateId"] = 1008165065,
-		["Contents"] = "-ALPHA-\nVarkiss\nFazakk\n\n-BRAVO-\n\nPetestah\nPickle\nHelly\nDippin\nGreyfrog\nSylledriel\n\n\n-CHARLIE-\nTrikk\nBert \nChikkinz\nTam\nLold\nDwyn",
+		["UpdateId"] = 2445275587,
+		["Contents"] = "-ALPHA-\nKano\nBártho\n\n-BRAVO-\n\nPetestahh\nPickle\nLold\nDippin\nGreyfrog\nZandand\n\n\n-CHARLIE-\nTrikk\nBertelsen \nChikkinz\nTam\nHamaliel\nLucie",
 	},
 	[3702764610] = {
 		["Updated"] = 1544666667,
@@ -71,12 +106,26 @@ AngryAssign_Pages = {
 		["UpdateId"] = 4270353623,
 		["Contents"] = "",
 	},
+	[2792239462] = {
+		["Updated"] = 1550021881,
+		["Name"] = "Gorg",
+		["Id"] = 2792239462,
+		["UpdateId"] = 4019487357,
+		["Contents"] = "Interrupt Order:\n\nMELEE\n1) Pickle\n2) Quick\n3) Yuri\n4) Ham\n5) Chicken\n\n\nRanged\n1) Trik\n2) Zandan\n3) Bartho\n4) Bert\n6) Imaberroo\n7) Kano",
+	},
 	[980069009] = {
 		["Updated"] = 1543375575,
 		["Name"] = "Zul Kill Order",
 		["Id"] = 980069009,
 		["UpdateId"] = 2027622033,
 		["Contents"] = "Tam = {X} = Backup - Bertelsen\n\nLold = {Square} = Backup - Grayfrog\n\nTrenshot  = {Diamond} = Backup- Zamdan\n\nPickle   = {Triangle} = Backup - Lold",
+	},
+	[3672052009] = {
+		["Updated"] = 1547774542,
+		["Name"] = "Gronk",
+		["Id"] = 3672052009,
+		["UpdateId"] = 547845235,
+		["Contents"] = "--Robot Interrupt Order--\n\n1. Trikk\n2. Pickle\n3. Chikkin\n4. Lold\n5. Zetha\n6. Zandand\n\n--Tantrum Healing CD's--\n\n1.\n2.\n3.\n4.\n5.",
 	},
 	[2086449496] = {
 		["Updated"] = 1544667245,
@@ -85,6 +134,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3686000024,
 		["Contents"] = "1 - Lime\n2 - Brohawk, Bert\n3 - Pickle\n4 - Zether \n5 - Tam, Dwyn\n6 - Behind",
 	},
+	[1489598754] = {
+		["Updated"] = 1548896920,
+		["Name"] = "King Rastakhan",
+		["Id"] = 1489598754,
+		["UpdateId"] = 76587884,
+		["Contents"] = "||cffff33ccPHASE 1||r: \n- ||cffff9933STAY AWAY||r from Rastakhan {tank}||cyellowtank||r. ||cffff9933DODGE||r toads.\n- ||cffff9933STACK||r on ||cyellowadd {tank}tank||r.\n- ||cffff9933RUN||r beam ||credAWAY||r from raid.\n- {healer}||cyellowHealers||r see: [Grievous Axe]\n\n||cffff33ccPHASE 2||r: ||cffff9933STAY AWAY||r from ||cyellowBwomsamdi||r (||cgreen30||r yrds)\n- ||cffff9933SPREAD||r ||cgreen7||r yards (||cffff9933RUN||r if ||cyellowMELEE||r on [Plague of Fire])\n- ||cffff9933KILL||r [Zombie Dust Totem], then ||cyellowRastakhan||r.\n- ||cffff9933POP PERSONALS||r for [Caress of Death]. These targets will be ||cblueunhealable||r.\n- ||cffff9933DROP||r [Death's Door] off near ||cyellowBwomsamdi||r.\n- ||cyellowTanks||r ||cffff9933SWAP||r on [Scorching Detonation]\n\n||cffff33ccTransition||r @||cgreen60%||r. ||cyellowG1||r + ||cyellowG2||r run to ||cyellowBwomsamdi||r @||cgreen63%||r.\n\n||cffff33ccPHASE 3||r:\n||cyellowDead Realm players:||r {hero}Bloodlust{hero}\n- ||cffff9933BURN||r ||cyellowBwomsamdi||r to ||cgreen50%||r. \n- ||cffff9933CLEAR||r stacks @||cgreen10||r stacks in the portals.\n- ||cffff9933DODGE||r black circles ([Dread Reaping])\n- ||cffff9933RUN||r out of [Inevitable End]\n\n||cyellowLiving Realm players:||r\n- ||cffff9933SOAK||r circles ([Seal of Bwonsamdi])\n- ||credDO NOT||r ||cffff9933KILL||r adds (Will ||cffff9933KILL||r in ||cffff33ccP4||r).\n- ||cffff9933KILL||r [Zombie Dust Totem]",
+	},
 	[1125962750] = {
 		["Updated"] = 1543458629,
 		["Name"] = "Ghuun H",
@@ -92,26 +148,40 @@ AngryAssign_Pages = {
 		["UpdateId"] = 281792440,
 		["Contents"] = "1st Orb (Left) - Lime\n2nd Orb (Right) - Lold\n3rd Orb ( Left) -Trik\n\n4th Orb (Left) - Echo\n5th Orb (Right) - Gris / Holy\n6th Orb (Left) - Zether",
 	},
+	[3887972961] = {
+		["Updated"] = 1548467767,
+		["Name"] = "Mekkatorque",
+		["Id"] = 3887972961,
+		["UpdateId"] = 2256744747,
+		["Contents"] = "||cffff33ccPHASE 1||r:\n\n- ||cffff9933DODGE||r [Buster Cannon]\n- ||cffff9933RUN||r from [Blast Off] and [Crash Down]\n- ||cffff9933RUN||r and get behind ||cyellowROCK||r for [Gigavolt Charge]\n- [Wormhole Generator] ||cyellowplayer||r stand near center of room, out of fires.\n  --> ||credSHRUNK PLAYERS MOVE FIRST.||r\n- If [Shrunk], ||cffff9933GET INTO||r Robot. ||cffff9933CALL||r instructions to ||cyellowother player||r. (Colors! {cross}{diamond}{triangle}{star}{square})\n\n||cffff33ccPHASE 2||r (||cgreen40%||r):\n- ||cffff9933DODGE||r SHEEP. ||cffff9933DODGE||r SHRAPNEL.\n- [Shrunk] ||cyellowmembers||r ||cffff9933DODGE||r at {circle}.\n- ||cffff9933RUN||r and get behind ||cyellowROCK||r for [Gigavolt Charge]\n\n||cffff33ccPHASE 3||r:\n- Same as P1, except [Hyperdrive]!!\n- Deals ticking damage to entire raid.\n- ||cffff9933HEALING ROTATION||r TO SURVIVE.",
+	},
 	[827369958] = {
-		["Updated"] = 1544581108,
+		["Updated"] = 1547167207,
 		["Name"] = "Zul Mythic",
 		["Id"] = 827369958,
-		["UpdateId"] = 3596462946,
-		["Contents"] = "Beefie\nRay\nAscalli\nZamdan\nBert\nDipp\nPete\nTamarien\nGreyFROG\nTrikkster\nBrohawk\nMassey",
+		["UpdateId"] = 1172263520,
+		["Contents"] = "Beefie\nRay\nAscalli\ndwyn\nBert\nLucie\nTamarien\nGreyFROG",
 	},
-	[3286745809] = {
-		["Updated"] = 1538524073,
-		["Name"] = "Mother Groups",
-		["Id"] = 3286745809,
-		["UpdateId"] = 422623862,
-		["Contents"] = "Mother Chamber Order\n\n\nGroup 1 > Trikk, Warbanner, Kóvas\nGroup 2 > Beef, Xamui, Conforce\nGroup 3 > Thatsmybis, After, Echeron\nGroup 4 > Pickles, Nadda, Warpole\nGroup 5 > Trevaa, Brohaw, Bert\nGroup 6 > Vódká, Varkiss,Sidrith  \nGroup 7 > Lime,Masse, Asgaut",
+	[2502523971] = {
+		["Updated"] = 1550106867,
+		["Name"] = "Opulence",
+		["Id"] = 2502523971,
+		["UpdateId"] = 523682058,
+		["Contents"] = "STUN Assignments:\n1) Yourihime\n2) Pickle\n3) Fat\n4) Kano\n5) Lucie\n6) Massey\n7) Lahe\n\n\nJEWEL Assignments:\n||cffb30000Ruby||r: ||cyellowQuick, Hulkmoose||r\n||cff009900Emerald||r: ||cyellowKeziya,Tam,Hama, Zand||r\n||cffffcc00Topaz||r: ||cyellow,Stryker,Gayerro,Lucie||r\nOpal: ||cyellowYuri, Kano, Bert, Grey, Pickle, Chikkin, Imaberroo, Trikk||r\n||cff9933ffAmethyst||r: ||cyellowMasseyy, Tompriest||r\n||cff0066ffSapphire||r: ||cyellowAscali, Darexis, Lahe||r\n\n||cffff33ccPHASE 2||r:\n- ||cffff9933RUN OUT||r with [Liquid Gold]\n- [Coin Shower]: ||cffff9933STACK||r on this ||cyellowtarget||r.\n- ||cffff9933CC||r and ||cffff9933KILL||r [Spirits of Gold]. ||credDON'T LET REACH EDGE.||r\n- ||cyellowAMETHYST HEALERS||r keep debuff up on all members.\n- ||cffff9933HEALING CDS||r on [Wail of Greed]",
 	},
-	[810267751] = {
-		["Updated"] = 1538523893,
-		["Name"] = "Mother",
-		["Id"] = 810267751,
-		["UpdateId"] = 1184778,
-		["Contents"] = "",
+	[1461511454] = {
+		["Updated"] = 1548207314,
+		["Name"] = "Jade Masters",
+		["Id"] = 1461511454,
+		["UpdateId"] = 1706626795,
+		["Contents"] = "||cffff9933SOAK||r traps with recoveries (Otherwise ||cffff9933AVOID||r)\n{icon 288433} {icon 283106} {icon 1953} {icon 56644} {icon 101643} {icon 173133} {icon 279008}, etc\n\n||cyellowBoss||r mechanics:\n||cyellowMonk||r: \n- [Whirling Jade Storm], ||cffff9933MELEE ATTACK||r to stop.\n- Xuen, ||cffff9933RUN||r from ||cyellowraid||r and all ||cffff9933KILL||r Xuen\n     --> ||cffff9933STUNS||r & ||cffff9933CC||r works.\n\n||cyellowMage||r: \n- ||cffff9933DISPEL||r [Searing Embers]\n- On[Pyroblast], ||cffff9933SWAP & BREAK||r Shield & ||cffff9933INTERRUPT||r.\n\n@||cgreen30||r ||cffff33ccENERGY||r:\n- Multiple [Living Bomb]s spawn.\n- ||cffff9933STACK||r on 1 bomb. ||cffff9933DODGE||r beam. ||cffff9933KILL||r bomb. ||cffff9933REPEAT||r.\n\n||cffff33ccINTERMISSION||r @||cgreen60||r ||cffff33ccENERGY||r:\n- ||cffff9933MOVE||r through ROPs, ||cffff9933BREAK||r Ice Barrier.\n\n||cffff33ccPHASE 2||r: (@||cgreen100||r ||cffff33ccENERGY||r:\n- ||cyellowMage||r: Ticking damage to entire raid ([Blazing Phoenix])\n- ||cyellowMonk||r: ||cffff9933DODGE||r [Dragon's Breath]",
+	},
+	[1908748827] = {
+		["Updated"] = 1549413208,
+		["Name"] = "Champions",
+		["Id"] = 1908748827,
+		["UpdateId"] = 1157594265,
+		["Contents"] = "Watch Zealotry stacks on ||cyellowboss||r.\nHeroism {hero} @||cgreen30%||r.\n\nFight Mechanics:\n- ||cffff9933MASS DISPEL||r [Wave of Light] if it hits ||cyellowadds.||r\n- ||cffff9933Interrupt||r [Penance] & [Heal]\n- ||cffff9933TURN AWAY||r from Crusader on [Blinding Faith]\n\n||cffff33ccPHASE 1||r ([Seal of Retribution]):\n- ||cffff9933KILL||r [Judgment: Righteousness] ||cyellowadd||r.\n- ||credDO NOT KILL OTHER ADDs. ONLY ||cffff9933Interrupt||r\n\n\n||cffff33ccPHASE 2||r ([Seal of Reckoning]):\n- ||cred DO NOT ATTACK BOSS. ||cffff9933SWAP AND KILL||r ||cyellowADDS.||r\n- {healer}||cyellowHealers||r: ||cffff9933HEALING CDS||r for [Judgment: Reckoning]",
 	},
 	[4135279898] = {
 		["Updated"] = 1544754209,
@@ -120,15 +190,38 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3411374416,
 		["Contents"] = "Interupt Order:\nPickle\nLold\nAfter\nChikkin\nBehind",
 	},
+	[810267751] = {
+		["Updated"] = 1538523893,
+		["Name"] = "Mother",
+		["Id"] = 810267751,
+		["UpdateId"] = 1184778,
+		["Contents"] = "",
+	},
+	[3286745809] = {
+		["Updated"] = 1538524073,
+		["Name"] = "Mother Groups",
+		["Id"] = 3286745809,
+		["UpdateId"] = 422623862,
+		["Contents"] = "Mother Chamber Order\n\n\nGroup 1 > Trikk, Warbanner, Kóvas\nGroup 2 > Beef, Xamui, Conforce\nGroup 3 > Thatsmybis, After, Echeron\nGroup 4 > Pickles, Nadda, Warpole\nGroup 5 > Trevaa, Brohaw, Bert\nGroup 6 > Vódká, Varkiss,Sidrith  \nGroup 7 > Lime,Masse, Asgaut",
+	},
 }
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
-	["locked"] = true,
+	["tree"] = {
+		["groups"] = {
+			["1076229451"] = true,
+		},
+		["scrollvalue"] = 0,
+		["fullwidth"] = 666,
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["selected"] = 1076229451,
+	},
 	["display"] = {
-		["y"] = -21.9998779296875,
-		["x"] = 176.666763305664,
-		["point"] = "TOPLEFT",
+		["y"] = 271.666595458984,
+		["x"] = 0,
+		["point"] = "RIGHT",
 		["scale"] = 1,
 		["hidden"] = false,
 	},
@@ -138,20 +231,12 @@ AngryAssign_State = {
 		["left"] = 80.8335876464844,
 		["width"] = 700.000061035156,
 	},
-	["tree"] = {
-		["groups"] = {
-			["1076229451"] = true,
-		},
-		["scrollvalue"] = 0,
-		["treesizable"] = true,
-		["selected"] = 1076229451,
-		["treewidth"] = 175,
-		["fullwidth"] = 666,
-	},
 	["directionUp"] = false,
+	["locked"] = true,
 }
 AngryAssign_Config = {
 	["lineSpacing"] = 1,
-	["fontName"] = "Noto Sans Regular",
+	["fontHeight"] = 13,
+	["fontName"] = "Liberation Sans",
 	["allowall"] = true,
 }

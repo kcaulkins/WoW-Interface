@@ -1,0 +1,10 @@
+VER 3 0100000000000001 "Shield block CD" "INV_MISC_QUESTIONMARK"
+#showtooltip shield block
+/use Doom's Fury
+/cast shield block
+END
+VER 3 0100000000000002 "warbreaker" "INV_MISC_QUESTIONMARK"
+#showtooltip warbreaker
+/use Doom's Fury
+/cast warbreaker
+END

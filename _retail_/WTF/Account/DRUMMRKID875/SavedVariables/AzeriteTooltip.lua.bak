@@ -1,8 +1,23 @@
 
 AzeriteTooltipDB = {
 	["OnlySpec"] = false,
+	["profileKeys"] = {
+		["Conforce - Illidan"] = "Default",
+		["Keziya - Bladefist"] = "Default",
+		["Artefakt - Area 52"] = "Default",
+		["Keziya - Area 52"] = "Default",
+		["Multen - Area 52"] = "Default",
+		["Conforce - Area 52"] = "Default",
+		["Xenatu - Bladefist"] = "Default",
+		["Multage - Area 52"] = "Default",
+		["Vryn - Bladefist"] = "Default",
+	},
 	["Compact"] = false,
+	["RemoveBlizzard"] = true,
 	["Bags"] = true,
 	["Flyout"] = true,
-	["RemoveBlizzard"] = true,
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
 }

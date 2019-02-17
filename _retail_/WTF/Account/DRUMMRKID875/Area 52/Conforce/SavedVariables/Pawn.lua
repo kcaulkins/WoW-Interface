@@ -1,10 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0232,
+	["LastVersion"] = 2.0236,
 	["LastPlayerFullName"] = "Conforce-Area 52",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128292] = {
 			["Relics"] = {
@@ -49,6 +48,7 @@ PawnOptions = {
 			["Name"] = "Apocalypse",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEATHKNIGHT",

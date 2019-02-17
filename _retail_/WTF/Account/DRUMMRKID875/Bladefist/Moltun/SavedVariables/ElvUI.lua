@@ -24,336 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"only 1 tank and 1 healer is fine", -- [1]
-			"Kjdz-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kjdz-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			783, -- [11]
-			"Player-57-081DCAC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Kjdz-Illidan|r",
-			[51] = 1541624224,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"healers who can switch to dps , do it", -- [1]
-			"Rumjugs-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rumjugs", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			784, -- [11]
-			"Player-57-07E796C5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaRumjugs-Illidan|r",
-			[51] = 1541624236,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [2]
-		{
-			"i think 6.3 is out now", -- [1]
-			"Kaopie-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kaopie-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			785, -- [11]
-			"Player-61-097CDAC8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aKaopie-Zul'jin|r",
-			[51] = 1541624241,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"is jairoshi alive?", -- [1]
-			"Vapeweed-BoreanTundra", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Vapeweed-BoreanTundra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			786, -- [11]
-			"Player-85-07DC69A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
-			[51] = 1541624247,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"8.3*", -- [1]
-			"Jackaloff-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jackaloff-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			787, -- [11]
-			"Player-11-0A89F002", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
-			[51] = 1541624248,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"8.2", -- [1]
-			"Kaopie-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kaopie-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			788, -- [11]
-			"Player-61-097CDAC8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aKaopie-Zul'jin|r",
-			[51] = 1541624249,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"pull on tanks, readycheck g", -- [1]
-			"Rumjugs-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rumjugs", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			790, -- [11]
-			"Player-57-07E796C5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaRumjugs-Illidan|r",
-			[51] = 1541624261,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [7]
-		{
-			"this is for pull", -- [1]
-			"Vapeweed-BoreanTundra", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Vapeweed-BoreanTundra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			792, -- [11]
-			"Player-85-07DC69A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
-			[51] = 1541624269,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"i had enough time to bang my girlfriend, although that doesn't take that long", -- [1]
-			"Jackaloff-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jackaloff-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			793, -- [11]
-			"Player-11-0A89F002", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
-			[51] = 1541624269,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"sorry about ur quick nut", -- [1]
-			"Vapeweed-BoreanTundra", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Vapeweed-BoreanTundra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			794, -- [11]
-			"Player-85-07DC69A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
-			[51] = 1541624277,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"jairoshi, you coming?", -- [1]
-			"Spledlanzikk-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Spledlanzikk-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			795, -- [11]
-			"Player-3676-084E46C4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaSpledlanzikk-Area52|r",
-			[51] = 1541624277,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"lets go", -- [1]
-			"Naxos-Ner'zhul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naxos-Ner'zhul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			796, -- [11]
-			"Player-128-0742EF02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaNaxos-Ner'zhul|r",
-			[51] = 1541624288,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"go", -- [1]
-			"Kaopie-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kaopie-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			798, -- [11]
-			"Player-61-097CDAC8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aKaopie-Zul'jin|r",
-			[51] = 1541624291,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"its no nut november have some respect ", -- [1]
-			"Delsney-Barthilas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delsney-Barthilas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			799, -- [11]
-			"Player-3723-0A4167F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDelsney-Barthilas|r",
-			[51] = 1541624292,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"lets go", -- [1]
-			"Spledlanzikk-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Spledlanzikk-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			800, -- [11]
-			"Player-3676-084E46C4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaSpledlanzikk-Area52|r",
-			[51] = 1541624294,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
 			"yeah dude be courtious", -- [1]
 			"Chaddyp-BleedingHollow", -- [2]
 			"", -- [3]
@@ -374,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddChaddyp-BleedingHollow|r",
 			[51] = 1541624305,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
+		}, -- [1]
 		{
 			"we are not", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -396,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541624363,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
+		}, -- [2]
 		{
 			"going to 1 room it", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -418,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541624366,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
+		}, -- [3]
 		{
 			"should start sending groups", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -440,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541624392,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
+		}, -- [4]
 		{
 			"GROUP 1 MOVES AFTER NEXT WIND", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -462,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541624396,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [20]
+		}, -- [5]
 		{
 			"gropu 1 go", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -484,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541624428,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [21]
+		}, -- [6]
 		{
 			"GROUP 1 G", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -506,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541624432,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [22]
+		}, -- [7]
 		{
 			"GROUP 2 GO", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -528,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541624450,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [23]
+		}, -- [8]
 		{
 			"no healer sent over?", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -550,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624459,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [9]
 		{
 			"ASTARTY MVOING ALL", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -572,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541624477,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [25]
+		}, -- [10]
 		{
 			"Interrupted Remnant of Corruption's |cff71d5ff|Hspell:268198:0|h[Clinging Corruption]|h|r!", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -594,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541624497,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [11]
 		{
 			"relax its over", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -616,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541624512,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [27]
+		}, -- [12]
 		{
 			"lmao", -- [1]
 			"Jackaloff-Tichondrius", -- [2]
@@ -638,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
 			[51] = 1541624522,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
+		}, -- [13]
 		{
 			"its over as in, a wipe", -- [1]
 			"Jackaloff-Tichondrius", -- [2]
@@ -660,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
 			[51] = 1541624533,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+		}, -- [14]
 		{
 			"no", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -682,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541624543,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+		}, -- [15]
 		{
 			"ah damn", -- [1]
 			"Jackaloff-Tichondrius", -- [2]
@@ -704,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
 			[51] = 1541624544,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
+		}, -- [16]
 		{
 			"goooo", -- [1]
 			"Jackaloff-Tichondrius", -- [2]
@@ -726,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
 			[51] = 1541624546,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
+		}, -- [17]
 		{
 			"nice", -- [1]
 			"Jackaloff-Tichondrius", -- [2]
@@ -748,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
 			[51] = 1541624547,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
+		}, -- [18]
 		{
 			"lmao", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -770,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624554,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
+		}, -- [19]
 		{
 			"fun strat", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -792,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624560,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [20]
 		{
 			"sry man, too many pms", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -814,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541624563,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [36]
+		}, -- [21]
 		{
 			"do you need that vape", -- [1]
 			"Naxos-Ner'zhul", -- [2]
@@ -836,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaNaxos-Ner'zhul|r",
 			[51] = 1541624581,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [22]
 		{
 			"brb sec", -- [1]
 			"Shidabari-Illidan", -- [2]
@@ -858,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddShidabari-Illidan|r",
 			[51] = 1541624586,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [23]
 		{
 			"yea for offspec", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -880,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624594,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [24]
 		{
 			"dont pst me about ring ;) <3", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -902,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624614,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [25]
 		{
 			"Interrupted Nazmani Ascendant's |cff71d5ff|Hspell:276540:0|h[Blood Shield]|h|r!", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -924,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624696,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [26]
 		{
 			"dont stand in bloodstorm bbys", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -946,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624727,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [27]
 		{
 			"them bitches heal", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -968,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624736,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [28]
 		{
 			"Corrupting Gaze on Moltun", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -990,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541624781,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [29]
 		{
 			"lets fix groups b4 pull", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1012,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624886,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
+		}, -- [30]
 		{
 			"also lust on trash we'll reset", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1034,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541624898,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [31]
 		{
 			"shadowed unit frames master race", -- [1]
 			"Jackaloff-Tichondrius", -- [2]
@@ -1056,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
 			[51] = 1541624903,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [32]
 		{
 			"sorry bak", -- [1]
 			"Shidabari-Illidan", -- [2]
@@ -1078,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddShidabari-Illidan|r",
 			[51] = 1541624906,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [33]
 		{
 			"had to eat", -- [1]
 			"Shidabari-Illidan", -- [2]
@@ -1100,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddShidabari-Illidan|r",
 			[51] = 1541624928,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [34]
 		{
 			"om nom?", -- [1]
 			"Jackaloff-Tichondrius", -- [2]
@@ -1122,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaJackaloff-Tichondrius|r",
 			[51] = 1541624945,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [35]
 		{
 			"need summ", -- [1]
 			"Hetzulok-Mal'Ganis", -- [2]
@@ -1144,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddHetzulok-Mal'Ganis|r",
 			[51] = 1541625055,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [36]
 		{
 			"reset", -- [1]
 			"Dubz-Arthas", -- [2]
@@ -1166,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Dubz-Arthas|r",
 			[51] = 1541625065,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [37]
 		{
 			"hunter pulled", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1188,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625072,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [38]
 		{
 			",.....", -- [1]
 			"Raveniest-Illidan", -- [2]
@@ -1210,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRaveniest-Illidan|r",
 			[51] = 1541625076,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
+		}, -- [39]
 		{
 			"so", -- [1]
 			"Shidabari-Illidan", -- [2]
@@ -1232,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddShidabari-Illidan|r",
 			[51] = 1541625083,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [40]
 		{
 			"then just deal with it", -- [1]
 			"Shidabari-Illidan", -- [2]
@@ -1254,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddShidabari-Illidan|r",
 			[51] = 1541625087,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [41]
 		{
 			"instead of not fukin tanking", -- [1]
 			"Shidabari-Illidan", -- [2]
@@ -1276,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddShidabari-Illidan|r",
 			[51] = 1541625095,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [42]
 		{
 			"mage actually did", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -1298,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541625095,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [43]
 		{
 			"reset", -- [1]
 			"Dubz-Arthas", -- [2]
@@ -1320,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Dubz-Arthas|r",
 			[51] = 1541625111,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [44]
 		{
 			"we are outside", -- [1]
 			"Raveniest-Illidan", -- [2]
@@ -1342,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRaveniest-Illidan|r",
 			[51] = 1541625111,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [45]
 		{
 			"just reset", -- [1]
 			"Bullèt-Illidan", -- [2]
@@ -1364,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBullèt-Illidan|r",
 			[51] = 1541625113,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [46]
 		{
 			"wipe", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1386,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625115,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [47]
 		{
 			"wipe fast", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -1408,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625128,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [63]
+		}, -- [48]
 		{
 			"well not sure what you expected to happen when you ran into to where the boss would respawn", -- [1]
 			"Naxos-Ner'zhul", -- [2]
@@ -1430,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaNaxos-Ner'zhul|r",
 			[51] = 1541625136,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [49]
 		{
 			"maybe  pulled for reset np", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -1452,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625136,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [65]
+		}, -- [50]
 		{
 			"wipe plz", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1474,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625137,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [66]
+		}, -- [51]
 		{
 			"stop healing", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -1496,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1541625164,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [52]
 		{
 			"naw they got this", -- [1]
 			"Naxos-Ner'zhul", -- [2]
@@ -1518,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaNaxos-Ner'zhul|r",
 			[51] = 1541625172,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [53]
 		{
 			"i dont wanna die outside, wipe fast :s", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -1540,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625191,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [69]
+		}, -- [54]
 		{
 			"just 100% more to go", -- [1]
 			"Naxos-Ner'zhul", -- [2]
@@ -1562,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaNaxos-Ner'zhul|r",
 			[51] = 1541625194,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [55]
 		{
 			"omg... so nuts!!!", -- [1]
 			"Raveniest-Illidan", -- [2]
@@ -1584,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRaveniest-Illidan|r",
 			[51] = 1541625223,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [56]
 		{
 			"they got this", -- [1]
 			"Naxos-Ner'zhul", -- [2]
@@ -1606,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaNaxos-Ner'zhul|r",
 			[51] = 1541625229,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [57]
 		{
 			"im outside", -- [1]
 			"Dractarus-Azralon", -- [2]
@@ -1628,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDractarus-Azralon|r",
 			[51] = 1541625230,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [58]
 		{
 			"not wasting anyones time at all", -- [1]
 			"Naxos-Ner'zhul", -- [2]
@@ -1650,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaNaxos-Ner'zhul|r",
 			[51] = 1541625235,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [59]
 		{
 			"ok", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -1672,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625239,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [75]
+		}, -- [60]
 		{
 			"if youre not a tank and you pull a boss im kicking you <3", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1694,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625256,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [76]
+		}, -- [61]
 		{
 			"such a stupid group", -- [1]
 			"Raveniest-Illidan", -- [2]
@@ -1716,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRaveniest-Illidan|r",
 			[51] = 1541625258,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [62]
 		{
 			"chaddyp is offline", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1738,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625275,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [63]
 		{
 			"readycheck when every1s here, if he's not back i kick", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -1760,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625290,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [79]
+		}, -- [64]
 		{
 			"replacing ppl ", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -1782,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625306,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [80]
+		}, -- [65]
 		{
 			"yo", -- [1]
 			"Bakedwarrior-Area52", -- [2]
@@ -1804,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBakedwarrior-Area52|r",
 			[51] = 1541625307,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [66]
 		{
 			"quick bio while we refill", -- [1]
 			"Kaopie-Zul'jin", -- [2]
@@ -1826,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aKaopie-Zul'jin|r",
 			[51] = 1541625310,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [67]
 		{
 			"summ please", -- [1]
 			"Bakedwarrior-Area52", -- [2]
@@ -1848,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBakedwarrior-Area52|r",
 			[51] = 1541625310,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [68]
 		{
 			"we dont have a lock", -- [1]
 			"Dractarus-Azralon", -- [2]
@@ -1870,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDractarus-Azralon|r",
 			[51] = 1541625322,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [69]
 		{
 			"we killing 1 add?", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1892,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625326,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [70]
 		{
 			"out of time, gl", -- [1]
 			"Dustuhar-Fenris", -- [2]
@@ -1914,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDustuhar-Fenris|r",
 			[51] = 1541625329,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [71]
 		{
 			"what boss we on", -- [1]
 			"Columbo-TheForgottenCoast", -- [2]
@@ -1936,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aColumbo-TheForgottenCoast|r",
 			[51] = 1541625334,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [72]
 		{
 			"fetid", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -1958,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625338,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [73]
 		{
 			"kill 1 add till 50%, lust kill boss", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -1980,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625342,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [89]
+		}, -- [74]
 		{
 			"groups not looking great", -- [1]
 			"Vapeweed-BoreanTundra", -- [2]
@@ -2002,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Vapeweed-BoreanTundra|r",
 			[51] = 1541625346,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [75]
 		{
 			"let the leavers leawve fast", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2024,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625411,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [91]
+		}, -- [76]
 		{
 			"how does normal go this badly", -- [1]
 			"Hetzulok-Mal'Ganis", -- [2]
@@ -2046,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddHetzulok-Mal'Ganis|r",
 			[51] = 1541625422,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [77]
 		{
 			"i dont get it", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2068,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625430,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [93]
+		}, -- [78]
 		{
 			"one guy pulls", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2090,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625436,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [94]
+		}, -- [79]
 		{
 			"so raid is bad?", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2112,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625440,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [95]
+		}, -- [80]
 		{
 			"legit dont even have to do mechanics", -- [1]
 			"Hetzulok-Mal'Ganis", -- [2]
@@ -2134,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddHetzulok-Mal'Ganis|r",
 			[51] = 1541625442,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [81]
 		{
 			"not like we wiped or anything", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2156,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625452,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [97]
+		}, -- [82]
 		{
 			"help me summon", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2178,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625458,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [98]
+		}, -- [83]
 		{
 			"nvm lock's here", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2200,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625475,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [99]
+		}, -- [84]
 		{
 			"few mins, i fill this then we go", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2222,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625539,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [100]
+		}, -- [85]
 		{
 			"summon those who need it", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2244,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625872,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [101]
+		}, -- [86]
 		{
 			"1", -- [1]
 			"Soberphobic-Tichondrius", -- [2]
@@ -2266,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Soberphobic-Tichondrius|r",
 			[51] = 1541625880,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [87]
 		{
 			"lock oprtal pls", -- [1]
 			"Rumjugs-Illidan", -- [2]
@@ -2288,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRumjugs-Illidan|r",
 			[51] = 1541625923,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [103]
+		}, -- [88]
 		{
 			"1", -- [1]
 			"Soberphobic-Tichondrius", -- [2]
@@ -2310,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Soberphobic-Tichondrius|r",
 			[51] = 1541625928,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [89]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:520:Player-1147-0668D3A4:1:12:21:18:4294967295:4294967295:4294967295:4294967295|h[20 Exalted Reputations]|h|r!", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -2332,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1545425620,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [105]
+		}, -- [90]
 		{
 			"this \"Esteemed\" title from 100 exalted reps... time to make alts named carrots and broccoli", -- [1]
 			"Scritches-Bladefist", -- [2]
@@ -2354,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Scritches|r",
 			[51] = 1545425778,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [91]
 		{
 			"i just watched conan in japan", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2376,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545425913,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [92]
 		{
 			"I hope Blizzard just enjoyed my 20 dollar donation", -- [1]
 			"Raw-Bladefist", -- [2]
@@ -2398,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRaw-Bladefist|r",
 			[51] = 1545425917,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [93]
 		{
 			"i dont think i want to see that ever fucking again", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2420,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545425922,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [94]
 		{
 			"you have an irrational obsession with keeping raw on your main", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2442,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545425951,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [95]
 		{
 			"Its been my name for 14 years", -- [1]
 			"Raw-Bladefist", -- [2]
@@ -2464,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRaw-Bladefist|r",
 			[51] = 1545425962,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [96]
 		{
 			"im keeping it lol", -- [1]
 			"Raw-Bladefist", -- [2]
@@ -2486,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRaw-Bladefist|r",
 			[51] = 1545425964,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [97]
 		{
 			"i mean its the same with my rogue", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2508,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545425979,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [98]
 		{
 			"my ally rogue has the original name still", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2530,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545425997,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [99]
 		{
 			"horde has the funny letter one zzz", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2552,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545426004,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [100]
 		{
 			"ive nvr done this one before", -- [1]
 			"Sylon-Zul'jin", -- [2]
@@ -2574,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSylon-Zul'jin|r",
 			[51] = 1545426089,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [116]
+		}, -- [101]
 		{
 			"fucking lol my Raider IO transfered over my warrior stats", -- [1]
 			"Raw-Bladefist", -- [2]
@@ -2596,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRaw-Bladefist|r",
 			[51] = 1545426117,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [102]
 		{
 			"you can edit it", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2618,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545426129,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [103]
 		{
 			"supr ez", -- [1]
 			"Xõni-Hyjal", -- [2]
@@ -2640,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Xõni-Hyjal|r",
 			[51] = 1545426152,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [119]
+		}, -- [104]
 		{
 			"kill night elves, collect resources, turn them in", -- [1]
 			"Lanren-Illidan", -- [2]
@@ -2662,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aLanren-Illidan|r",
 			[51] = 1545426192,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [120]
+		}, -- [105]
 		{
 			"More killing than collecting this time around as well", -- [1]
 			"Mascles-MoonGuard", -- [2]
@@ -2684,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMascles-MoonGuard|r",
 			[51] = 1545426205,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [121]
+		}, -- [106]
 		{
 			"Interrupted Gilnean Defuser's |cff71d5ff|Hspell:279185:0|h[Throw Dynamite]|h|r!", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -2706,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1545426969,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [107]
 		{
 			"hm", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2728,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545427051,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [108]
 		{
 			"so far nothing in this shitshow", -- [1]
 			"Jukö-Bladefist", -- [2]
@@ -2750,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jukö|r",
 			[51] = 1545427059,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [109]
 		{
 			"Interrupted Gilnean Defuser's |cff71d5ff|Hspell:279185:0|h[Throw Dynamite]|h|r!", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -2772,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1545427106,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [125]
+		}, -- [110]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13296:Player-1147-0668D3A4:1:12:21:18:4294967295:4294967295:4294967295:4294967295|h[War for the Shore]|h|r!", -- [1]
 			"Moltun-Bladefist", -- [2]
@@ -2794,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Moltun|r",
 			[51] = 1545427942,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [126]
+		}, -- [111]
 		{
 			"yesss 4/5 arathi mounts", -- [1]
 			"Qcumba-Bladefist", -- [2]
@@ -2816,6 +2486,336 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aQcumba|r",
 			[51] = 1545427968,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13284:Player-1147-08066A04:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[Frontline Warrior]|h|r!", -- [1]
+			"Loates-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Loates-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1098, -- [11]
+			"Player-1147-08066A04", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Loates|r",
+			[51] = 1548174967,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [113]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13388:Player-1147-08066A04:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[Frontline Veteran]|h|r!", -- [1]
+			"Loates-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Loates-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1099, -- [11]
+			"Player-1147-08066A04", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Loates|r",
+			[51] = 1548174967,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [114]
+		{
+			"Interrupted The Songbird Queen's |cff71d5ff|Hspell:114826:0|h[Songbird Serenade]|h|r", -- [1]
+			"Sanguinfola-Darrowmere", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sanguinfola-Darrowmere", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1103, -- [11]
+			"Player-87-07700B1E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSanguinfola-Darrowmere|r",
+			[51] = 1548174994,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [115]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110099:0|h[Shadows of Doubt]|h|r", -- [1]
+			"Sanguinfola-Darrowmere", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sanguinfola-Darrowmere", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1130, -- [11]
+			"Player-87-07700B1E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSanguinfola-Darrowmere|r",
+			[51] = 1548175214,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [116]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110125:0|h[Shattered Resolve]|h|r", -- [1]
+			"Sanguinfola-Darrowmere", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sanguinfola-Darrowmere", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1131, -- [11]
+			"Player-87-07700B1E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSanguinfola-Darrowmere|r",
+			[51] = 1548175234,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [117]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110099:0|h[Shadows of Doubt]|h|r!", -- [1]
+			"Moltun-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Moltun-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1132, -- [11]
+			"Player-1147-0668D3A4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Moltun|r",
+			[51] = 1548175234,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [118]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110099:0|h[Shadows of Doubt]|h|r", -- [1]
+			"Sanguinfola-Darrowmere", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sanguinfola-Darrowmere", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1150, -- [11]
+			"Player-87-07700B1E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSanguinfola-Darrowmere|r",
+			[51] = 1548175340,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [119]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110125:0|h[Shattered Resolve]|h|r!", -- [1]
+			"Moltun-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Moltun-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1151, -- [11]
+			"Player-1147-0668D3A4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Moltun|r",
+			[51] = 1548175345,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [120]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110125:0|h[Shattered Resolve]|h|r", -- [1]
+			"Sanguinfola-Darrowmere", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sanguinfola-Darrowmere", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1152, -- [11]
+			"Player-87-07700B1E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSanguinfola-Darrowmere|r",
+			[51] = 1548175361,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [121]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110099:0|h[Shadows of Doubt]|h|r!", -- [1]
+			"Moltun-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Moltun-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1154, -- [11]
+			"Player-1147-0668D3A4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Moltun|r",
+			[51] = 1548175370,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [122]
+		{
+			"Interrupted |cff71d5ff|Hspell:110125:0|h[Shattered Resolve]|h|r on Minion of Doubt", -- [1]
+			"ßloodsail-Dalaran", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"ßloodsail-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1155, -- [11]
+			"Player-3683-0B3A8C23", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaßloodsail-Dalaran|r",
+			[51] = 1548175383,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [123]
+		{
+			"Touch of Nothingness on Moltun", -- [1]
+			"Moltun-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Moltun-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1161, -- [11]
+			"Player-1147-0668D3A4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Moltun|r",
+			[51] = 1548175445,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [124]
+		{
+			"bout to put my key up and see if i can find some pugs for it meri you want in?", -- [1]
+			"Loates-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1194, -- [11]
+			"Player-1147-08066A04", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Loates|r",
+			[51] = 1548175533,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13289:Player-1147-07FFB983:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[Defense of Dazar'alor]|h|r!", -- [1]
+			"Meri-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meri-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			607, -- [11]
+			"Player-1147-07FFB983", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edMeri|r",
+			[51] = 1548180639,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6547:Player-1147-0668D3A4:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[The Anglers]|h|r!", -- [1]
+			"Moltun-Bladefist", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Moltun-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			878, -- [11]
+			"Player-1147-0668D3A4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Moltun|r",
+			[51] = 1548182590,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

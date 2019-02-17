@@ -18,7 +18,7 @@ BigWigs_TombOfSargeras: enabled
 BigWigs_TrialOfValor: enabled
 BigWigs_Uldir: enabled
 BlockChinese: enabled
-Clique: disabled
+Clique: enabled
 frenzyregen: enabled
 GarrisonMissionManager: enabled
 GTFO: enabled
@@ -56,3 +56,5 @@ OmniCC_Config: disabled
 VuhDo: disabled
 VuhDoOptions: disabled
 ElvUI_EverySecondCounts: disabled
+AAP-Core: enabled
+Hekili: disabled

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0232,
+	["LastVersion"] = 2.0233,
 	["LastPlayerFullName"] = "Vrill-Area 52",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

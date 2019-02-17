@@ -8,8 +8,8 @@ BigWigs_Azeroth: enabled
 BigWigs_Uldir: enabled
 Skada: disabled
 PremadeGroupsFilter: disabled
-TradeSkillMaster: enabled
-TradeSkillMaster_AppHelper: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled
 AngryAssignments: enabled
 AzeriteTooltip: enabled
 BadBoy: disabled
@@ -77,3 +77,5 @@ AAP-TBC-WotLK: disabled
 AAP-Cata-MoP: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
+Hekili: disabled
+TwintopInsanityBar: disabled

@@ -1,0 +1,2 @@
+AAP-Core: disabled
+AAP-BfA: disabled

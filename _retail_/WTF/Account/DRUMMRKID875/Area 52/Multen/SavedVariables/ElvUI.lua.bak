@@ -1,238 +1,194 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p mines wont do anything", -- [1]
-		"/p lock", -- [2]
-		"/p run out after gatling", -- [3]
-		"/p ur only ranged", -- [4]
-		"/p thanks for the run", -- [5]
-		"/p cant trade bonus loot", -- [6]
-		"/p u doing the 10?", -- [7]
-		"/p bummer", -- [8]
-		"/logout", -- [9]
-		"/g ayy the beef doin mythics now what a lad", -- [10]
-		"/pawn", -- [11]
-		"/g are we raiding tonight", -- [12]
-		"/g completely forgot", -- [13]
-		"/g neato", -- [14]
-		"/g i want to +2 more 13 keys", -- [15]
-		"/g i wish we would reset", -- [16]
-		"/g people are so burnt out", -- [17]
-		"/g yea some do, tho it's kind of irrelevant now", -- [18]
-		"/g ok well off to try out dark souls 3, got it 75% off", -- [19]
-		"/g naw", -- [20]
+		"/p https://discord.gg/sDE6dF", -- [1]
+		"/p |cffa335ee|Hitem:159617::::::::120:577::16:3:5009:1537:4786:::|h[Lustrous Golden Plumage]|h|r|cffa335ee|Hitem:155881::::::::120:577::16:3:5008:1537:4786:::|h[Harlan's Loaded Dice]|h|r", -- [2]
+		"/readycheck", -- [3]
+		"/g took aggro", -- [4]
+		"/g and died :(", -- [5]
+		"/g whyd you leave", -- [6]
+		"/hi", -- [7]
+		"/p |cffa335ee|Hitem:38311::::::::120:577:::1:3524:::|h[Tabard of the Void]|h|r", -- [8]
+		"/p hey", -- [9]
+		"/g |cffa335ee|Hitem:166794::::::::120:577::3:3:5479:1502:4786:::|h[Forest Lord's Razorleaf]|h|r nice", -- [10]
+		"/g i will in a bit", -- [11]
+		"/g like an hour or so", -- [12]
+		"/g damn timewalking gives 365 now", -- [13]
+		"/g dope", -- [14]
+		"/g you doing a normal run?", -- [15]
+		"/g oh", -- [16]
+		"/g calendar says same time as every other raid", -- [17]
+		" inv", -- [18]
+		"/simc", -- [19]
+		"/roll", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r", -- [1]
-			"Siññister-Tichondrius", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:5066:Player-3676-0A2412E1:1:1:7:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Lost City of the Tol'vir]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
+			"Nuggits-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2183, -- [11]
-			"Player-11-0B4D0657", -- [12]
+			2009, -- [11]
+			"Player-3676-0A2412E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546371730,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546890824,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [1]
 		{
-			"Interrupted Mech Jockey's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
+			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
 			0, -- [10]
-			2189, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			2129, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546371794,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "",
+			[51] = 1546891110,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"gonna SS at the end and run by to rez", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"ahhh yes", -- [1]
+			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2190, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			93, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546371799,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546960184,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [3]
 		{
-			"Interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
-			"Siññister-Tichondrius", -- [2]
+			"that's more like it", -- [1]
+			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2193, -- [11]
-			"Player-11-0B4D0657", -- [12]
+			95, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546371816,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546960186,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [4]
 		{
-			"Interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
-			"Siññister-Tichondrius", -- [2]
+			"a useless cape", -- [1]
+			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2196, -- [11]
-			"Player-11-0B4D0657", -- [12]
+			96, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546371860,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546960193,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [5]
 		{
-			"Interrupted Hired Assassin's |cff71d5ff|Hspell:269302:0|h[Toxic Blades]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
+			"|cffa335ee|Hitem:159314::::::::120:577::35:5:5448:1557:4786:5401:4775:::|h[Cephalohide Jacket]|h|r finally", -- [1]
+			"Lold-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2197, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			496, -- [11]
+			"Player-3676-09F74822", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546371884,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Lold|r",
+			[51] = 1546962887,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [6]
 		{
-			"45 i think", -- [1]
-			"Hiser-Illidan", -- [2]
+			"only took till this tier ended", -- [1]
+			"Lold-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2198, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			507, -- [11]
+			"Player-3676-09F74822", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546371885,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa330c9Lold|r",
+			[51] = 1546962907,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [7]
 		{
-			"mean we are gonna skip the last hill with ss", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2200, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546371901,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"why are we pulling all this trash", -- [1]
-			"Siññister-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2201, -- [11]
-			"Player-11-0B4D0657", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546371911,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"grats", -- [1]
 			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2202, -- [11]
+			521, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -240,813 +196,285 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546371911,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1546962973,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [8]
+		{
+			"wow what a shit week for keys", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			566, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546963704,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [9]
+		{
+			"inv", -- [1]
+			"Beefiie-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1897, -- [11]
+			"Player-3676-095230AA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aBeefiie|r",
+			[51] = 1546972046,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [10]
 		{
-			"Interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
-			"Siññister-Tichondrius", -- [2]
+			"|cffa335ee|Hkeystone:158923:247:12:10:8:12:16|h[Keystone: The MOTHERLODE!! (12)]|h|r on this guy", -- [1]
+			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2204, -- [11]
-			"Player-11-0B4D0657", -- [12]
+			1898, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546371924,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546972047,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [11]
 		{
-			"to skip the very end", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"gonna do a work call rq ", -- [1]
+			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2205, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			1968, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546371924,
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546972337,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"% so we can skip all last hill", -- [1]
-			"Hiser-Illidan", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12755:Player-3676-09D7A725:1:1:8:19:4294967295:4294967295:4294967295:4294967295|h[Scent of the Sea]|h|r!", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"Pickleblades-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2206, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			2282, -- [11]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546371928,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546972860,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [13]
 		{
-			"Interrupted Mech Jockey's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
+			"hey ya", -- [1]
+			"Killingspree-Thrall", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
+			"Killingspree-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2207, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			2304, -- [11]
+			"Player-3678-0907C724", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546371931,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dKillingspree-Thrall|r",
+			[51] = 1546973031,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"healer you know the ss skip>?", -- [1]
-			"Hiser-Illidan", -- [2]
+			"hey", -- [1]
+			"Beefiie-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2208, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546371941,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"i figured", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2209, -- [11]
-			"Player-84-083B27AB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546371941,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
-		{
-			"BOMB LOC", -- [1]
-			"Siññister-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2219, -- [11]
-			"Player-11-0B4D0657", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546372009,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
-		{
-			"SRY CAP", -- [1]
-			"Siññister-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2220, -- [11]
-			"Player-11-0B4D0657", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546372012,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
-		{
-			"sorry", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2227, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546372069,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
-		{
-			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:263202:0|h[Rock Lance]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2229, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372089,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:263202:0|h[Rock Lance]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2232, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372141,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"if we keep going mob to mob how am i supposed to get stealth", -- [1]
-			"Siññister-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2233, -- [11]
-			"Player-11-0B4D0657", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546372145,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:268709:0|h[Earth Shield]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2234, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372162,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"Raging Gaze on Multen", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2250, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372320,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Raging Gaze on Multen", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2252, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372335,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Interrupted Venture Co. Alchemist's |cff71d5ff|Hspell:268797:0|h[Transmute: Enemy to Goo]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2260, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372448,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"Interrupted |cff71d5ff|Hspell:263103:0|h[Blowtorch]|h|r", -- [1]
-			"Siññister-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2261, -- [11]
-			"Player-11-0B4D0657", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546372510,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"Interrupted Feckless Assistant's |cff71d5ff|Hspell:263066:0|h[Transfiguration Serum]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2262, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372516,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Interrupted Venture Co. Alchemist's |cff71d5ff|Hspell:268797:0|h[Transmute: Enemy to Goo]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2263, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372577,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Interrupted |cff71d5ff|Hspell:268797:0|h[Transmute: Enemy to Goo]|h|r", -- [1]
-			"Siññister-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Siññister-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2264, -- [11]
-			"Player-11-0B4D0657", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Siññister-Tichondrius|r",
-			[51] = 1546372577,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"Casting mass resurrection!", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2270, -- [11]
-			"Player-84-083B27AB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546372701,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
-		{
-			"rogue dc?", -- [1]
-			"Multen-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2271, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372705,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
-		{
-			"looks like it", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2272, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546372711,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
-		{
-			"looks like it", -- [1]
-			"Groovecruise-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2273, -- [11]
-			"Player-57-0B1FD063", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546372711,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
-		{
-			"Interrupted Feckless Assistant's |cff71d5ff|Hspell:263066:0|h[Transfiguration Serum]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2274, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372732,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"Interrupted Venture Co. Alchemist's |cff71d5ff|Hspell:262268:0|h[Caustic Compound]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2276, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372753,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"good run too", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2279, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546372795,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [37]
-		{
-			"hard parts are over at least", -- [1]
-			"Multen-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2280, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546372810,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
-		{
-			"ss skip this", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"Beefiie-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2305, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			"Player-3676-095230AA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546372991,
+			[52] = "|cffff7c0aBeefiie|r",
+			[51] = 1546973034,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [15]
 		{
-			"we need some %", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"hello", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2306, -- [11]
-			"Player-57-0B1FD063", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546372995,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"run to plat", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"Pickleblades-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2307, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546372997,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546973036,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [16]
 		{
-			"the last pull", -- [1]
-			"Multen-Area52", -- [2]
+			"everyone here", -- [1]
+			"Beefiie-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
+			"Beefiie-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2308, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			"Player-3676-095230AA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373000,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
-		{
-			"oh yea", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2309, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373003,
+			[52] = "|cffff7c0aBeefiie|r",
+			[51] = 1546973037,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [17]
 		{
-			"Interrupted Ordnance Specialist's |cff71d5ff|Hspell:269090:0|h[Artillery Barrage]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2310, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373047,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"after this mount up and run to platform to the left", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"discord?", -- [1]
+			"Killingspree-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"Killingspree-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2311, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			2314, -- [11]
+			"Player-3678-0907C724", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373058,
+			[52] = "|cffc69b6dKillingspree-Thrall|r",
+			[51] = 1546973055,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [18]
 		{
-			"ur good", -- [1]
-			"Multen-Area52", -- [2]
+			"Only if you want", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2319, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373127,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
-		{
-			"mines wont do anything", -- [1]
-			"Multen-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Multen-Area52", -- [5]
+			"Pickleblades-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2320, -- [11]
+			"Player-3676-09D7A725", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546973086,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [19]
+		{
+			"con you back", -- [1]
+			"Beefiie-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2321, -- [11]
+			"Player-3676-095230AA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aBeefiie|r",
+			[51] = 1546973100,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [20]
+		{
+			"yea", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2322, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1054,101 +482,123 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373130,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+			[51] = 1546973104,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [21]
 		{
-			"Casting mass resurrection!", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
+			"sur emakes it easy", -- [1]
+			"Killingspree-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
+			"Killingspree-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2321, -- [11]
-			"Player-84-083B27AB", -- [12]
+			2323, -- [11]
+			"Player-3678-0907C724", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546373132,
+			[52] = "|cffc69b6dKillingspree-Thrall|r",
+			[51] = 1546973104,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [22]
 		{
-			"Homing Missile on Hiser", -- [1]
-			"Hiser-Illidan", -- [2]
-			"Orcish", -- [3]
+			"one sec", -- [1]
+			"Pickleblades-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"Pickleblades-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2324, -- [11]
+			"Player-3676-09D7A725", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546973127,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [23]
+		{
+			"https://discord.gg/sDE6dF", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2325, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546973142,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [24]
+		{
+			"|cffa335ee|Hitem:159617::::::::120:577::16:3:5009:1537:4786:::|h[Lustrous Golden Plumage]|h|r|cffa335ee|Hitem:155881::::::::120:577::16:3:5008:1537:4786:::|h[Harlan's Loaded Dice]|h|r", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2328, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373194,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546973334,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [25]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10685:Player-3676-0A100045:1:1:1:19:4294967295:4294967295:4294967295:4294967295|h[Fashionista: Feet]|h|r!", -- [1]
-			"Dippindotzs-Area52", -- [2]
-			"", -- [3]
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:268129:0|h[Kaja'Cola Refresher]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Dippindotzs-Area52", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2331, -- [11]
-			"Player-3676-0A100045", -- [12]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDippindotzs|r",
-			[51] = 1546373204,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [50]
-		{
-			"Homing Missile on Hiser", -- [1]
-			"Hiser-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2332, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373217,
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546973447,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [26]
 		{
-			"lock", -- [1]
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Multen-Area52", -- [5]
 			"", -- [6]
@@ -1164,13 +614,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373222,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+			[51] = 1546973484,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [27]
 		{
-			"run out after gatling", -- [1]
+			"Interrupted Addled Thug's |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Multen-Area52", -- [5]
 			"", -- [6]
@@ -1186,43 +636,65 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373231,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+			[51] = 1546973515,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [28]
 		{
-			"Homing Missile on Hiser", -- [1]
-			"Hiser-Illidan", -- [2]
-			"Orcish", -- [3]
+			"lul", -- [1]
+			"Lold-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2338, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			2344, -- [11]
+			"Player-3676-09F74822", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373239,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+			[52] = "|cffa330c9Lold|r",
+			[51] = 1546973590,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [29]
 		{
-			"ur only ranged", -- [1]
-			"Multen-Area52", -- [2]
+			"good tank", -- [1]
+			"Lold-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2340, -- [11]
+			2345, -- [11]
+			"Player-3676-09F74822", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Lold|r",
+			[51] = 1546973592,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [30]
+		{
+			"yea", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2346, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1230,33 +702,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373246,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+			[51] = 1546973645,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [31]
 		{
-			"Azerite Heartseeker on Meanpandah", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
-			"Orcish", -- [3]
+			"took aggro", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2347, -- [11]
-			"Player-84-083B27AB", -- [12]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546373292,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546973646,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [32]
 		{
-			"Interrupted Venture Co. Skyscorcher's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
+			"and died :(", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2348, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1546973649,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [33]
+		{
+			"Interrupted Addled Thug's |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1266,7 +760,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2350, -- [11]
+			2354, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1274,79 +768,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373301,
+			[51] = 1546973781,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [34]
 		{
-			"Homing Missile on Hiser", -- [1]
-			"Hiser-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2353, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373320,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"Homing Missile on Hiser", -- [1]
-			"Hiser-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2356, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373341,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"Homing Missile on Hiser", -- [1]
-			"Hiser-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2362, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373386,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12844:Player-3676-0A1DEB8B:1:1:1:19:4294967295:4294967295:4294967295:4294967295|h[The MOTHERLODE!!]|h|r!", -- [1]
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Multen-Area52", -- [5]
 			"", -- [6]
@@ -1354,7 +782,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2366, -- [11]
+			2358, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1362,13 +790,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373410,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [61]
+			[51] = 1546973862,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [35]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12845:Player-3676-0A1DEB8B:1:1:1:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: The MOTHERLODE!!]|h|r!", -- [1]
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:268129:0|h[Kaja'Cola Refresher]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Multen-Area52", -- [5]
 			"", -- [6]
@@ -1376,7 +804,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2367, -- [11]
+			2360, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1384,13 +812,35 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373410,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [62]
+			[51] = 1546973883,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [36]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12846:Player-3676-0A1DEB8B:1:1:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: The MOTHERLODE!!]|h|r!", -- [1]
-			"Multen-Area52", -- [2]
+			"how", -- [1]
+			"Lold-Area52", -- [2]
 			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2365, -- [11]
+			"Player-3676-09F74822", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Lold|r",
+			[51] = 1546973924,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [37]
+		{
+			"Brain Freeze on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Multen-Area52", -- [5]
 			"", -- [6]
@@ -1398,7 +848,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2368, -- [11]
+			2370, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1406,131 +856,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373410,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [63]
+			[51] = 1546973930,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [38]
 		{
-			"gg guys", -- [1]
-			"Hiser-Illidan", -- [2]
+			"Why", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2373, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373411,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546973953,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [39]
 		{
-			"anyone need a 2h?", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2380, -- [11]
-			"Player-84-083B27AB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546373434,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
-		{
-			"yeah", -- [1]
-			"Groovecruise-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2381, -- [11]
-			"Player-57-0B1FD063", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373441,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
-		{
-			"na", -- [1]
-			"Hiser-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hiser-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2382, -- [11]
-			"Player-57-0B1FC439", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373442,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
-		{
-			"i do", -- [1]
-			"Groovecruise-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2383, -- [11]
-			"Player-57-0B1FD063", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373442,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"thanks for the run", -- [1]
+			"whyd you leave", -- [1]
 			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2385, -- [11]
+			2374, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1538,253 +900,297 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373455,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+			[51] = 1546973955,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [40]
 		{
-			"ty", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"gonna take an hour to do that just gonna get off", -- [1]
+			"Lold-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2386, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			2375, -- [11]
+			"Player-3676-09F74822", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373458,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+			[52] = "|cffa330c9Lold|r",
+			[51] = 1546973980,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [41]
 		{
-			"dmg is going up for me", -- [1]
-			"Hiser-Illidan", -- [2]
+			"|cffa335ee|Hkeystone:158923:353:13:10:8:12:16|h[Keystone: Siege of Boralus (13)]|h|r :/", -- [1]
+			"Sneakybert-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hiser-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2387, -- [11]
-			"Player-57-0B1FC439", -- [12]
+			2388, -- [11]
+			"Player-3676-0A1E134C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHiser-Illidan|r",
-			[51] = 1546373461,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+			[52] = "|cfffff468Sneakybert|r",
+			[51] = 1546974558,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [42]
 		{
-			"need these too? lol", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
+			"|cffa335ee|Hitem:165569::::::::120:105::5:1:3524:::|h[Ward of Envelopment]|h|r", -- [1]
+			"Beefiie-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2391, -- [11]
-			"Player-84-083B27AB", -- [12]
+			2392, -- [11]
+			"Player-3676-095230AA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546373483,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+			[52] = "|cffff7c0aBeefiie|r",
+			[51] = 1546975369,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [43]
 		{
-			"yeah actually", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12500:Player-3676-0A2412E1:1:1:8:19:4294967295:4294967295:4294967295:4294967295|h[Underrot]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"Nuggits-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2394, -- [11]
+			"Player-3676-0A2412E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546975411,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [44]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12501:Player-3676-0A2412E1:1:1:8:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underrot]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nuggits-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2395, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			"Player-3676-0A2412E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373495,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546975411,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [45]
 		{
-			"cant trade bonus loot", -- [1]
-			"Multen-Area52", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12502:Player-3676-0A2412E1:1:1:8:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Underrot]|h|r!", -- [1]
+			"Nuggits-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
+			"Nuggits-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2396, -- [11]
+			"Player-3676-0A2412E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Nuggits|r",
+			[51] = 1546975411,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [46]
+		{
+			"|cffa335ee|Hitem:165604::::::::120:577::6:1:3524:::|h[Daelin Proudmoore's Saber]|h|r", -- [1]
+			"Pickleblades-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2397, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373500,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546975416,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [47]
 		{
-			"oh cant on a bonus item", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
+			"|cffa335ee|Hitem:165583::::::::120:577::6:1:3524:::|h[Fogbreaker, Light of the Sea]|h|r", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2398, -- [11]
-			"Player-84-083B27AB", -- [12]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546373501,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546975452,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [48]
 		{
-			"oh well", -- [1]
-			"Meanpandah-Mug'thol", -- [2]
+			"|cff66bbff|Hjournal:2:19824:16|h[Howling Winds]|h|r", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanpandah-Mug'thol", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2399, -- [11]
-			"Player-84-083B27AB", -- [12]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMeanpandah-Mug'thol|r",
-			[51] = 1546373503,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546975489,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [49]
 		{
-			"np", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"|cffa335ee|Hitem:165592::::::::120:577::5:1:3524:::|h[Goblet of Glittering Favor]|h|r", -- [1]
+			"Pickleblades-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2401, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			2400, -- [11]
+			"Player-3676-09D7A725", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373507,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1546975569,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [50]
 		{
-			"u doing the 10?", -- [1]
-			"Multen-Area52", -- [2]
+			"wait what. the map from IE can give you Residuum ?", -- [1]
+			"Zandand-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Multen-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2403, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373509,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
-		{
-			"its shrine which sucks but i dont have time for it", -- [1]
-			"Groovecruise-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2405, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			"Player-3676-0A1A6E02", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373524,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [79]
+			[52] = "|cffff7c0aZandand|r",
+			[51] = 1546976899,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [51]
 		{
-			"ty for the run", -- [1]
-			"Groovecruise-Illidan", -- [2]
+			"back, sorry", -- [1]
+			"Echovoid-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Groovecruise-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2408, -- [11]
-			"Player-57-0B1FD063", -- [12]
+			632, -- [11]
+			"Player-3676-0A275183", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGroovecruise-Illidan|r",
-			[51] = 1546373532,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1547397206,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [52]
 		{
-			"bummer", -- [1]
+			"getting on  monk", -- [1]
+			"Echovoid-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			633, -- [11]
+			"Player-3676-0A275183", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEchovoid|r",
+			[51] = 1547397210,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [53]
+		{
+			"|cffa335ee|Hitem:38311::::::::120:577:::1:3524:::|h[Tabard of the Void]|h|r", -- [1]
 			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1794,7 +1200,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2409, -- [11]
+			636, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1802,55 +1208,759 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373533,
+			[51] = 1547397294,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [54]
 		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Uldaa-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Uldaa-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2415, -- [11]
-			"Player-3676-0A23FAA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffUldaa|r",
-			[51] = 1546373538,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12826:Player-3676-0971A25B:1:1:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Atal'Dazar]|h|r!", -- [1]
-			"Desecrathe-Area52", -- [2]
-			"", -- [3]
+			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Desecrathe-Area52", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2424, -- [11]
-			"Player-3676-0971A25B", -- [12]
+			650, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDesecrathe|r",
-			[51] = 1546373637,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547397586,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [55]
+		{
+			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			656, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547397691,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [56]
+		{
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			676, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547397916,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [57]
+		{
+			"Ricocheting Throw on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			729, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547398920,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [58]
+		{
+			"Ricocheting Throw on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			730, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547398929,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"Ricocheting Throw on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			731, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547398937,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [60]
+		{
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			732, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547398938,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"Ricocheting Throw on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			733, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547398946,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [62]
+		{
+			"I'll be back around 6:30 to help get keys done.", -- [1]
+			"Pickleblades-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			765, -- [11]
+			"Player-3676-09D7A725", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Pickleblades|r",
+			[51] = 1547399614,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [63]
+		{
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			769, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547399731,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			771, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547399782,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			772, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547399804,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [66]
+		{
+			"Cannon Barrage on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			778, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547399950,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"Fixate on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			781, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547399969,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"Cannon Barrage on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			784, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547399986,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"Cannon Barrage on Zetha", -- [1]
+			"Zetha-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Zetha-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			786, -- [11]
+			"Player-3676-08F659E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddZetha|r",
+			[51] = 1547399986,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [70]
+		{
+			"Cannon Barrage on Chikkinz", -- [1]
+			"Chikkinz-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Chikkinz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			790, -- [11]
+			"Player-3676-0A1404EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1547400061,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"Fixate on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			793, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547400078,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"Cannon Barrage on Echomist", -- [1]
+			"Echomist-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Echomist-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			795, -- [11]
+			"Player-3676-09EAB59F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Echomist|r",
+			[51] = 1547400079,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"Cannon Barrage on Chikkinz", -- [1]
+			"Chikkinz-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Chikkinz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			798, -- [11]
+			"Player-3676-0A1404EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1547400100,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"Cannon Barrage on Chikkinz", -- [1]
+			"Chikkinz-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Chikkinz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			800, -- [11]
+			"Player-3676-0A1404EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1547400122,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"Cannon Barrage on Zetha", -- [1]
+			"Zetha-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Zetha-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			801, -- [11]
+			"Player-3676-08F659E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddZetha|r",
+			[51] = 1547400122,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"Cannon Barrage on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			802, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547400122,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"Cannon Barrage on Echomist", -- [1]
+			"Echomist-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Echomist-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			803, -- [11]
+			"Player-3676-09EAB59F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Echomist|r",
+			[51] = 1547400122,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [78]
+		{
+			"Fixate on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			806, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547400139,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [79]
+		{
+			"Cannon Barrage on Multen", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			808, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547400146,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [80]
+		{
+			"Cannon Barrage on Chikkinz", -- [1]
+			"Chikkinz-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Chikkinz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			809, -- [11]
+			"Player-3676-0A1404EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddChikkinz|r",
+			[51] = 1547400146,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [81]
+		{
+			"Cannon Barrage on Echomist", -- [1]
+			"Echomist-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Echomist-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			810, -- [11]
+			"Player-3676-09EAB59F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Echomist|r",
+			[51] = 1547400146,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"Cannon Barrage on Zetha", -- [1]
+			"Zetha-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Zetha-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			811, -- [11]
+			"Player-3676-08F659E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddZetha|r",
+			[51] = 1547400146,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"ayy the beef doin mythics now what a lad", -- [1]
+			"anyone need |cffa335ee|Hitem:159633::::::::120:66::16:3:5010:1542:4786:::|h[Sharkbait's Fishhook]|h|r", -- [1]
+			"Limelife-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Limelife-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			820, -- [11]
+			"Player-3676-098A9147", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLimelife|r",
+			[51] = 1547400208,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [84]
+		{
+			"|cffa335ee|Hitem:163449::::::::120:263::6:3:5126:1562:4786:::|h[Honorbound Vanguard's Sabatons]|h|r|cffa335ee|Hitem:158356::::::::120:263::16:3:5010:1547:4783:::|h[Shell-Kickers]|h|r", -- [1]
+			"Zetha-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			821, -- [11]
+			"Player-3676-08F659E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddZetha|r",
+			[51] = 1547400230,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [85]
+		{
+			"hey", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			752, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1547760461,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
+		{
+			"hello", -- [1]
+			"Chillight-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Chillight-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			753, -- [11]
+			"Player-3684-09F9426E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaChillight-Mal'Ganis|r",
+			[51] = 1547760464,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [87]
+		{
+			"thanks", -- [1]
+			"Sneakydevil-Lothar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sneakydevil-Lothar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			948, -- [11]
+			"Player-68-00517984", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Sneakydevil-Lothar|r",
+			[51] = 1547918612,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [88]
+		{
+			"|cffa335ee|Hitem:166794::::::::120:577::3:3:5479:1502:4786:::|h[Forest Lord's Razorleaf]|h|r nice", -- [1]
 			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1860,7 +1970,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2425, -- [11]
+			960, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1868,320 +1978,12 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546373655,
+			[51] = 1547918624,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
-		{
-			"WTS Mythic+, Heroic Uldir, Mythic Uldir, Island Expeditions, Arena Rating and more - visit www.wowboo.st for more information.", -- [1]
-			"Crazzwazzlek-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crazzwazzlek-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2427, -- [11]
-			"Player-3676-0A24A8CE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddCrazzwazzlek|r",
-			[51] = 1546373666,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
-		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Uldaa-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Uldaa-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2429, -- [11]
-			"Player-3676-0A23FAA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffUldaa|r",
-			[51] = 1546373688,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
-		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Lohruulmin-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lohruulmin-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2431, -- [11]
-			"Player-3676-0A24317B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffLohruulmin|r",
-			[51] = 1546373701,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
-		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Uldaa-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Uldaa-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2434, -- [11]
-			"Player-3676-0A23FAA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffUldaa|r",
-			[51] = 1546373763,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
-		{
-			"WTS Mythic+, Heroic Uldir, Mythic Uldir, Island Expeditions, Arena Rating and more - visit www.wowboo.st for more information.", -- [1]
-			"Crazzwazzlek-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crazzwazzlek-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2435, -- [11]
-			"Player-3676-0A24A8CE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddCrazzwazzlek|r",
-			[51] = 1546373765,
-			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Lohruulmin-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lohruulmin-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2437, -- [11]
-			"Player-3676-0A24317B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffLohruulmin|r",
-			[51] = 1546373776,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
-		{
-			"Welcome to >>>>www.ebaygolds.com <<<< 24/7 online service,The Cheapest price @ fastest delievery.8000K in stock,delievery 10 mins.please visite >>>>WWW.E B A Y G O L D S.C0M<<<<100k=6.29USD", -- [1]
-			"Ydxhcyfkbbv-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ydxhcyfkbbv-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2440, -- [11]
-			"Player-3676-0A25DD2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffff468Ydxhcyfkbbv|r",
-			[51] = 1546373805,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
-		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Uldaa-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Uldaa-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2445, -- [11]
-			"Player-3676-0A23FAA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffUldaa|r",
-			[51] = 1546373838,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
-		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Lohruulmin-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lohruulmin-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2472, -- [11]
-			"Player-3676-0A24317B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffLohruulmin|r",
-			[51] = 1546373851,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
-		{
-			"WTS Mythic+, Heroic Uldir, Mythic Uldir, Island Expeditions, Arena Rating and more - visit www.wowboo.st for more information.", -- [1]
-			"Crazzwazzlek-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crazzwazzlek-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2481, -- [11]
-			"Player-3676-0A24A8CE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddCrazzwazzlek|r",
-			[51] = 1546373859,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
-		{
-			"[L D G] is recruiting exceptional raiders for our 8.1.5 progression raid team focused on cutting edge. Newly reformed guild of experienced players looking to round out our roster. Raid Times: Tues/Weds/Thurs 10pm-1am server (EST). PST!", -- [1]
-			"Hashßringer-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hashßringer-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2548, -- [11]
-			"Player-3676-09F6561A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaHashßringer|r",
-			[51] = 1546373886,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
-		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Uldaa-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Uldaa-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2573, -- [11]
-			"Player-3676-0A23FAA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffUldaa|r",
-			[51] = 1546373913,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
-		{
-			"Welcome to >>>>www.ebaygolds.com <<<< 24/7 online service,The Cheapest price @ fastest delievery.8000K in stock,delievery 10 mins.please visite >>>>WWW.E B A Y G O L D S.C0M<<<<100k=6.29USD", -- [1]
-			"Ydxhcyfkbbv-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ydxhcyfkbbv-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2574, -- [11]
-			"Player-3676-0A25DD2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffff468Ydxhcyfkbbv|r",
-			[51] = 1546373925,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
-		{
-			"Uldir Heroic and Mythic Today! Mythic +10/+15 Ready To Start Now! Please visit WoWHunt.Com", -- [1]
-			"Lohruulmin-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lohruulmin-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2575, -- [11]
-			"Player-3676-0A24317B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffLohruulmin|r",
-			[51] = 1546373926,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
-		{
-			"yea im bringing in my rogue for mythrax", -- [1]
-			"Liluglygabe-Area52", -- [2]
+			"sup fam", -- [1]
+			"Slucifix-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2190,20 +1992,218 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3790, -- [11]
-			"Player-3676-09F8224A", -- [12]
+			982, -- [11]
+			"Player-3676-0A056526", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Liluglygabe|r",
-			[51] = 1546380630,
+			[52] = "|cff3fc6eaSlucifix|r",
+			[51] = 1547918774,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"been awhile", -- [1]
+			"Slucifix-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			983, -- [11]
+			"Player-3676-0A056526", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaSlucifix|r",
+			[51] = 1547918776,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"Any one for some M0?", -- [1]
+			"Limelife-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			722, -- [11]
+			"Player-3676-098A9147", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLimelife|r",
+			[51] = 1548181634,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"i will in a bit", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			724, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548181641,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"like an hour or so", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			725, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548181644,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"sure", -- [1]
+			"Behindshadow-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			726, -- [11]
+			"Player-3676-0960AAC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Behindshadow|r",
+			[51] = 1548181647,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"Disregard que popped :P", -- [1]
+			"Behindshadow-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			728, -- [11]
+			"Player-3676-0960AAC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Behindshadow|r",
+			[51] = 1548181683,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13466:Player-3676-0A100045:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[Tides of Vengeance]|h|r!", -- [1]
+			"Dippindotzs-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dippindotzs-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			740, -- [11]
+			"Player-3676-0A100045", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDippindotzs|r",
+			[51] = 1548181766,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110099:0|h[Shadows of Doubt]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			759, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548181925,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [98]
+		{
+			"damn timewalking gives 365 now", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			780, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548182028,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [99]
 		{
-			"single target damage is nuts", -- [1]
-			"Liluglygabe-Area52", -- [2]
+			"dope", -- [1]
+			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2212,29 +2212,29 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3791, -- [11]
-			"Player-3676-09F8224A", -- [12]
+			781, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Liluglygabe|r",
-			[51] = 1546380637,
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548182029,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [100]
 		{
-			"are we raiding tonight", -- [1]
+			"Interrupted Minion of Doubt's |cff71d5ff|Hspell:110099:0|h[Shadows of Doubt]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3792, -- [11]
+			782, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2242,87 +2242,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380646,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1548182036,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"completely forgot", -- [1]
-			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Interrupted |cff71d5ff|Hspell:110125:0|h[Shattered Resolve]|h|r on Minion of Doubt", -- [1]
+			"Retrypaladin-Ragnaros", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Retrypaladin-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3793, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			783, -- [11]
+			"Player-1427-09E4E5E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380648,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaRetrypaladin-Ragnaros|r",
+			[51] = 1548182037,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [102]
 		{
-			"yes", -- [1]
-			"Pickledot-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3794, -- [11]
-			"Player-3676-0A1A77EC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPickledot|r",
-			[51] = 1546380655,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
-		{
-			"extending?", -- [1]
-			"Lùcîe-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3795, -- [11]
-			"Player-3676-0A1892AC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edLùcîe|r",
-			[51] = 1546380660,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
-		{
-			"neato", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:6757:Player-3676-0A1DEB8B:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[Temple of the Jade Serpent]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3796, -- [11]
+			787, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2330,12 +2286,56 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380664,
+			[51] = 1548182144,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [103]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6758:Player-3676-0A1DEB8B:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Temple of the Jade Serpent]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Multen-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			788, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548182144,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [104]
+		{
+			"|cffa335ee|Hitem:165586::::::::120:70::3:3:4798:1507:4786:::|h[Dawnbreaker]|h|r  yay", -- [1]
+			"Hamaliel-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			808, -- [11]
+			"Player-3676-083A84ED", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1548182249,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [105]
 		{
-			"yes", -- [1]
-			"Pickledot-Area52", -- [2]
+			"still a up", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2344,20 +2344,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3797, -- [11]
-			"Player-3676-0A1A77EC", -- [12]
+			809, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPickledot|r",
-			[51] = 1546380676,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1548182251,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [106]
 		{
-			"I did a lot more than ever on my dh during mother just now and didnt even use a rune", -- [1]
-			"Liluglygabe-Area52", -- [2]
+			"lol", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2366,19 +2366,41 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3798, -- [11]
-			"Player-3676-09F8224A", -- [12]
+			810, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Liluglygabe|r",
-			[51] = 1546380695,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1548182252,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [107]
 		{
-			"i want to +2 more 13 keys", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:6478:Player-3676-0960AAC8:1:1:22:19:4294967295:4294967295:4294967295:4294967295|h[Glintrok N' Roll]|h|r!", -- [1]
+			"Behindshadow-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Behindshadow-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			811, -- [11]
+			"Player-3676-0960AAC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Behindshadow|r",
+			[51] = 1548182257,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [108]
+		{
+			"you doing a normal run?", -- [1]
 			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2388,7 +2410,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3799, -- [11]
+			812, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2396,34 +2418,12 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380695,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
-		{
-			"or in a good group", -- [1]
-			"Liluglygabe-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3800, -- [11]
-			"Player-3676-09F8224A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Liluglygabe|r",
-			[51] = 1546380697,
+			[51] = 1548182266,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [109]
 		{
-			"dang.", -- [1]
-			"Lùcîe-Area52", -- [2]
+			"timewlaking", -- [1]
+			"Limelife-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2432,19 +2432,19 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3801, -- [11]
-			"Player-3676-0A1892AC", -- [12]
+			815, -- [11]
+			"Player-3676-098A9147", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edLùcîe|r",
-			[51] = 1546380698,
+			[52] = "|cfff48cbaLimelife|r",
+			[51] = 1548182284,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [110]
 		{
-			"i wish we would reset", -- [1]
+			"oh", -- [1]
 			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2454,7 +2454,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3802, -- [11]
+			816, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2462,12 +2462,12 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380721,
+			[51] = 1548182289,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [111]
 		{
-			"dont know how this sims lower than my dh", -- [1]
-			"Liluglygabe-Area52", -- [2]
+			"gives a normal BOD item", -- [1]
+			"Limelife-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2476,20 +2476,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3803, -- [11]
-			"Player-3676-09F8224A", -- [12]
+			817, -- [11]
+			"Player-3676-098A9147", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Liluglygabe|r",
-			[51] = 1546380723,
+			[52] = "|cfff48cbaLimelife|r",
+			[51] = 1548182291,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [112]
 		{
-			"people are so burnt out", -- [1]
-			"Multen-Area52", -- [2]
+			"yah ", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2498,20 +2498,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3804, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			818, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380724,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1548182298,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [113]
 		{
-			"Do people even need the gear", -- [1]
-			"Pickledot-Area52", -- [2]
+			"did time", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2520,20 +2520,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3805, -- [11]
-			"Player-3676-0A1A77EC", -- [12]
+			819, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPickledot|r",
-			[51] = 1546380738,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1548182300,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [114]
 		{
-			"My DH is 387", -- [1]
-			"Pickledot-Area52", -- [2]
+			"we doing normal friday", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2542,20 +2542,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3806, -- [11]
-			"Player-3676-0A1A77EC", -- [12]
+			820, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPickledot|r",
-			[51] = 1546380741,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1548182303,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [115]
 		{
-			"And I barely do keys", -- [1]
-			"Pickledot-Area52", -- [2]
+			"as  guild", -- [1]
+			"Hamaliel-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2564,20 +2564,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3808, -- [11]
-			"Player-3676-0A1A77EC", -- [12]
+			822, -- [11]
+			"Player-3676-083A84ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPickledot|r",
-			[51] = 1546380762,
+			[52] = "|cfff48cbaHamaliel|r",
+			[51] = 1548182307,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [116]
 		{
-			"i'm 371", -- [1]
-			"Lùcîe-Area52", -- [2]
+			"calendar says same time as every other raid", -- [1]
+			"Multen-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2586,20 +2586,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3809, -- [11]
-			"Player-3676-0A1892AC", -- [12]
+			823, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edLùcîe|r",
-			[51] = 1546380762,
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548182321,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [117]
 		{
-			"yea some do, tho it's kind of irrelevant now", -- [1]
-			"Multen-Area52", -- [2]
+			"hey girls ", -- [1]
+			"Beefiie-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2608,20 +2608,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3810, -- [11]
-			"Player-3676-0A1DEB8B", -- [12]
+			824, -- [11]
+			"Player-3676-095230AA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380766,
+			[52] = "|cffff7c0aBeefiie|r",
+			[51] = 1548182345,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [118]
 		{
-			"plan on raiding next tier.", -- [1]
-			"Lùcîe-Area52", -- [2]
+			"brb", -- [1]
+			"Beefiie-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2630,20 +2630,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3811, -- [11]
-			"Player-3676-0A1892AC", -- [12]
+			831, -- [11]
+			"Player-3676-095230AA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edLùcîe|r",
-			[51] = 1546380767,
+			[52] = "|cffff7c0aBeefiie|r",
+			[51] = 1548182362,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [119]
 		{
-			"id be cool with killing mythrax and then just farming till next tier", -- [1]
-			"Liluglygabe-Area52", -- [2]
+			"inv", -- [1]
+			"|Kq9|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2652,117 +2652,118 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3812, -- [11]
-			"Player-3676-09F8224A", -- [12]
-			0, -- [13]
+			273, -- [11]
+			false, -- [12]
+			11, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Liluglygabe|r",
-			[51] = 1546380770,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00ff96Chikkin|r",
+			[51] = 1548556519,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Chikkin",
 		}, -- [120]
 		{
-			"too far behind now", -- [1]
-			"Lùcîe-Area52", -- [2]
-			"", -- [3]
+			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3813, -- [11]
-			"Player-3676-0A1892AC", -- [12]
+			313, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edLùcîe|r",
-			[51] = 1546380773,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548556897,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [121]
 		{
-			"Well no shit Lucy", -- [1]
-			"Pickledot-Area52", -- [2]
-			"", -- [3]
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3814, -- [11]
-			"Player-3676-0A1A77EC", -- [12]
+			328, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPickledot|r",
-			[51] = 1546380784,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548556981,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [122]
 		{
-			"lol", -- [1]
-			"Pickledot-Area52", -- [2]
+			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
+			"Trikkster-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Trikkster-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3815, -- [11]
-			"Player-3676-0A1A77EC", -- [12]
+			372, -- [11]
+			"Player-3676-0962C631", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPickledot|r",
-			[51] = 1546380794,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aTrikkster|r",
+			[51] = 1548557363,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [123]
 		{
-			"oh well", -- [1]
-			"Lùcîe-Area52", -- [2]
-			"", -- [3]
+			"Interrupted Irontide Ravager's |cff71d5ff|Hspell:257899:0|h[Painful Motivation]|h|r!", -- [1]
+			"Multen-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3816, -- [11]
-			"Player-3676-0A1892AC", -- [12]
+			391, -- [11]
+			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edLùcîe|r",
-			[51] = 1546380805,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Multen|r",
+			[51] = 1548557697,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [124]
 		{
-			"ok well off to try out dark souls 3, got it 75% off", -- [1]
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3817, -- [11]
+			393, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2770,43 +2771,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546380892,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1548557714,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [125]
 		{
-			"anyone have 20 moon ore or 100 scales", -- [1]
-			"Raytotems-Area52", -- [2]
-			"", -- [3]
+			"Cannon Barrage on Bossoffrost", -- [1]
+			"Bossoffrost-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Bossoffrost-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			11, -- [11]
-			"Player-3676-0A116292", -- [12]
+			400, -- [11]
+			"Player-73-0B224642", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddRaytotems|r",
-			[51] = 1546539402,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaBossoffrost-BleedingHollow|r",
+			[51] = 1548557803,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [126]
 		{
-			"naw", -- [1]
+			"Cannon Barrage on Multen", -- [1]
 			"Multen-Area52", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Multen-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13, -- [11]
+			402, -- [11]
 			"Player-3676-0A1DEB8B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2814,8 +2815,8 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa330c9Multen|r",
-			[51] = 1546539411,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1548557803,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [127]
 	},
 }

@@ -56,3 +56,5 @@ OmniCC: disabled
 OmniCC_Config: disabled
 VuhDo: disabled
 VuhDoOptions: disabled
+AAP-Core: enabled
+Hekili: disabled

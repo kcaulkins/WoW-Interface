@@ -58,8 +58,8 @@ WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 WorldQuestsList: enabled
-TradeSkillMaster: enabled
-TradeSkillMaster_AppHelper: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled
 AddOnSkins: enabled
 ElvUI_SLE: enabled
 ElvUI_NnoggaUI: enabled
@@ -72,3 +72,5 @@ AAP-Vanilla: disabled
 AAP-TBC-WotLK: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
+Hekili: disabled
+TwintopInsanityBar: disabled

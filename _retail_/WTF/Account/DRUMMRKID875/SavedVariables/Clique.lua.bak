@@ -2,114 +2,26 @@
 CliqueDB = nil
 CliqueDB3 = {
 	["char"] = {
-		["Conforce - Illidan"] = {
-			["spec1_profileKey"] = "Conforce - Illidan",
-			["fastooc"] = false,
-			["blacklist"] = {
-				["ElvUF_TargetTarget"] = true,
-				["PetFrame"] = true,
-				["TargetFrame"] = true,
-				["ElvUF_PetTarget"] = true,
-				["ElvUF_Player"] = true,
-				["TargetFrameToT"] = true,
-				["PlayerFrame"] = true,
-				["ElvUF_Target"] = true,
-				["ElvUF_Pet"] = true,
-			},
-			["spec2_profileKey"] = "Conforce - Illidan",
-			["downclick"] = false,
-			["spec4_profileKey"] = "Conforce - Illidan",
-			["alerthidden"] = true,
-			["spec3_profileKey"] = "Multen - Bladefist",
-			["specswap"] = true,
-		},
 		["Multage - Tichondrius"] = {
 			["spec1_profileKey"] = "Multage - Tichondrius",
 			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Multage - Tichondrius",
 			["spec3_profileKey"] = "Multage - Tichondrius",
+			["spec2_profileKey"] = "Multage - Tichondrius",
 		},
-		["Treeniislove - Bladefist"] = {
-			["spec1_profileKey"] = "Treeniislove - Bladefist",
-			["spec3_profileKey"] = "Treeniislove - Bladefist",
+		["Keziya - Bladefist"] = {
+			["spec1_profileKey"] = "Keziya - Bladefist",
+			["spec2_profileKey"] = "Keziya - Bladefist",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Treeniislove - Bladefist",
 			["specswap"] = false,
-		},
-		["Dekae - Bladefist"] = {
-			["spec1_profileKey"] = "Dekae - Bladefist",
-			["spec3_profileKey"] = "Dekae - Bladefist",
-			["downclick"] = false,
-			["fastooc"] = false,
-			["spec2_profileKey"] = "Dekae - Bladefist",
-			["specswap"] = false,
-		},
-		["Mooten - Bladefist"] = {
-			["specswap"] = false,
-			["sec_profileKey"] = "Mooten - Bladefist",
-			["pri_profileKey"] = "Mooten - Bladefist",
-			["fastooc"] = false,
-			["alerthidden"] = true,
-			["downclick"] = false,
-			["blacklist"] = {
-				["ElvUF_PetTarget"] = true,
-				["ElvUF_Player"] = true,
-				["TargetFrameToT"] = true,
-				["PetFrame"] = true,
-				["TargetFrame"] = true,
-				["ElvUF_Pet"] = true,
-				["PlayerFrame"] = true,
-			},
-		},
-		["Mullton - Bladefist"] = {
-			["spec1_profileKey"] = "Mullton - Bladefist",
-			["specswap"] = false,
-			["downclick"] = false,
-			["alerthidden"] = true,
-			["fastooc"] = false,
-			["spec2_profileKey"] = "Mullton - Bladefist",
-			["spec3_profileKey"] = "Mullton - Bladefist",
+			["spec3_profileKey"] = "Keziya - Bladefist",
 			["blacklist"] = {
 				["ElvUF_TargetTarget"] = true,
 				["ElvUF_Target"] = true,
-				["ElvUF_TargetTargetTarget"] = true,
-				["ElvUF_Pet"] = true,
-			},
-		},
-		["Conforce - Area 52"] = {
-			["spec1_profileKey"] = "Conforce - Area 52",
-			["fastooc"] = false,
-			["spec2_profileKey"] = "Conforce - Area 52",
-			["downclick"] = false,
-			["spec3_profileKey"] = "Conforce - Area 52",
-			["specswap"] = false,
-		},
-		["Lotun - Area 52"] = {
-			["spec1_profileKey"] = "Lotun - Area 52",
-			["spec2_profileKey"] = "Lotun - Area 52",
-			["downclick"] = false,
-			["fastooc"] = false,
-			["specswap"] = false,
-			["spec3_profileKey"] = "Lotun - Area 52",
-			["blacklist"] = {
-				["ElvUF_PetTarget"] = true,
 				["ElvUF_Player"] = true,
-				["ElvUF_Target"] = true,
-				["ElvUF_TargetTarget"] = true,
-				["ElvUF_TargetTargetTarget"] = true,
-				["ElvUF_Pet"] = true,
 			},
-		},
-		["Keziya - Moon Guard"] = {
-			["spec1_profileKey"] = "Keziya - Moon Guard",
-			["spec3_profileKey"] = "Keziya - Moon Guard",
-			["downclick"] = false,
-			["fastooc"] = false,
-			["specswap"] = false,
-			["spec2_profileKey"] = "Keziya - Moon Guard",
 		},
 		["Zeebrew - Bladefist"] = {
 			["spec1_profileKey"] = "Zeebrew - Bladefist",
@@ -117,22 +29,22 @@ CliqueDB3 = {
 			["downclick"] = false,
 			["spec3_profileKey"] = "Zeebrew - Bladefist",
 			["fastooc"] = false,
-			["alerthidden"] = true,
 			["specswap"] = false,
+			["alerthidden"] = true,
 			["blacklist"] = {
-				["ElvUF_Boss2"] = true,
 				["PetFrame"] = true,
+				["ElvUF_Boss2"] = true,
+				["ElvUF_PetTarget"] = true,
+				["ElvUF_FocusTarget"] = true,
+				["ElvUF_Boss1"] = true,
 				["PlayerFrame"] = true,
-				["ElvUF_Boss4"] = true,
-				["ElvUF_Boss3"] = true,
-				["TargetFrame"] = true,
 				["ElvUF_Boss5"] = true,
 				["ElvUF_Player"] = true,
 				["TargetFrameToT"] = true,
-				["ElvUF_FocusTarget"] = true,
-				["ElvUF_Boss1"] = true,
+				["ElvUF_Boss4"] = true,
+				["ElvUF_Boss3"] = true,
 				["ElvUF_Focus"] = true,
-				["ElvUF_PetTarget"] = true,
+				["TargetFrame"] = true,
 				["ElvUF_Pet"] = true,
 			},
 		},
@@ -151,13 +63,70 @@ CliqueDB3 = {
 				["ElvUF_Pet"] = true,
 			},
 		},
-		["Vrill - Area 52"] = {
-			["spec1_profileKey"] = "Vrill - Area 52",
-			["spec3_profileKey"] = "Vrill - Area 52",
+		["Keziya - Moon Guard"] = {
+			["spec1_profileKey"] = "Keziya - Moon Guard",
+			["spec3_profileKey"] = "Keziya - Moon Guard",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Keziya - Moon Guard",
+			["specswap"] = false,
+		},
+		["Dekae - Bladefist"] = {
+			["spec1_profileKey"] = "Dekae - Bladefist",
+			["spec3_profileKey"] = "Dekae - Bladefist",
 			["downclick"] = false,
 			["fastooc"] = false,
 			["specswap"] = false,
+			["spec2_profileKey"] = "Dekae - Bladefist",
+		},
+		["Lotun - Bladefist"] = {
+			["spec1_profileKey"] = "Lotun - Bladefist",
+			["sec_profileKey"] = "Lotun - Bladefist",
+			["fastooc"] = true,
+			["blacklist"] = {
+				["PetFrame"] = true,
+				["ElvUF_Pet"] = true,
+				["ElvUF_Player"] = true,
+				["TargetFrame"] = true,
+				["Boss1TargetFrame"] = true,
+				["Boss2TargetFrame"] = true,
+				["TargetFrameToT"] = true,
+				["ElvUF_Target"] = true,
+				["ElvUF_PetTarget"] = true,
+				["PlayerFrame"] = true,
+				["Boss4TargetFrame"] = true,
+				["Boss3TargetFrame"] = true,
+			},
+			["stopcastingfix"] = true,
+			["downclick"] = true,
+			["pri_profileKey"] = "Lotun - Bladefist",
+			["alerthidden"] = true,
+			["specswap"] = false,
+			["spec2_profileKey"] = "Lotun - Bladefist",
+			["spec3_profileKey"] = "Lotun - Bladefist",
+		},
+		["Mullton - Bladefist"] = {
+			["spec1_profileKey"] = "Mullton - Bladefist",
+			["specswap"] = false,
+			["downclick"] = false,
+			["alerthidden"] = true,
+			["fastooc"] = false,
+			["spec3_profileKey"] = "Mullton - Bladefist",
+			["spec2_profileKey"] = "Mullton - Bladefist",
+			["blacklist"] = {
+				["ElvUF_TargetTarget"] = true,
+				["ElvUF_Target"] = true,
+				["ElvUF_TargetTargetTarget"] = true,
+				["ElvUF_Pet"] = true,
+			},
+		},
+		["Vrill - Area 52"] = {
+			["spec1_profileKey"] = "Vrill - Area 52",
 			["spec2_profileKey"] = "Vrill - Area 52",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["specswap"] = false,
+			["spec3_profileKey"] = "Vrill - Area 52",
 			["blacklist"] = {
 				["ElvUF_PetTarget"] = true,
 				["ElvUF_Player"] = true,
@@ -167,39 +136,29 @@ CliqueDB3 = {
 				["ElvUF_Pet"] = true,
 			},
 		},
+		["Lotun - Area 52"] = {
+			["spec1_profileKey"] = "Lotun - Area 52",
+			["spec2_profileKey"] = "Lotun - Area 52",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["specswap"] = false,
+			["spec3_profileKey"] = "Lotun - Area 52",
+			["blacklist"] = {
+				["ElvUF_PetTarget"] = true,
+				["ElvUF_Player"] = true,
+				["ElvUF_Target"] = true,
+				["ElvUF_TargetTarget"] = true,
+				["ElvUF_TargetTargetTarget"] = true,
+				["ElvUF_Pet"] = true,
+			},
+		},
 		["Xenatu - Bladefist"] = {
 			["spec1_profileKey"] = "Xenatu - Bladefist",
-			["specswap"] = false,
+			["spec2_profileKey"] = "Xenatu - Bladefist",
 			["downclick"] = false,
 			["fastooc"] = false,
 			["spec3_profileKey"] = "Xenatu - Bladefist",
-			["spec2_profileKey"] = "Xenatu - Bladefist",
-		},
-		["Lotun - Bladefist"] = {
-			["spec1_profileKey"] = "Lotun - Bladefist",
-			["sec_profileKey"] = "Lotun - Bladefist",
-			["fastooc"] = true,
-			["blacklist"] = {
-				["PetFrame"] = true,
-				["Boss3TargetFrame"] = true,
-				["Boss2TargetFrame"] = true,
-				["TargetFrame"] = true,
-				["Boss1TargetFrame"] = true,
-				["ElvUF_Player"] = true,
-				["TargetFrameToT"] = true,
-				["PlayerFrame"] = true,
-				["ElvUF_PetTarget"] = true,
-				["ElvUF_Target"] = true,
-				["Boss4TargetFrame"] = true,
-				["ElvUF_Pet"] = true,
-			},
-			["stopcastingfix"] = true,
-			["downclick"] = true,
-			["pri_profileKey"] = "Lotun - Bladefist",
-			["spec3_profileKey"] = "Lotun - Bladefist",
-			["spec2_profileKey"] = "Lotun - Bladefist",
 			["specswap"] = false,
-			["alerthidden"] = true,
 		},
 		["Multon - Gorefiend"] = {
 			["spec1_profileKey"] = "Multon - Gorefiend",
@@ -207,52 +166,146 @@ CliqueDB3 = {
 			["blacklist"] = {
 				["ElvUF_Target"] = true,
 				["TargetFrameToT"] = true,
-				["PlayerFrame"] = true,
-				["ElvUF_Player"] = true,
-				["TargetFrame"] = true,
 				["ElvUF_Pet"] = true,
+				["TargetFrame"] = true,
+				["ElvUF_Player"] = true,
+				["PlayerFrame"] = true,
 			},
 			["alerthidden"] = true,
 			["downclick"] = false,
 			["spec4_profileKey"] = "Multon - Gorefiend",
-			["specswap"] = false,
-			["spec2_profileKey"] = "Multon - Gorefiend",
 			["spec3_profileKey"] = "Multon - Gorefiend",
+			["spec2_profileKey"] = "Multon - Gorefiend",
+			["specswap"] = false,
+		},
+		["Conforce - Area 52"] = {
+			["spec1_profileKey"] = "Conforce - Area 52",
+			["spec3_profileKey"] = "Conforce - Area 52",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Conforce - Area 52",
+			["specswap"] = false,
+		},
+		["Mooten - Bladefist"] = {
+			["specswap"] = false,
+			["sec_profileKey"] = "Mooten - Bladefist",
+			["pri_profileKey"] = "Mooten - Bladefist",
+			["fastooc"] = false,
+			["alerthidden"] = true,
+			["downclick"] = false,
+			["blacklist"] = {
+				["ElvUF_PetTarget"] = true,
+				["ElvUF_Player"] = true,
+				["TargetFrameToT"] = true,
+				["PetFrame"] = true,
+				["PlayerFrame"] = true,
+				["ElvUF_Pet"] = true,
+				["TargetFrame"] = true,
+			},
+		},
+		["Treeniislove - Bladefist"] = {
+			["spec1_profileKey"] = "Treeniislove - Bladefist",
+			["spec3_profileKey"] = "Treeniislove - Bladefist",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["specswap"] = false,
+			["spec2_profileKey"] = "Treeniislove - Bladefist",
+		},
+		["Conforce - Illidan"] = {
+			["spec1_profileKey"] = "Conforce - Illidan",
+			["fastooc"] = false,
+			["blacklist"] = {
+				["ElvUF_TargetTarget"] = true,
+				["PetFrame"] = true,
+				["TargetFrame"] = true,
+				["ElvUF_PetTarget"] = true,
+				["ElvUF_Player"] = true,
+				["TargetFrameToT"] = true,
+				["PlayerFrame"] = true,
+				["ElvUF_Target"] = true,
+				["ElvUF_Pet"] = true,
+			},
+			["spec2_profileKey"] = "Conforce - Illidan",
+			["downclick"] = false,
+			["spec4_profileKey"] = "Conforce - Illidan",
+			["specswap"] = true,
+			["spec3_profileKey"] = "Multen - Bladefist",
+			["alerthidden"] = true,
+		},
+		["Keziya - Area 52"] = {
+			["spec1_profileKey"] = "Keziya - Area 52",
+			["fastooc"] = false,
+			["blacklist"] = {
+				["ElvUF_TargetTarget"] = true,
+				["ElvUF_Player"] = true,
+				["ElvUF_PetTarget"] = true,
+				["ElvUF_Target"] = true,
+				["ElvUF_TankUnitButton1Target"] = true,
+				["ElvUF_TankUnitButton1"] = true,
+				["ElvUF_TargetTargetTarget"] = true,
+				["ElvUF_Pet"] = true,
+			},
+			["spec3_profileKey"] = "Keziya - Area 52",
+			["downclick"] = false,
+			["alerthidden"] = true,
+			["specswap"] = false,
+			["spec2_profileKey"] = "Keziya - Area 52",
 		},
 	},
 	["profileKeys"] = {
+		["Moltun - Bladefist"] = "Moltun - Bladefist",
 		["Conforce - Illidan"] = "Conforce - Illidan",
+		["Keziya - Area 52"] = "Keziya - Area 52",
 		["Keziya - Bladefist"] = "Keziya - Bladefist",
-		["Vryn - Bladefist"] = "Vryn - Bladefist",
+		["Multage - Tichondrius"] = "Multage - Tichondrius",
 		["Testacules - Area 52"] = "Testacules - Area 52",
 		["Shesta - Area 52"] = "Shesta - Area 52",
 		["Varemis - Bladefist"] = "Varemis - Bladefist",
 		["Buttoucher - Bladefist"] = "Buttoucher - Bladefist",
-		["Vrill - Area 52"] = "Lotun - Bladefist",
+		["Keziya - Moon Guard"] = "Keziya - Moon Guard",
 		["Kesiya - Moon Guard"] = "Kesiya - Moon Guard",
 		["Buttlove - Gorefiend"] = "Buttlove - Gorefiend",
-		["Keziya - Moon Guard"] = "Keziya - Moon Guard",
+		["Vrill - Area 52"] = "Lotun - Bladefist",
 		["Dekae - Bladefist"] = "Dekae - Bladefist",
 		["Lotun - Bladefist"] = "Lotun - Bladefist",
-		["Multage - Tichondrius"] = "Multage - Tichondrius",
-		["Shesta - Tichondrius"] = "Shesta - Tichondrius",
-		["Mullton - Area 52"] = "Mullton - Area 52",
-		["Multen - Area 52"] = "Multen - Area 52",
+		["Multage - Area 52"] = "Multage - Area 52",
+		["Conforce - Area 52"] = "Conforce - Area 52",
+		["Zeebrew - Bladefist"] = "Zeebrew - Bladefist",
+		["Artefakt - Area 52"] = "Artefakt - Area 52",
 		["Multen - Bladefist"] = "Multen - Bladefist",
 		["Bunki - Bleeding Hollow"] = "Bunki - Bleeding Hollow",
-		["Multon - Gorefiend"] = "Multon - Gorefiend",
-		["Mullton - Bladefist"] = "Zeebrew - Bladefist",
 		["Xenatu - Bladefist"] = "Xenatu - Bladefist",
+		["Mullton - Bladefist"] = "Zeebrew - Bladefist",
+		["Multon - Gorefiend"] = "Multon - Gorefiend",
 		["Lotun - Area 52"] = "Lotun - Bladefist",
-		["Zeebrew - Bladefist"] = "Zeebrew - Bladefist",
-		["Conforce - Area 52"] = "Conforce - Area 52",
-		["Multage - Area 52"] = "Multage - Area 52",
+		["Multen - Area 52"] = "Multen - Area 52",
+		["Mullton - Area 52"] = "Mullton - Area 52",
+		["Shesta - Tichondrius"] = "Shesta - Tichondrius",
 		["Mooten - Bladefist"] = "Mooten - Bladefist",
 		["Treeniislove - Bladefist"] = "Treeniislove - Bladefist",
 		["Shrekt - Bladefist"] = "Shrekt - Bladefist",
-		["Moltun - Bladefist"] = "Moltun - Bladefist",
+		["Vryn - Bladefist"] = "Vryn - Bladefist",
 	},
 	["profiles"] = {
+		["Moltun - Bladefist"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
 		["Conforce - Illidan"] = {
 			["bindings"] = {
 				{
@@ -265,6 +318,15 @@ CliqueDB3 = {
 					["type"] = "spell",
 				}, -- [1]
 				{
+					["spell"] = "Rejuvenation",
+					["key"] = "BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 136081,
+					["type"] = "spell",
+				}, -- [2]
+				{
 					["spell"] = "Ironbark",
 					["key"] = "F",
 					["sets"] = {
@@ -272,7 +334,7 @@ CliqueDB3 = {
 					},
 					["icon"] = 572025,
 					["type"] = "spell",
-				}, -- [2]
+				}, -- [3]
 				{
 					["spell"] = "Regrowth",
 					["key"] = "BUTTON2",
@@ -281,16 +343,16 @@ CliqueDB3 = {
 					},
 					["icon"] = 136085,
 					["type"] = "spell",
-				}, -- [3]
+				}, -- [4]
 				{
-					["spell"] = "Rejuvenation",
-					["key"] = "BUTTON1",
+					["spell"] = "Nature's Cure",
+					["key"] = "SHIFT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 136081,
+					["icon"] = 236288,
 					["type"] = "spell",
-				}, -- [4]
+				}, -- [5]
 				{
 					["spell"] = "Wild Growth",
 					["key"] = "SHIFT-BUTTON1",
@@ -299,7 +361,7 @@ CliqueDB3 = {
 					},
 					["icon"] = 236153,
 					["type"] = "spell",
-				}, -- [5]
+				}, -- [6]
 				{
 					["spell"] = "Swiftmend",
 					["key"] = "SHIFT-BUTTON2",
@@ -307,15 +369,6 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 					["icon"] = 134914,
-					["type"] = "spell",
-				}, -- [6]
-				{
-					["spell"] = "Nature's Cure",
-					["key"] = "SHIFT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 236288,
 					["type"] = "spell",
 				}, -- [7]
 				{
@@ -329,53 +382,196 @@ CliqueDB3 = {
 				}, -- [8]
 			},
 		},
-		["Keziya - Bladefist"] = {
+		["Keziya - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
+					["spell"] = "Guardian Spirit",
+					["key"] = "CTRL-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
+					["icon"] = 237542,
+					["type"] = "spell",
 				}, -- [1]
 				{
-					["type"] = "menu",
+					["spell"] = "Prayer of Mending",
+					["key"] = "SHIFT-BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135944,
+					["type"] = "spell",
+				}, -- [2]
+				{
+					["spell"] = "Circle of Healing",
+					["key"] = "CTRL-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135887,
+					["type"] = "spell",
+				}, -- [3]
+				{
+					["spell"] = "Flash Heal",
+					["key"] = "BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135907,
+					["type"] = "spell",
+				}, -- [4]
+				{
+					["spell"] = "Holy Word: Serenity",
+					["key"] = "CTRL-BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135937,
+					["type"] = "spell",
+				}, -- [5]
+				{
+					["spell"] = "Heal",
+					["key"] = "SHIFT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135913,
+					["type"] = "spell",
+				}, -- [6]
+				{
+					["spell"] = "Purify Disease",
+					["key"] = "SHIFT-BUTTON3",
+					["sets"] = {
+						["spec3"] = true,
+					},
+					["icon"] = 135935,
+					["type"] = "spell",
+				}, -- [7]
+				{
+					["spell"] = "Power Word: Shield",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["spec3"] = true,
+						["spec1"] = true,
+					},
+					["icon"] = 135940,
+					["type"] = "spell",
+				}, -- [8]
+				{
+					["spell"] = "Renew",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["spec2"] = true,
+					},
+					["icon"] = 135953,
+					["type"] = "spell",
+				}, -- [9]
+				{
+					["spell"] = "Leap of Faith",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["spec3"] = true,
+					},
+					["icon"] = 463835,
+					["type"] = "spell",
+				}, -- [10]
+				{
+					["spell"] = "Prayer of Healing",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["spec2"] = true,
+					},
+					["icon"] = 135943,
+					["type"] = "spell",
+				}, -- [11]
+				{
+					["spell"] = "Purify",
+					["key"] = "SHIFT-BUTTON3",
+					["sets"] = {
+						["spec2"] = true,
+					},
+					["icon"] = 135894,
+					["type"] = "spell",
+				}, -- [12]
+			},
+		},
+		["Keziya - Bladefist"] = {
+			["bindings"] = {
+				{
+					["spell"] = "Guardian Spirit",
+					["key"] = "CTRL-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 237542,
+					["type"] = "spell",
+				}, -- [1]
+				{
+					["spell"] = "Flash Heal",
+					["key"] = "BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135907,
+					["type"] = "spell",
+				}, -- [2]
+				{
+					["spell"] = "Purify",
+					["key"] = "SHIFT-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135894,
+					["type"] = "spell",
+				}, -- [3]
+				{
+					["spell"] = "Prayer of Healing",
 					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [2]
-				{
-					["spell"] = "Power Word: Shield",
-					["key"] = "BUTTON1",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135940,
+					["icon"] = 135943,
 					["type"] = "spell",
-				}, -- [3]
+				}, -- [4]
 				{
-					["spell"] = "Plea",
+					["spell"] = "Renew",
 					["key"] = "BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 135915,
+					["icon"] = 135953,
 					["type"] = "spell",
-				}, -- [4]
+				}, -- [5]
 				{
-					["spell"] = "Power Word: Radiance",
-					["key"] = "BUTTON2",
+					["spell"] = "Heal",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 1386546,
+					["icon"] = 135913,
 					["type"] = "spell",
-				}, -- [5]
+				}, -- [6]
+				{
+					["spell"] = "Leap of Faith",
+					["key"] = "CTRL-BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 463835,
+					["type"] = "spell",
+				}, -- [7]
+				{
+					["spell"] = "Prayer of Mending",
+					["key"] = "SHIFT-BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135944,
+					["type"] = "spell",
+				}, -- [8]
 			},
 		},
-		["Vryn - Bladefist"] = {
+		["Multage - Tichondrius"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
@@ -397,10 +593,10 @@ CliqueDB3 = {
 		["Testacules - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -416,10 +612,10 @@ CliqueDB3 = {
 		["Shesta - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -435,10 +631,10 @@ CliqueDB3 = {
 		["Varemis - Bladefist"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -454,10 +650,10 @@ CliqueDB3 = {
 		["Buttoucher - Bladefist"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -470,7 +666,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Vrill - Area 52"] = {
+		["Keziya - Moon Guard"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
@@ -492,10 +688,10 @@ CliqueDB3 = {
 		["Kesiya - Moon Guard"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -511,10 +707,10 @@ CliqueDB3 = {
 		["Buttlove - Gorefiend"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -527,7 +723,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Keziya - Moon Guard"] = {
+		["Vrill - Area 52"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -549,10 +745,10 @@ CliqueDB3 = {
 		["Dekae - Bladefist"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -586,12 +782,12 @@ CliqueDB3 = {
 					["type"] = "spell",
 				}, -- [1]
 				{
-					["spell"] = "Flash of Light",
-					["key"] = "BUTTON1",
+					["spell"] = "Cleanse",
+					["key"] = "SHIFT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 135907,
+					["icon"] = 135949,
 					["type"] = "spell",
 				}, -- [2]
 				{
@@ -604,21 +800,21 @@ CliqueDB3 = {
 					["type"] = "spell",
 				}, -- [3]
 				{
+					["spell"] = "Flash of Light",
+					["key"] = "BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135907,
+					["type"] = "spell",
+				}, -- [4]
+				{
 					["spell"] = "Beacon of Virtue",
 					["key"] = "T",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 1030094,
-					["type"] = "spell",
-				}, -- [4]
-				{
-					["spell"] = "Cleanse",
-					["key"] = "SHIFT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135949,
 					["type"] = "spell",
 				}, -- [5]
 				{
@@ -640,6 +836,15 @@ CliqueDB3 = {
 					["type"] = "spell",
 				}, -- [7]
 				{
+					["spell"] = "Beacon of Light",
+					["key"] = "CTRL-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 236247,
+					["type"] = "spell",
+				}, -- [8]
+				{
 					["spell"] = "Beacon of Faith",
 					["key"] = "SHIFT-T",
 					["sets"] = {
@@ -647,7 +852,7 @@ CliqueDB3 = {
 					},
 					["icon"] = 1030095,
 					["type"] = "spell",
-				}, -- [8]
+				}, -- [9]
 				{
 					["spell"] = "Blessing of Protection",
 					["key"] = "CTRL-BUTTON3",
@@ -655,15 +860,6 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 					["icon"] = 135964,
-					["type"] = "spell",
-				}, -- [9]
-				{
-					["spell"] = "Beacon of Light",
-					["key"] = "CTRL-BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 236247,
 					["type"] = "spell",
 				}, -- [10]
 				{
@@ -684,7 +880,26 @@ CliqueDB3 = {
 				}, -- [12]
 			},
 		},
-		["Multage - Tichondrius"] = {
+		["Multage - Area 52"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Conforce - Area 52"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -701,75 +916,26 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 				}, -- [2]
-			},
-		},
-		["Shesta - Tichondrius"] = {
-			["bindings"] = {
 				{
-					["spell"] = "Prayer of Healing",
-					["key"] = "SHIFT-BUTTON1",
+					["spell"] = "Raise Ally",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 135943,
-					["type"] = "spell",
-				}, -- [1]
-				{
-					["spell"] = "Purify",
-					["key"] = "SHIFT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135894,
-					["type"] = "spell",
-				}, -- [2]
-				{
-					["spell"] = "Renew",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135953,
+					["icon"] = 136143,
 					["type"] = "spell",
 				}, -- [3]
-				{
-					["spell"] = "Holy Word: Serenity",
-					["key"] = "BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135937,
-					["type"] = "spell",
-				}, -- [4]
-				{
-					["spell"] = "Flash Heal",
-					["key"] = "BUTTON1",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135907,
-					["type"] = "spell",
-				}, -- [5]
-				{
-					["spell"] = "Resurrection",
-					["key"] = "CTRL-BUTTON1",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135955,
-					["type"] = "spell",
-				}, -- [6]
 			},
 		},
-		["Mullton - Area 52"] = {
+		["Zeebrew - Bladefist"] = {
 			["bindings"] = {
 				{
-					["spell"] = "Soothing Mist",
-					["key"] = "BUTTON1",
+					["spell"] = "Detox",
+					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 606550,
+					["icon"] = 460692,
 					["type"] = "spell",
 				}, -- [1]
 				{
@@ -782,12 +948,12 @@ CliqueDB3 = {
 					["type"] = "spell",
 				}, -- [2]
 				{
-					["spell"] = "Enveloping Mist",
-					["key"] = "SHIFT-BUTTON1",
+					["spell"] = "Soothing Mist",
+					["key"] = "BUTTON1",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 775461,
+					["icon"] = 606550,
 					["type"] = "spell",
 				}, -- [3]
 				{
@@ -800,6 +966,15 @@ CliqueDB3 = {
 					["type"] = "spell",
 				}, -- [4]
 				{
+					["spell"] = "Enveloping Mist",
+					["key"] = "SHIFT-BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 775461,
+					["type"] = "spell",
+				}, -- [5]
+				{
 					["spell"] = "Life Cocoon",
 					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
@@ -807,19 +982,10 @@ CliqueDB3 = {
 					},
 					["icon"] = 627485,
 					["type"] = "spell",
-				}, -- [5]
-				{
-					["spell"] = "Detox",
-					["key"] = "SHIFT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 460692,
-					["type"] = "spell",
 				}, -- [6]
 			},
 		},
-		["Multen - Area 52"] = {
+		["Artefakt - Area 52"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -841,10 +1007,10 @@ CliqueDB3 = {
 		["Multen - Bladefist"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -869,10 +1035,48 @@ CliqueDB3 = {
 		["Bunki - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Xenatu - Bladefist"] = {
+			["bindings"] = {
+				{
 					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Mullton - Bladefist"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -970,47 +1174,28 @@ CliqueDB3 = {
 				}, -- [9]
 			},
 		},
-		["Mullton - Bladefist"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Xenatu - Bladefist"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
 		["Lotun - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Multen - Area 52"] = {
+			["bindings"] = {
+				{
 					["sets"] = {
 						["default"] = true,
 					},
@@ -1027,26 +1212,8 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Zeebrew - Bladefist"] = {
+		["Mullton - Area 52"] = {
 			["bindings"] = {
-				{
-					["spell"] = "Detox",
-					["key"] = "ALT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 460692,
-					["type"] = "spell",
-				}, -- [1]
-				{
-					["spell"] = "Renewing Mist",
-					["key"] = "BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 627487,
-					["type"] = "spell",
-				}, -- [2]
 				{
 					["spell"] = "Soothing Mist",
 					["key"] = "BUTTON1",
@@ -1055,16 +1222,7 @@ CliqueDB3 = {
 					},
 					["icon"] = 606550,
 					["type"] = "spell",
-				}, -- [3]
-				{
-					["spell"] = "Vivify",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 1360980,
-					["type"] = "spell",
-				}, -- [4]
+				}, -- [1]
 				{
 					["spell"] = "Enveloping Mist",
 					["key"] = "SHIFT-BUTTON1",
@@ -1073,7 +1231,16 @@ CliqueDB3 = {
 					},
 					["icon"] = 775461,
 					["type"] = "spell",
-				}, -- [5]
+				}, -- [2]
+				{
+					["spell"] = "Renewing Mist",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 627487,
+					["type"] = "spell",
+				}, -- [3]
 				{
 					["spell"] = "Life Cocoon",
 					["key"] = "SHIFT-BUTTON2",
@@ -1082,54 +1249,92 @@ CliqueDB3 = {
 					},
 					["icon"] = 627485,
 					["type"] = "spell",
-				}, -- [6]
-			},
-		},
-		["Conforce - Area 52"] = {
-			["bindings"] = {
+				}, -- [4]
 				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
+					["spell"] = "Vivify",
 					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
+					["icon"] = 1360980,
+					["type"] = "spell",
+				}, -- [5]
+				{
+					["spell"] = "Detox",
+					["key"] = "SHIFT-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 460692,
+					["type"] = "spell",
+				}, -- [6]
+			},
+		},
+		["Shesta - Tichondrius"] = {
+			["bindings"] = {
+				{
+					["spell"] = "Prayer of Healing",
+					["key"] = "SHIFT-BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135943,
+					["type"] = "spell",
+				}, -- [1]
+				{
+					["spell"] = "Renew",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135953,
+					["type"] = "spell",
 				}, -- [2]
 				{
-					["spell"] = "Raise Ally",
+					["spell"] = "Purify",
+					["key"] = "SHIFT-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135894,
+					["type"] = "spell",
+				}, -- [3]
+				{
+					["spell"] = "Flash Heal",
+					["key"] = "BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135907,
+					["type"] = "spell",
+				}, -- [4]
+				{
+					["spell"] = "Holy Word: Serenity",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135937,
+					["type"] = "spell",
+				}, -- [5]
+				{
+					["spell"] = "Resurrection",
+					["key"] = "CTRL-BUTTON1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135955,
+					["type"] = "spell",
+				}, -- [6]
+				{
+					["spell"] = "Heal",
 					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 136143,
+					["icon"] = 135913,
 					["type"] = "spell",
-				}, -- [3]
-			},
-		},
-		["Multage - Area 52"] = {
-			["bindings"] = {
-				{
-					["type"] = "target",
-					["sets"] = {
-						["default"] = true,
-					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
+				}, -- [7]
 			},
 		},
 		["Mooten - Bladefist"] = {
@@ -1193,10 +1398,10 @@ CliqueDB3 = {
 		["Treeniislove - Bladefist"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -1212,10 +1417,10 @@ CliqueDB3 = {
 		["Shrekt - Bladefist"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -1228,7 +1433,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Moltun - Bladefist"] = {
+		["Vryn - Bladefist"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",

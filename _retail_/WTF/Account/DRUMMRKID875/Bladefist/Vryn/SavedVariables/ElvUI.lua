@@ -1,16 +1,26 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/elvui", -- [1]
-		"/kb", -- [2]
-		"/logout", -- [3]
-		"/i lets just go without him", -- [4]
-		"/ec", -- [5]
-		"/s ty", -- [6]
-		"/1 You're welcome!", -- [7]
-		"/reload", -- [8]
-		"/wa", -- [9]
-		"/i Damn this is good xp", -- [10]
+		"/reload", -- [1]
+		"/wa", -- [2]
+		"/i Damn this is good xp", -- [3]
+		"/s throw it", -- [4]
+		"/s we need the other eye", -- [5]
+		"/s wrong one", -- [6]
+		" why", -- [7]
+		" alliance", -- [8]
+		" oh moon guard", -- [9]
+		" squeeze that hog", -- [10]
+		" assassin rogue is fun", -- [11]
+		" maybe", -- [12]
+		" yeah im wondering between spriest and rogue right now", -- [13]
+		" rogue is the best performing melee atm", -- [14]
+		" yeah they always either suck or kick ass", -- [15]
+		" im not good at being a caster either tbh", -- [16]
+		" you been watching method?", -- [17]
+		" if we wipe 100x on conclave or oppulence tomorrow im gonna get tilted", -- [18]
+		" yah", -- [19]
+		" i would really like to do the 1st 2 bosses on mythic", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -607,5 +617,822 @@ ElvCharacterDB = {
 			[51] = 1546310789,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
+		{
+			"Cyclone Strike on Vryn", -- [1]
+			"Vryn-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Vryn-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2493, -- [11]
+			"Player-1147-0666F2DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Vryn|r",
+			[51] = 1546741618,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [28]
+		{
+			"ok", -- [1]
+			"Türnstile-Lightning'sBlade", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Türnstile-Lightning'sBlade", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2566, -- [11]
+			"Player-91-0A26BAD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTürnstile-Lightning'sBlade|r",
+			[51] = 1546742093,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [29]
+		{
+			"throw it", -- [1]
+			"Vryn-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Vryn-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2577, -- [11]
+			"Player-1147-0666F2DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Vryn|r",
+			[51] = 1546742312,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [30]
+		{
+			"click", -- [1]
+			"Türnstile-Lightning'sBlade", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Türnstile-Lightning'sBlade", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2581, -- [11]
+			"Player-91-0A26BAD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTürnstile-Lightning'sBlade|r",
+			[51] = 1546742356,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [31]
+		{
+			"we need the other eye", -- [1]
+			"Vryn-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Vryn-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2582, -- [11]
+			"Player-1147-0666F2DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Vryn|r",
+			[51] = 1546742357,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [32]
+		{
+			"wrong one", -- [1]
+			"Vryn-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Vryn-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2583, -- [11]
+			"Player-1147-0666F2DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Vryn|r",
+			[51] = 1546742358,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [33]
+		{
+			"throw it", -- [1]
+			"Vryn-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Vryn-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2587, -- [11]
+			"Player-1147-0666F2DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Vryn|r",
+			[51] = 1546742417,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [34]
+		{
+			"can you get on druid with spear?", -- [1]
+			"Türnstile-Lightning'sBlade", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Türnstile-Lightning'sBlade", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2588, -- [11]
+			"Player-91-0A26BAD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTürnstile-Lightning'sBlade|r",
+			[51] = 1546742427,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [35]
+		{
+			"idk i was curious though", -- [1]
+			"Garnzer-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Garnzer-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2590, -- [11]
+			"Player-57-068B3FC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aGarnzer-Illidan|r",
+			[51] = 1546742458,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [36]
+		{
+			"Interrupted Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
+			"Vryn-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Vryn-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2599, -- [11]
+			"Player-1147-0666F2DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Vryn|r",
+			[51] = 1546742522,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [37]
+		{
+			"this shit is a tank afk fight", -- [1]
+			"Türnstile-Lightning'sBlade", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Türnstile-Lightning'sBlade", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2604, -- [11]
+			"Player-91-0A26BAD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTürnstile-Lightning'sBlade|r",
+			[51] = 1546742551,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [38]
+		{
+			"why", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			449, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRyan|r",
+			[51] = 1549324978,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [39]
+		{
+			"why what", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			470, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRyan|r",
+			[51] = 1549324995,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [40]
+		{
+			"alliance", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			471, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRyan|r",
+			[51] = 1549324999,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [41]
+		{
+			"ooooooldddddd character i fuck around on every so often", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			472, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRyan|r",
+			[51] = 1549325012,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [42]
+		{
+			"oh moon guard", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			476, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRyan|r",
+			[51] = 1549325046,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [43]
+		{
+			"squeeze that hog", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			477, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRyan|r",
+			[51] = 1549325050,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [44]
+		{
+			"hah this place hilarious", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			478, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRyan|r",
+			[51] = 1549325063,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [45]
+		{
+			"assassin rogue is fun", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			485, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325116,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [46]
+		{
+			"gonna try and go rogue then?", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			486, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325126,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [47]
+		{
+			"maybe", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			487, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325131,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [48]
+		{
+			"ele or lock is good too right now if you want ranged. or shadow priest but i imagine they gonna get nerfed", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			493, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325158,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [49]
+		{
+			"yeah im wondering between spriest and rogue right now", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			504, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325205,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [50]
+		{
+			"rogue is the best performing melee atm", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			506, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325209,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [51]
+		{
+			"yea and they arent so strong that they'll get nerfed imo", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			508, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325231,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [52]
+		{
+			"shadow tho i think its a matter of time", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			509, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325238,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [53]
+		{
+			"yeah they always either suck or kick ass", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			513, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325249,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [54]
+		{
+			"im not good at being a caster either tbh", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			517, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325262,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [55]
+		{
+			"rogue prolly be best pick then", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			523, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325281,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [56]
+		{
+			"you been watching method?", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			537, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325338,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [57]
+		{
+			"na", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			538, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325351,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [58]
+		{
+			"if we wipe 100x on conclave or oppulence tomorrow im gonna get tilted", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			567, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325469,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [59]
+		{
+			"oppulence better be 1 shot and conclave 2 or 3 at most", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			575, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325493,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [60]
+		{
+			"yah", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			576, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325499,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [61]
+		{
+			"i would really like to do the 1st 2 bosses on mythic", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			577, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325514,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Ryan",
+		}, -- [62]
+		{
+			"i think we should do first one for sure", -- [1]
+			"|Kq24|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			579, -- [11]
+			false, -- [12]
+			25, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRyan|r",
+			[51] = 1549325526,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Ryan",
+		}, -- [63]
 	},
 }

@@ -1,3 +1,7 @@
+VER 3 0100000000000007 "BloodDrinker" "INV_MISC_QUESTIONMARK"
+#showtooltip blooddrinker
+/cast Blooddrinker
+END
 VER 3 0100000000000006 "bop dc" "INV_MISC_QUESTIONMARK"
 #showtooltip Dark Command
 /cancelaura blessing of protection
@@ -10,8 +14,6 @@ VER 3 0100000000000004 "Control Undead" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000005 "DRW" "INV_MISC_QUESTIONMARK"
 #showtooltip Dancing Rune Weapon
-/use Jes' Howler
-/cast Blood Fury(Racial)
 /cast Dancing Rune Weapon
 END
 VER 3 0100000000000003 "Pillar of Frost" "INV_MISC_QUESTIONMARK"

@@ -49,3 +49,5 @@ bind ALT-F ACTIONBUTTON8
 bind BUTTON5 NONE
 bind SHIFT-E NONE
 bind SHIFT-F CLICK ExtraActionButton1:LeftButton
+bind [ PAWN_COMPARE_LEFT
+bind ] PAWN_COMPARE_RIGHT

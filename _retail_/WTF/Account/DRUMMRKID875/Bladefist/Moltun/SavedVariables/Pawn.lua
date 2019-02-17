@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0232,
+	["LastVersion"] = 2.0234,
 	["LastPlayerFullName"] = "Moltun-Bladefist",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

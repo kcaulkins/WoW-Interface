@@ -1,26 +1,26 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/vuhdo opt", -- [1]
-		"/logout", -- [2]
-		"/kb", -- [3]
-		"/wa", -- [4]
-		"/played", -- [5]
-		"/i go", -- [6]
-		"/i i do not", -- [7]
-		"/raid 1 moment plz", -- [8]
-		"/i 1 moment plz", -- [9]
-		"/reload", -- [10]
-		"/1 can someone give me 4g so i can learn riding", -- [11]
-		"/1 ok thank u", -- [12]
-		"/cw Chancetafari 4", -- [13]
-		"/p holy shit thank you", -- [14]
-		"/p wow", -- [15]
-		"/p tysm", -- [16]
-		"/p its ok i need to do dungeons anyways", -- [17]
-		"/p thanks again i really appreciate it", -- [18]
-		"/p have a happy halloween :)", -- [19]
-		"/cw Chancetafari-Tichondrius i will i promise!", -- [20]
+		"/wa", -- [1]
+		"/played", -- [2]
+		"/i go", -- [3]
+		"/i i do not", -- [4]
+		"/raid 1 moment plz", -- [5]
+		"/i 1 moment plz", -- [6]
+		"/reload", -- [7]
+		"/1 can someone give me 4g so i can learn riding", -- [8]
+		"/1 ok thank u", -- [9]
+		"/cw Chancetafari 4", -- [10]
+		"/p holy shit thank you", -- [11]
+		"/p wow", -- [12]
+		"/p tysm", -- [13]
+		"/p its ok i need to do dungeons anyways", -- [14]
+		"/p thanks again i really appreciate it", -- [15]
+		"/p have a happy halloween :)", -- [16]
+		"/cw Chancetafari-Tichondrius i will i promise!", -- [17]
+		"/details", -- [18]
+		"/clique", -- [19]
+		"/logout", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -661,5 +661,27 @@ ElvCharacterDB = {
 			[51] = 1541084722,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
+		{
+			"grabbing quets", -- [1]
+			"Scatbomb-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scatbomb-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2338, -- [11]
+			"Player-60-0BE1CFED", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edScatbomb-Stormrage|r",
+			[51] = 1545079165,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [30]
 	},
 }

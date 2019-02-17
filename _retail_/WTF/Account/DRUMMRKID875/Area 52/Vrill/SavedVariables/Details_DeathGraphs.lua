@@ -5,7 +5,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Taloc",
 		["id"] = 2168,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 1,
@@ -15,19 +14,19 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Taloc",
 			["diff"] = 14,
-			["id"] = 2144,
 			["ej_instance_id"] = 1031,
+			["id"] = 2144,
 			["killed"] = true,
 		},
 		["player_db"] = {
 		},
+		["diff"] = 14,
 	},
 	["214714"] = {
 		["hash"] = "214714",
 		["type"] = "deaths",
 		["name"] = "G'huun",
 		["id"] = 2147,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 8,
@@ -36,123 +35,123 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 1861,
 			["try_number"] = 1,
 			["name"] = "G'huun",
-			["encounter"] = "G'huun",
-			["ej_instance_id"] = 1031,
 			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "G'huun",
 		},
 		["player_db"] = {
 			["Worrog-Zul'jin"] = {
-				["name"] = "Worrog-Zul'jin",
 				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Worrog-Zul'jin",
 			},
 			["Justpally-Azralon"] = {
-				["name"] = "Justpally-Azralon",
 				["class"] = "PALADIN",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Justpally-Azralon",
 			},
 			["Seaja-Mal'Ganis"] = {
-				["name"] = "Seaja-Mal'Ganis",
 				["class"] = "MONK",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Seaja-Mal'Ganis",
 			},
 			["Ubuthi-Quel'Thalas"] = {
-				["name"] = "Ubuthi-Quel'Thalas",
 				["class"] = "ROGUE",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Ubuthi-Quel'Thalas",
 			},
 			["Kalantta-Dalaran"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
 				["name"] = "Kalantta-Dalaran",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Vrill"] = {
-				["name"] = "Vrill",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Grêwt-Zul'jin"] = {
-				["name"] = "Grêwt-Zul'jin",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tayshammy-BleedingHollow"] = {
-				["name"] = "Tayshammy-BleedingHollow",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Zapheer-Azralon"] = {
-				["name"] = "Zapheer-Azralon",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Ohbrezzy-Dalaran"] = {
-				["name"] = "Ohbrezzy-Dalaran",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kelblade-Zul'jin"] = {
-				["name"] = "Kelblade-Zul'jin",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
 			},
 			["Deathvendir-Zul'jin"] = {
-				["name"] = "Deathvendir-Zul'jin",
 				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Deathvendir-Zul'jin",
+			},
+			["Grêwt-Zul'jin"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Grêwt-Zul'jin",
+			},
+			["Tayshammy-BleedingHollow"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Tayshammy-BleedingHollow",
+			},
+			["Zapheer-Azralon"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Zapheer-Azralon",
+			},
+			["Ohbrezzy-Dalaran"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ohbrezzy-Dalaran",
+			},
+			["Kelblade-Zul'jin"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Kelblade-Zul'jin",
+			},
+			["Vrill"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Vrill",
 			},
 			["Glucokinase-Illidan"] = {
-				["name"] = "Glucokinase-Illidan",
 				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Glucokinase-Illidan",
 			},
 		},
+		["diff"] = 14,
 	},
 	["219514"] = {
 		["hash"] = "219514",
 		["type"] = "deaths",
 		["name"] = "Zul",
 		["id"] = 2195,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 6,
@@ -162,27 +161,27 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Zul",
 			["diff"] = 14,
-			["id"] = 2145,
 			["ej_instance_id"] = 1031,
+			["id"] = 2145,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Deathvendir-Zul'jin"] = {
-				["name"] = "Deathvendir-Zul'jin",
 				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Deathvendir-Zul'jin",
 			},
 		},
+		["diff"] = 14,
 	},
 	["219414"] = {
 		["hash"] = "219414",
 		["type"] = "deaths",
 		["name"] = "Mythrax",
 		["id"] = 2194,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 7,
@@ -192,48 +191,27 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Mythrax",
 			["diff"] = 14,
-			["id"] = 2135,
 			["ej_instance_id"] = 1031,
+			["id"] = 2135,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Seaja-Mal'Ganis"] = {
-				["name"] = "Seaja-Mal'Ganis",
 				["class"] = "MONK",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Seaja-Mal'Ganis",
 			},
 		},
-	},
-	["214614"] = {
-		["hash"] = "214614",
-		["type"] = "deaths",
-		["name"] = "Fetid Devourer",
-		["id"] = 2146,
 		["diff"] = 14,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 3,
-			["zone"] = "Uldir",
-			["id"] = 2128,
-			["mapid"] = 1861,
-			["try_number"] = 1,
-			["name"] = "Fetid Devourer",
-			["encounter"] = "Fetid Devourer",
-			["ej_instance_id"] = 1031,
-			["diff"] = 14,
-		},
-		["player_db"] = {
-		},
 	},
 	["216914"] = {
 		["hash"] = "216914",
 		["type"] = "deaths",
 		["name"] = "Zek'voz",
 		["id"] = 2169,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 4,
@@ -243,19 +221,40 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Zek'voz",
 			["diff"] = 14,
-			["id"] = 2136,
 			["ej_instance_id"] = 1031,
+			["id"] = 2136,
 			["killed"] = true,
 		},
 		["player_db"] = {
 		},
+		["diff"] = 14,
+	},
+	["214614"] = {
+		["hash"] = "214614",
+		["type"] = "deaths",
+		["name"] = "Fetid Devourer",
+		["id"] = 2146,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 3,
+			["zone"] = "Uldir",
+			["id"] = 2128,
+			["mapid"] = 1861,
+			["try_number"] = 1,
+			["name"] = "Fetid Devourer",
+			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "Fetid Devourer",
+		},
+		["player_db"] = {
+		},
+		["diff"] = 14,
 	},
 	["216614"] = {
 		["hash"] = "216614",
 		["type"] = "deaths",
 		["name"] = "Vectis",
 		["id"] = 2166,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 5,
@@ -264,19 +263,19 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 1861,
 			["try_number"] = 1,
 			["name"] = "Vectis",
-			["encounter"] = "Vectis",
-			["ej_instance_id"] = 1031,
 			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "Vectis",
 		},
 		["player_db"] = {
 		},
+		["diff"] = 14,
 	},
 	["216714"] = {
 		["hash"] = "216714",
 		["type"] = "deaths",
 		["name"] = "MOTHER",
 		["id"] = 2167,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 2,
@@ -285,92 +284,93 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 1861,
 			["try_number"] = 1,
 			["name"] = "MOTHER",
-			["encounter"] = "MOTHER",
-			["ej_instance_id"] = 1031,
 			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "MOTHER",
 		},
 		["player_db"] = {
 			["Piripe"] = {
-				["name"] = "Piripe",
 				["class"] = "WARLOCK",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Piripe",
 			},
 			["Popediddler-BleedingHollow"] = {
-				["name"] = "Popediddler-BleedingHollow",
 				["class"] = "PRIEST",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Popediddler-BleedingHollow",
 			},
 			["Trautfu"] = {
-				["name"] = "Trautfu",
 				["class"] = "MONK",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Trautfu",
 			},
 			["Grêwt-Zul'jin"] = {
-				["name"] = "Grêwt-Zul'jin",
 				["class"] = "DRUID",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Grêwt-Zul'jin",
 			},
 			["Vrill"] = {
-				["name"] = "Vrill",
 				["class"] = "PALADIN",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Vrill",
 			},
 			["Zapheer-Azralon"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
 				["name"] = "Zapheer-Azralon",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Dotanrun-Spinebreaker"] = {
-				["name"] = "Dotanrun-Spinebreaker",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kelblade-Zul'jin"] = {
-				["name"] = "Kelblade-Zul'jin",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
 			},
 			["Worrog-Zul'jin"] = {
-				["name"] = "Worrog-Zul'jin",
 				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Worrog-Zul'jin",
+			},
+			["Kelblade-Zul'jin"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Kelblade-Zul'jin",
+			},
+			["Dotanrun-Spinebreaker"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Dotanrun-Spinebreaker",
 			},
 			["Glucokinase-Illidan"] = {
-				["name"] = "Glucokinase-Illidan",
 				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Glucokinase-Illidan",
 			},
 		},
+		["diff"] = 14,
 	},
 }
 DeathGraphsDBEndurance = {
@@ -379,7 +379,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Taloc",
 		["id"] = 2168,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 1,
@@ -389,131 +388,131 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Taloc",
 			["diff"] = 14,
-			["id"] = 2144,
 			["ej_instance_id"] = 1031,
+			["id"] = 2144,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Piripe"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Worrog-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "WARRIOR",
-			},
-			["Glucokinase-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
-			},
-			["Popediddler-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Deathvendir-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Vrill"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Justpally-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Trautfu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Zapheer-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Grêwt-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Leeche-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Pyreness"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Tayshammy-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Kelblade-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Dotanrun-Spinebreaker"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
 			},
 			["Turtleme-Dalaran"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
+			},
+			["Dotanrun-Spinebreaker"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Deathvendir-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Justpally-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Leeche-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Trautfu"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Pyreness"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Grêwt-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Tayshammy-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Zapheer-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Vrill"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Kelblade-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Popediddler-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Glucokinase-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 		},
+		["diff"] = 14,
 	},
 	["214714"] = {
 		["hash"] = "214714",
 		["type"] = "endurance",
 		["name"] = "G'huun",
 		["id"] = 2147,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 8,
@@ -522,21 +521,22 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 1861,
 			["try_number"] = 1,
 			["name"] = "G'huun",
-			["encounter"] = "G'huun",
-			["ej_instance_id"] = 1031,
 			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "G'huun",
 		},
 		["player_db"] = {
 			["Piripe"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Worrog-Zul'jin"] = {
 				["encounters"] = 2,
 				["points"] = 180,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -549,39 +549,18 @@ DeathGraphsDBEndurance = {
 						"Corrupting Bite |cFFFF33331,149|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "WARRIOR",
 			},
 			["Drogosh-EmeraldDream"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["deaths"] = {
-				},
 				["class"] = "ROGUE",
-			},
-			["Vrill"] = {
-				["encounters"] = 2,
-				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
-			},
-			["Deathvendir-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Seaja-Mal'Ganis"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
 			},
 			["Justpally-Azralon"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -589,11 +568,32 @@ DeathGraphsDBEndurance = {
 						"Virulent Corruption |cFFFF33337,838|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
+			},
+			["Deathvendir-Zul'jin"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Seaja-Mal'Ganis"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Ubuthi-Quel'Thalas"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
 			},
 			["Kalantta-Dalaran"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -601,32 +601,32 @@ DeathGraphsDBEndurance = {
 						"Putrid Blood |cFFFF33337,779|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "SHAMAN",
-			},
-			["Tayshammy-BleedingHollow"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Grêwt-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
 			},
 			["Jikvu-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
+			},
+			["Grêwt-Zul'jin"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Tayshammy-BleedingHollow"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
 			},
 			["Zapheer-Azralon"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -634,18 +634,18 @@ DeathGraphsDBEndurance = {
 						"Virulent Corruption |cFFFF333325,383|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Ohbrezzy-Dalaran"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Kelblade-Zul'jin"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -653,30 +653,29 @@ DeathGraphsDBEndurance = {
 						"Melee |cFFFF33337,992|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DEMONHUNTER",
 			},
-			["Ubuthi-Quel'Thalas"] = {
+			["Vrill"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Glucokinase-Illidan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 		},
+		["diff"] = 14,
 	},
 	["219514"] = {
 		["hash"] = "219514",
 		["type"] = "endurance",
 		["name"] = "Zul",
 		["id"] = 2195,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 6,
@@ -686,35 +685,36 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Zul",
 			["diff"] = 14,
-			["id"] = 2145,
 			["ej_instance_id"] = 1031,
+			["id"] = 2145,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Piripe"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Worrog-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Drogosh-EmeraldDream"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Deathvendir-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -722,86 +722,85 @@ DeathGraphsDBEndurance = {
 						"Environment (Falling) |cFFFF333398,679|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Seaja-Mal'Ganis"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Vrill"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Kalantta-Dalaran"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Grêwt-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
 			["Tayshammy-BleedingHollow"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Zapheer-Azralon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "DEMONHUNTER",
-			},
-			["Justpally-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
-			},
-			["Kelblade-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Ubuthi-Quel'Thalas"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
+			},
+			["Kelblade-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Justpally-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
 			},
 			["Glucokinase-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 		},
+		["diff"] = 14,
 	},
 	["219414"] = {
 		["hash"] = "219414",
 		["type"] = "endurance",
 		["name"] = "Mythrax",
 		["id"] = 2194,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 7,
@@ -811,42 +810,43 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Mythrax",
 			["diff"] = 14,
-			["id"] = 2135,
 			["ej_instance_id"] = 1031,
+			["id"] = 2135,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Piripe"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Worrog-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Drogosh-EmeraldDream"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Deathvendir-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Seaja-Mal'Ganis"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "MONK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -854,212 +854,78 @@ DeathGraphsDBEndurance = {
 						"Annihilation |cFFFF3333867|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "MONK",
 			},
 			["Vrill"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Kalantta-Dalaran"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Grêwt-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
 			["Tayshammy-BleedingHollow"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Zapheer-Azralon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "DEMONHUNTER",
-			},
-			["Justpally-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
-			},
-			["Kelblade-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Ubuthi-Quel'Thalas"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "ROGUE",
-			},
-			["Glucokinase-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
-			},
-		},
-	},
-	["214614"] = {
-		["hash"] = "214614",
-		["type"] = "endurance",
-		["name"] = "Fetid Devourer",
-		["id"] = 2146,
-		["diff"] = 14,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 3,
-			["zone"] = "Uldir",
-			["id"] = 2128,
-			["mapid"] = 1861,
-			["try_number"] = 1,
-			["name"] = "Fetid Devourer",
-			["encounter"] = "Fetid Devourer",
-			["ej_instance_id"] = 1031,
-			["diff"] = 14,
-		},
-		["player_db"] = {
-			["Piripe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Worrog-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Glucokinase-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Popediddler-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Deathvendir-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Vrill"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Justpally-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Trautfu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Zapheer-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Grêwt-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Leeche-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Pyreness"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Tayshammy-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
 			},
 			["Kelblade-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "DEMONHUNTER",
-			},
-			["Dotanrun-Spinebreaker"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
-			["Turtleme-Dalaran"] = {
+			["Justpally-Azralon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
+			},
+			["Glucokinase-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 		},
+		["diff"] = 14,
 	},
 	["216914"] = {
 		["hash"] = "216914",
 		["type"] = "endurance",
 		["name"] = "Zek'voz",
 		["id"] = 2169,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 4,
@@ -1069,124 +935,257 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Zek'voz",
 			["diff"] = 14,
-			["id"] = 2136,
 			["ej_instance_id"] = 1031,
+			["id"] = 2136,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Piripe"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Worrog-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "WARRIOR",
-			},
-			["Glucokinase-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
-			},
-			["Deathvendir-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Popediddler-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Tayshammy-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Trautfu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Justpally-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Grêwt-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Leeche-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Pyreness"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Zapheer-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Kelblade-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Vrill"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
 			},
 			["Turtleme-Dalaran"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
+			},
+			["Deathvendir-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Justpally-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Vrill"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Trautfu"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Pyreness"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Grêwt-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Leeche-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Zapheer-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Tayshammy-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Kelblade-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Popediddler-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Glucokinase-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 		},
+		["diff"] = 14,
+	},
+	["214614"] = {
+		["hash"] = "214614",
+		["type"] = "endurance",
+		["name"] = "Fetid Devourer",
+		["id"] = 2146,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 3,
+			["zone"] = "Uldir",
+			["id"] = 2128,
+			["mapid"] = 1861,
+			["try_number"] = 1,
+			["name"] = "Fetid Devourer",
+			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "Fetid Devourer",
+		},
+		["player_db"] = {
+			["Piripe"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Worrog-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Turtleme-Dalaran"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Dotanrun-Spinebreaker"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Deathvendir-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Justpally-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Leeche-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Trautfu"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Pyreness"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Grêwt-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Tayshammy-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Zapheer-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Vrill"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Kelblade-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Popediddler-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Glucokinase-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 14,
 	},
 	["216614"] = {
 		["hash"] = "216614",
 		["type"] = "endurance",
 		["name"] = "Vectis",
 		["id"] = 2166,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 5,
@@ -1195,131 +1194,131 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 1861,
 			["try_number"] = 1,
 			["name"] = "Vectis",
-			["encounter"] = "Vectis",
-			["ej_instance_id"] = 1031,
 			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "Vectis",
 		},
 		["player_db"] = {
 			["Piripe"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Worrog-Zul'jin"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["deaths"] = {
-				},
 				["class"] = "WARRIOR",
-			},
-			["Glucokinase-Illidan"] = {
-				["encounters"] = 2,
-				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
-			},
-			["Popediddler-BleedingHollow"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Deathvendir-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Vrill"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Justpally-Azralon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Trautfu"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Zapheer-Azralon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Grêwt-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Leeche-Tichondrius"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Pyreness"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Tayshammy-BleedingHollow"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Kelblade-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Dotanrun-Spinebreaker"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
 			},
 			["Turtleme-Dalaran"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
+			},
+			["Dotanrun-Spinebreaker"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Deathvendir-Zul'jin"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Justpally-Azralon"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Leeche-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Trautfu"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Pyreness"] = {
+				["encounters"] = 2,
+				["points"] = 200,
 				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Grêwt-Zul'jin"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Tayshammy-BleedingHollow"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Zapheer-Azralon"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Vrill"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Kelblade-Zul'jin"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Popediddler-BleedingHollow"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Glucokinase-Illidan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 		},
+		["diff"] = 14,
 	},
 	["216714"] = {
 		["hash"] = "216714",
 		["type"] = "endurance",
 		["name"] = "MOTHER",
 		["id"] = 2167,
-		["diff"] = 14,
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 2,
@@ -1328,21 +1327,22 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 1861,
 			["try_number"] = 1,
 			["name"] = "MOTHER",
-			["encounter"] = "MOTHER",
-			["ej_instance_id"] = 1031,
 			["diff"] = 14,
+			["ej_instance_id"] = 1031,
+			["encounter"] = "MOTHER",
 		},
 		["player_db"] = {
 			["Piripe"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Worrog-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -1350,65 +1350,60 @@ DeathGraphsDBEndurance = {
 						"Cleansing Purge |cFFFF3333137,168|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARRIOR",
 			},
-			["Glucokinase-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						2, -- [1]
-						181.116999999969, -- [2]
-						"Cleansing Purge |cFFFF3333146,946|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARRIOR",
-			},
-			["Popediddler-BleedingHollow"] = {
+			["Turtleme-Dalaran"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
+			},
+			["Dotanrun-Spinebreaker"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
 			},
 			["Deathvendir-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "DEATHKNIGHT",
-			},
-			["Vrill"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Justpally-Azralon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
+			},
+			["Leeche-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
 			},
 			["Trautfu"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
-			["Zapheer-Azralon"] = {
+			["Pyreness"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Grêwt-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -1416,51 +1411,56 @@ DeathGraphsDBEndurance = {
 						"Cleansing Purge |cFFFF3333150,212|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DRUID",
-			},
-			["Leeche-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Pyreness"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
 			},
 			["Tayshammy-BleedingHollow"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
+			},
+			["Zapheer-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Vrill"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
 			},
 			["Kelblade-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "DEMONHUNTER",
-			},
-			["Dotanrun-Spinebreaker"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
-			["Turtleme-Dalaran"] = {
+			["Popediddler-BleedingHollow"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
+			},
+			["Glucokinase-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						2, -- [1]
+						181.116999999969, -- [2]
+						"Cleansing Purge |cFFFF3333146,946|r", -- [3]
+					}, -- [1]
+				},
 			},
 		},
+		["diff"] = 14,
 	},
 }
 DeathGraphsDBCurrent = {
@@ -1470,9 +1470,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 114320,
 				["timeofdeath"] = 170.252000000095,
 				["name"] = "Zapheer-Azralon",
-				["time"] = 1546463379.101,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "2m 50s",
 				["events"] = {
 					{
 						2, -- [1]
@@ -1869,14 +1866,14 @@ DeathGraphsDBCurrent = {
 						"Zapheer-Azralon", -- [6]
 					}, -- [34]
 				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "2m 50s",
+				["time"] = 1546463379.101,
 			}, -- [1]
 			{
 				["maxhealth"] = 120720,
 				["timeofdeath"] = 312.673000000068,
 				["name"] = "Kalantta-Dalaran",
-				["time"] = 1546463521.522,
-				["class"] = "SHAMAN",
-				["timestring"] = "5m 12s",
 				["events"] = {
 					{
 						2, -- [1]
@@ -2277,14 +2274,14 @@ DeathGraphsDBCurrent = {
 						"Kalantta-Dalaran", -- [6]
 					}, -- [34]
 				},
+				["class"] = "SHAMAN",
+				["timestring"] = "5m 12s",
+				["time"] = 1546463521.522,
 			}, -- [2]
 			{
 				["maxhealth"] = 221880,
 				["timeofdeath"] = 360.501000000048,
 				["name"] = "Worrog-Zul'jin",
-				["time"] = 1546463569.35,
-				["class"] = "WARRIOR",
-				["timestring"] = "6m 0s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -2679,14 +2676,14 @@ DeathGraphsDBCurrent = {
 						"Worrog-Zul'jin", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARRIOR",
+				["timestring"] = "6m 0s",
+				["time"] = 1546463569.35,
 			}, -- [3]
 			{
 				["maxhealth"] = 197660,
 				["timeofdeath"] = 363.520000000019,
 				["name"] = "Kelblade-Zul'jin",
-				["time"] = 1546463572.369,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "6m 3s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3081,14 +3078,14 @@ DeathGraphsDBCurrent = {
 						"Kelblade-Zul'jin", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "6m 3s",
+				["time"] = 1546463572.369,
 			}, -- [4]
 			{
 				["maxhealth"] = 164440,
 				["timeofdeath"] = 372.717000000062,
 				["name"] = "Glucokinase-Illidan",
-				["time"] = 1546463581.566,
-				["class"] = "WARRIOR",
-				["timestring"] = "6m 12s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3483,14 +3480,14 @@ DeathGraphsDBCurrent = {
 						"Glucokinase-Illidan", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARRIOR",
+				["timestring"] = "6m 12s",
+				["time"] = 1546463581.566,
 			}, -- [5]
 			{
 				["maxhealth"] = 157380,
 				["timeofdeath"] = 379.6320000001,
 				["name"] = "Grêwt-Zul'jin",
-				["time"] = 1546463588.481,
-				["class"] = "DRUID",
-				["timestring"] = "6m 19s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3885,14 +3882,14 @@ DeathGraphsDBCurrent = {
 						"Grêwt-Zul'jin", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DRUID",
+				["timestring"] = "6m 19s",
+				["time"] = 1546463588.481,
 			}, -- [6]
 			{
 				["maxhealth"] = 151620,
 				["timeofdeath"] = 382.099000000046,
 				["name"] = "Deathvendir-Zul'jin",
-				["time"] = 1546463590.948,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "6m 22s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4285,14 +4282,14 @@ DeathGraphsDBCurrent = {
 						"Deathvendir-Zul'jin", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "6m 22s",
+				["time"] = 1546463590.948,
 			}, -- [7]
 			{
 				["maxhealth"] = 145060,
 				["timeofdeath"] = 382.644000000088,
 				["name"] = "Tayshammy-BleedingHollow",
-				["time"] = 1546463591.493,
-				["class"] = "SHAMAN",
-				["timestring"] = "6m 22s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4687,14 +4684,14 @@ DeathGraphsDBCurrent = {
 						"Tayshammy-BleedingHollow", -- [6]
 					}, -- [33]
 				},
+				["class"] = "SHAMAN",
+				["timestring"] = "6m 22s",
+				["time"] = 1546463591.493,
 			}, -- [8]
 			{
 				["maxhealth"] = 105220,
 				["timeofdeath"] = 385.634000000078,
 				["name"] = "Vrill",
-				["time"] = 1546463594.483,
-				["class"] = "PALADIN",
-				["timestring"] = "6m 25s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -5087,14 +5084,14 @@ DeathGraphsDBCurrent = {
 						"Vrill", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "6m 25s",
+				["time"] = 1546463594.483,
 			}, -- [9]
 			{
 				["maxhealth"] = 123240,
 				["timeofdeath"] = 389.402000000002,
 				["name"] = "Ohbrezzy-Dalaran",
-				["time"] = 1546463598.251,
-				["class"] = "WARLOCK",
-				["timestring"] = "6m 29s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -5489,6 +5486,9 @@ DeathGraphsDBCurrent = {
 						"Ohbrezzy-Dalaran", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "6m 29s",
+				["time"] = 1546463598.251,
 			}, -- [10]
 		},
 		["bossname"] = "G'huun",
@@ -5508,9 +5508,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 221880,
 				["timeofdeath"] = 244.040999999968,
 				["name"] = "Worrog-Zul'jin",
-				["time"] = 1546462836.941,
-				["class"] = "WARRIOR",
-				["timestring"] = "4m 4s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -5903,14 +5900,14 @@ DeathGraphsDBCurrent = {
 						"Worrog-Zul'jin", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARRIOR",
+				["timestring"] = "4m 4s",
+				["time"] = 1546462836.941,
 			}, -- [1]
 			{
 				["maxhealth"] = 114820,
 				["timeofdeath"] = 247.790999999968,
 				["name"] = "Justpally-Azralon",
-				["time"] = 1546462840.691,
-				["class"] = "PALADIN",
-				["timestring"] = "4m 7s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -6305,14 +6302,14 @@ DeathGraphsDBCurrent = {
 						"Justpally-Azralon", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "4m 7s",
+				["time"] = 1546462840.691,
 			}, -- [2]
 			{
 				["maxhealth"] = 197660,
 				["timeofdeath"] = 249.824999999953,
 				["name"] = "Kelblade-Zul'jin",
-				["time"] = 1546462842.725,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "4m 9s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -6707,14 +6704,14 @@ DeathGraphsDBCurrent = {
 						"Kelblade-Zul'jin", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "4m 9s",
+				["time"] = 1546462842.725,
 			}, -- [3]
 			{
 				["maxhealth"] = 164440,
 				["timeofdeath"] = 259.576999999932,
 				["name"] = "Glucokinase-Illidan",
-				["time"] = 1546462852.477,
-				["class"] = "WARRIOR",
-				["timestring"] = "4m 19s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -7109,14 +7106,14 @@ DeathGraphsDBCurrent = {
 						"Glucokinase-Illidan", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARRIOR",
+				["timestring"] = "4m 19s",
+				["time"] = 1546462852.477,
 			}, -- [4]
 			{
 				["maxhealth"] = 114320,
 				["timeofdeath"] = 262.914999999921,
 				["name"] = "Zapheer-Azralon",
-				["time"] = 1546462855.815,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "4m 22s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -7509,14 +7506,14 @@ DeathGraphsDBCurrent = {
 						"Zapheer-Azralon", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "4m 22s",
+				["time"] = 1546462855.815,
 			}, -- [5]
 			{
 				["maxhealth"] = 120720,
 				["timeofdeath"] = 264.304999999935,
 				["name"] = "Kalantta-Dalaran",
-				["time"] = 1546462857.205,
-				["class"] = "SHAMAN",
-				["timestring"] = "4m 24s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -7911,14 +7908,14 @@ DeathGraphsDBCurrent = {
 						"Kalantta-Dalaran", -- [6]
 					}, -- [33]
 				},
+				["class"] = "SHAMAN",
+				["timestring"] = "4m 24s",
+				["time"] = 1546462857.205,
 			}, -- [6]
 			{
 				["maxhealth"] = 105220,
 				["timeofdeath"] = 267.368999999948,
 				["name"] = "Vrill",
-				["time"] = 1546462860.269,
-				["class"] = "PALADIN",
-				["timestring"] = "4m 27s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -8313,14 +8310,14 @@ DeathGraphsDBCurrent = {
 						"Vrill", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "4m 27s",
+				["time"] = 1546462860.269,
 			}, -- [7]
 			{
 				["maxhealth"] = 130180,
 				["timeofdeath"] = 268.121999999974,
 				["name"] = "Seaja-Mal'Ganis",
-				["time"] = 1546462861.022,
-				["class"] = "MONK",
-				["timestring"] = "4m 28s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -8715,14 +8712,14 @@ DeathGraphsDBCurrent = {
 						"Seaja-Mal'Ganis", -- [6]
 					}, -- [33]
 				},
+				["class"] = "MONK",
+				["timestring"] = "4m 28s",
+				["time"] = 1546462861.022,
 			}, -- [8]
 			{
 				["maxhealth"] = 120400,
 				["timeofdeath"] = 272.340999999898,
 				["name"] = "Ubuthi-Quel'Thalas",
-				["time"] = 1546462865.241,
-				["class"] = "ROGUE",
-				["timestring"] = "4m 32s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -9117,14 +9114,14 @@ DeathGraphsDBCurrent = {
 						"Ubuthi-Quel'Thalas", -- [6]
 					}, -- [33]
 				},
+				["class"] = "ROGUE",
+				["timestring"] = "4m 32s",
+				["time"] = 1546462865.241,
 			}, -- [9]
 			{
 				["maxhealth"] = 151620,
 				["timeofdeath"] = 273.087999999989,
 				["name"] = "Deathvendir-Zul'jin",
-				["time"] = 1546462865.988,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "4m 33s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -9517,6 +9514,9 @@ DeathGraphsDBCurrent = {
 						"Deathvendir-Zul'jin", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "4m 33s",
+				["time"] = 1546462865.988,
 			}, -- [10]
 		},
 		["bossname"] = "G'huun",
@@ -9549,8 +9549,8 @@ DeathGraphsDBGraph = {
 			[360] = {
 				1546463601, -- [1]
 			},
-			[262] = {
-				1546462876, -- [1]
+			[372] = {
+				1546463601, -- [1]
 			},
 			[249] = {
 				1546462876, -- [1]
@@ -9561,8 +9561,8 @@ DeathGraphsDBGraph = {
 			[259] = {
 				1546462876, -- [1]
 			},
-			[372] = {
-				1546463601, -- [1]
+			[262] = {
+				1546462876, -- [1]
 			},
 		},
 		["spells"] = {
@@ -9570,14 +9570,10 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
-	["216714"] = {
+	["219414"] = {
 		["deaths"] = {
-			[181] = {
-				1546457956, -- [1]
-				1546457956, -- [2]
-				1546457956, -- [3]
-				1546457956, -- [4]
-				1546457956, -- [5]
+			[182] = {
+				1546462047, -- [1]
 			},
 		},
 		["spells"] = {
@@ -9596,10 +9592,14 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
-	["219414"] = {
+	["216714"] = {
 		["deaths"] = {
-			[182] = {
-				1546462047, -- [1]
+			[181] = {
+				1546457956, -- [1]
+				1546457956, -- [2]
+				1546457956, -- [3]
+				1546457956, -- [4]
+				1546457956, -- [5]
 			},
 		},
 		["spells"] = {

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.023,
+	["LastVersion"] = 2.0234,
 	["LastPlayerFullName"] = "Keziya-Bladefist",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

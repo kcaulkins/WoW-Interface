@@ -1,820 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/raid i have food poisoning", -- [1]
-		"/raid you asked if i had a rectal issue", -- [2]
-		"/raid my asshole has been bathed in acid for the past 2 days", -- [3]
-		"/raid u ever use so much toilet paper that it clogs the toilet", -- [4]
-		"/raid pm me the amazon link", -- [5]
-		"/s got me", -- [6]
-		"/raid faggot", -- [7]
-		"/kb", -- [8]
-		"/m", -- [9]
-		"/reload", -- [10]
-		"/cw Metablast-Magtheridon ok", -- [11]
-		"/cw Metablast-Magtheridon np", -- [12]
-		"/i wtf?", -- [13]
-		"/i no", -- [14]
-		"/logout", -- [15]
-		"/g Where is the entrance to the new raid", -- [16]
-		"/raid srty", -- [17]
-		"/who moop", -- [18]
-		"/ec", -- [19]
-		"/details options", -- [20]
+		"/raid srty", -- [1]
+		"/who moop", -- [2]
+		"/ec", -- [3]
+		"/details options", -- [4]
+		" are you doing lfr?", -- [5]
+		" wtf", -- [6]
+		" i want to do mythic", -- [7]
+		" thanks for the invite", -- [8]
+		" sure", -- [9]
+		" lol", -- [10]
+		" i can dps too you know", -- [11]
+		" idc just wanna kill shit", -- [12]
+		" ok im in disc", -- [13]
+		"/1 isn't that dude like 70 years old now", -- [14]
+		"/1 how r u level 270?", -- [15]
+		"/1 120 or 270?????????", -- [16]
+		"/s druid", -- [17]
+		"/s heal the boss plz", -- [18]
+		"/s %T", -- [19]
+		"/1 lmfaoooo", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"That's cause you're using Skada Pok.", -- [1]
-			"Osontarg-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osontarg-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			782, -- [11]
-			"Player-3676-06F3C956", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOsontarg-Area52|r",
-			[51] = 1526842281,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [1]
-		{
-			"orbs werent a problem", -- [1]
-			"Pyroblast-Bonechewer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pyroblast-Bonechewer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			783, -- [11]
-			"Player-1136-07E04CE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
-			[51] = 1526842283,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [2]
-		{
-			"Skada is garbage.", -- [1]
-			"Osontarg-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osontarg-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			784, -- [11]
-			"Player-3676-06F3C956", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOsontarg-Area52|r",
-			[51] = 1526842284,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [3]
-		{
-			"we wiped bc of rage timer.", -- [1]
-			"Pyroblast-Bonechewer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pyroblast-Bonechewer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			785, -- [11]
-			"Player-1136-07E04CE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
-			[51] = 1526842286,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [4]
-		{
-			"Get Details.", -- [1]
-			"Osontarg-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osontarg-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			786, -- [11]
-			"Player-3676-06F3C956", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOsontarg-Area52|r",
-			[51] = 1526842286,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [5]
-		{
-			"Or Recount.", -- [1]
-			"Osontarg-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osontarg-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			789, -- [11]
-			"Player-3676-06F3C956", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOsontarg-Area52|r",
-			[51] = 1526842293,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [6]
-		{
-			"what does details say for orb total damage?", -- [1]
-			"Pokhrwhole-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pokhrwhole-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			791, -- [11]
-			"Player-9-082B64CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
-			[51] = 1526842313,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [7]
-		{
-			"recount is kinda sketchy for accuracy", -- [1]
-			"Kärasu-Fenris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kärasu-Fenris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			792, -- [11]
-			"Player-114-07D9C5E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kärasu-Fenris|r",
-			[51] = 1526842316,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [8]
-		{
-			"lets go", -- [1]
-			"Tsgnuh-Mannoroth", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tsgnuh-Mannoroth", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			796, -- [11]
-			"Player-70-0280EC0B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aTsgnuh-Mannoroth|r",
-			[51] = 1526842327,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [9]
-		{
-			"seriously how do you folks justify spending 15$ a month", -- [1]
-			"Próphèt-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Próphèt-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			798, -- [11]
-			"Player-11-0B0A5654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Próphèt-Tichondrius|r",
-			[51] = 1526842335,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [10]
-		{
-			"by paying with gold", -- [1]
-			"Pokhrwhole-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pokhrwhole-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			801, -- [11]
-			"Player-9-082B64CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
-			[51] = 1526842348,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [11]
-		{
-			"{rt6} Haste/Vers", -- [1]
-			"Tsgnuh-Mannoroth", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tsgnuh-Mannoroth", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			811, -- [11]
-			"Player-70-0280EC0B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aTsgnuh-Mannoroth|r",
-			[51] = 1526842412,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"{rt5} Crit/Mast", -- [1]
-			"Osontarg-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Osontarg-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			817, -- [11]
-			"Player-3676-06F3C956", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOsontarg-Area52|r",
-			[51] = 1526842442,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"{rt6} Haste/Vers", -- [1]
-			"Pyroblast-Bonechewer", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pyroblast-Bonechewer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			822, -- [11]
-			"Player-1136-07E04CE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
-			[51] = 1526842472,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"{rt2}Bomb{rt2}", -- [1]
-			"Kärasu-Fenris", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kärasu-Fenris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			830, -- [11]
-			"Player-114-07D9C5E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kärasu-Fenris|r",
-			[51] = 1526842508,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"{rt2}4", -- [1]
-			"Kärasu-Fenris", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kärasu-Fenris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			831, -- [11]
-			"Player-114-07D9C5E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kärasu-Fenris|r",
-			[51] = 1526842519,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"{rt2}3", -- [1]
-			"Kärasu-Fenris", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kärasu-Fenris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			832, -- [11]
-			"Player-114-07D9C5E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kärasu-Fenris|r",
-			[51] = 1526842520,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"how are 4 of you losers dead already", -- [1]
-			"Próphèt-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Próphèt-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			837, -- [11]
-			"Player-11-0B0A5654", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Próphèt-Tichondrius|r",
-			[51] = 1526842533,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [18]
-		{
-			"lol", -- [1]
-			"Pokhrwhole-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pokhrwhole-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			838, -- [11]
-			"Player-9-082B64CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
-			[51] = 1526842549,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [19]
-		{
-			"Soulbomb {rt2} on Cornot", -- [1]
-			"Cornot-Thrall", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Cornot-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			842, -- [11]
-			"Player-3678-0A8B5EA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCornot-Thrall|r",
-			[51] = 1526842551,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"someon moved to soon. prob a DH", -- [1]
-			"Psycoholic-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Psycoholic-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			843, -- [11]
-			"Player-3676-0851302A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Psycoholic-Area52|r",
-			[51] = 1526842551,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [21]
-		{
-			"take this time to uninstall", -- [1]
-			"Pokhrwhole-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pokhrwhole-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			847, -- [11]
-			"Player-9-082B64CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
-			[51] = 1526842571,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [22]
-		{
-			"2 of them died to water swirl when he changed phases", -- [1]
-			"Kärasu-Fenris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kärasu-Fenris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			848, -- [11]
-			"Player-114-07D9C5E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kärasu-Fenris|r",
-			[51] = 1526842578,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [23]
-		{
-			"{rt2}Bomb{rt2}", -- [1]
-			"Narily-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Narily-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			853, -- [11]
-			"Player-3684-086711F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aNarily-Mal'Ganis|r",
-			[51] = 1526842593,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Soulburst (1{rt3}) on Xenatu", -- [1]
-			"Xenatu-Bladefist", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Xenatu", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			854, -- [11]
-			"Player-1147-06DCB86D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edXenatu|r",
-			[51] = 1526842593,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"i didnt het healed ", -- [1]
-			"Lichqueenie-Drak'Tharon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lichqueenie-Drak'Tharon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			855, -- [11]
-			"Player-127-05545AA6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aLichqueenie-Drak'Tharon|r",
-			[51] = 1526842593,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [26]
-		{
-			"yawn", -- [1]
-			"Psycoholic-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Psycoholic-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			856, -- [11]
-			"Player-3676-0851302A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Psycoholic-Area52|r",
-			[51] = 1526842595,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [27]
-		{
-			"God...I thought Horde was better than people on the Alliance side. I was wrong. Horde has even more assholes.", -- [1]
-			"Osontarg-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osontarg-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			857, -- [11]
-			"Player-3676-06F3C956", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOsontarg-Area52|r",
-			[51] = 1526842602,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [28]
-		{
-			"{rt3} 3", -- [1]
-			"Xenatu-Bladefist", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Xenatu", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			858, -- [11]
-			"Player-1147-06DCB86D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edXenatu|r",
-			[51] = 1526842605,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"{rt3} 2", -- [1]
-			"Xenatu-Bladefist", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Xenatu", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			859, -- [11]
-			"Player-1147-06DCB86D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edXenatu|r",
-			[51] = 1526842606,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"{rt3} 1", -- [1]
-			"Xenatu-Bladefist", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Xenatu", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			860, -- [11]
-			"Player-1147-06DCB86D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edXenatu|r",
-			[51] = 1526842607,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"{rt7}4", -- [1]
-			"Pokhrwhole-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pokhrwhole-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			864, -- [11]
-			"Player-9-082B64CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
-			[51] = 1526842624,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"{rt3}4", -- [1]
-			"Kärasu-Fenris", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kärasu-Fenris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			865, -- [11]
-			"Player-114-07D9C5E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kärasu-Fenris|r",
-			[51] = 1526842624,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"{rt7}3", -- [1]
-			"Pokhrwhole-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pokhrwhole-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			866, -- [11]
-			"Player-9-082B64CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
-			[51] = 1526842625,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"{rt3}3", -- [1]
-			"Kärasu-Fenris", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kärasu-Fenris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			867, -- [11]
-			"Player-114-07D9C5E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kärasu-Fenris|r",
-			[51] = 1526842625,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"{rt7}2", -- [1]
-			"Pokhrwhole-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pokhrwhole-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			868, -- [11]
-			"Player-9-082B64CA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
-			[51] = 1526842626,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
 		{
 			"{rt3}2", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -836,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526842626,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [1]
 		{
 			"{rt7}1", -- [1]
 			"Pokhrwhole-Kil'jaeden", -- [2]
@@ -858,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
 			[51] = 1526842627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [2]
 		{
 			"{rt3}1", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -880,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526842627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [3]
 		{
 			"theres every good people! on BOTH SIDES", -- [1]
 			"Psycoholic-Area52", -- [2]
@@ -902,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Psycoholic-Area52|r",
 			[51] = 1526842627,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [40]
+		}, -- [4]
 		{
 			"its just little kids running there mouths", -- [1]
 			"Lichqueenie-Drak'Tharon", -- [2]
@@ -924,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aLichqueenie-Drak'Tharon|r",
 			[51] = 1526842630,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [41]
+		}, -- [5]
 		{
 			"how do you die to anything with aspect of the turtle ", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -946,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526842633,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [42]
+		}, -- [6]
 		{
 			"{rt2}Bomb{rt2}", -- [1]
 			"Narily-Mal'Ganis", -- [2]
@@ -968,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNarily-Mal'Ganis|r",
 			[51] = 1526842637,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [7]
 		{
 			"It's called being on CD.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -990,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526842646,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [44]
+		}, -- [8]
 		{
 			"Use your fucking brain.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -1012,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526842650,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [45]
+		}, -- [9]
 		{
 			"i mean really is it that hard to just not be useless", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -1034,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526842654,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [46]
+		}, -- [10]
 		{
 			"Stop being a cunt.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -1056,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526842655,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [47]
+		}, -- [11]
 		{
 			"not having it up or having 3mil hp", -- [1]
 			"Psycoholic-Area52", -- [2]
@@ -1078,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Psycoholic-Area52|r",
 			[51] = 1526842658,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [48]
+		}, -- [12]
 		{
 			"so salty", -- [1]
 			"Kryptikk-Tichondrius", -- [2]
@@ -1100,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kryptikk-Tichondrius|r",
 			[51] = 1526842663,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [49]
+		}, -- [13]
 		{
 			"Interrupted Constellar Designate's |cff71d5ff|Hspell:253061:0|h[Starblast]|h|r!", -- [1]
 			"Budlíghtning-Mal'Ganis", -- [2]
@@ -1122,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddBudlíghtning-Mal'Ganis|r",
 			[51] = 1526842680,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [50]
+		}, -- [14]
 		{
 			"i mean this guy is legit 4 days 110 lol", -- [1]
 			"Psycoholic-Area52", -- [2]
@@ -1144,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Psycoholic-Area52|r",
 			[51] = 1526842687,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [51]
+		}, -- [15]
 		{
 			"Okay guys that enough. Focus on the fight.", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -1166,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526842700,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [52]
+		}, -- [16]
 		{
 			"Cosmic Ray on Pokhrwhole", -- [1]
 			"Pokhrwhole-Kil'jaeden", -- [2]
@@ -1188,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
 			[51] = 1526842702,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [17]
 		{
 			"Cosmic Ray on Tsgnuh", -- [1]
 			"Tsgnuh-Mannoroth", -- [2]
@@ -1210,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aTsgnuh-Mannoroth|r",
 			[51] = 1526842722,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [18]
 		{
 			"i mean people from all these srub servers talking shit lol", -- [1]
 			"Psycoholic-Area52", -- [2]
@@ -1232,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Psycoholic-Area52|r",
 			[51] = 1526842725,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [55]
+		}, -- [19]
 		{
 			"Cosmic Ray on Xenatu", -- [1]
 			"Xenatu-Bladefist", -- [2]
@@ -1254,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edXenatu|r",
 			[51] = 1526842742,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [20]
 		{
 			"Psyco, Thats enough. Focus up.", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -1276,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526842747,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [57]
+		}, -- [21]
 		{
 			"Interrupted Constellar Designate's |cff71d5ff|Hspell:253061:0|h[Starblast]|h|r!", -- [1]
 			"Budlíghtning-Mal'Ganis", -- [2]
@@ -1298,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddBudlíghtning-Mal'Ganis|r",
 			[51] = 1526842748,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [58]
+		}, -- [22]
 		{
 			"if you made it to 110 and don't know how or when to use turtle that speaks volumes for why you are useless", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -1320,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526842760,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [59]
+		}, -- [23]
 		{
 			"less talk more dps", -- [1]
 			"Garhane-ShatteredHalls", -- [2]
@@ -1342,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGarhane-ShatteredHalls|r",
 			[51] = 1526842768,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [60]
+		}, -- [24]
 		{
 			"^^", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -1364,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526842771,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [61]
+		}, -- [25]
 		{
 			"^", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -1386,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526842774,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [62]
+		}, -- [26]
 		{
 			" lol stfu", -- [1]
 			"Psycoholic-Area52", -- [2]
@@ -1408,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Psycoholic-Area52|r",
 			[51] = 1526842783,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [63]
+		}, -- [27]
 		{
 			"truth hurts ", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -1430,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526842792,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [64]
+		}, -- [28]
 		{
 			"If you don't know when to shut your mouth, that shows volumes about why you can't pay attention. Leave the hunter alone. We were all at his stage.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -1452,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526842800,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [65]
+		}, -- [29]
 		{
 			"I'm at his stage actually.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -1474,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526842803,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [66]
+		}, -- [30]
 		{
 			"is this PvP or PvE", -- [1]
 			"Uz-Rexxar", -- [2]
@@ -1496,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Uz-Rexxar|r",
 			[51] = 1526842829,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [67]
+		}, -- [31]
 		{
 			"nah he prob 11/11 mythic", -- [1]
 			"Psycoholic-Area52", -- [2]
@@ -1518,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Psycoholic-Area52|r",
 			[51] = 1526842837,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [68]
+		}, -- [32]
 		{
 			"I don't know how you have time to type when we are fighting an enrage timer", -- [1]
 			"Gelael-Hyjal", -- [2]
@@ -1540,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Gelael-Hyjal|r",
 			[51] = 1526842839,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [69]
+		}, -- [33]
 		{
 			"Pvp for life", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -1562,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526842840,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [70]
+		}, -- [34]
 		{
 			"Doubtful.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -1584,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526842842,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [71]
+		}, -- [35]
 		{
 			"shameful i can hold a full conversation and still keep 2nd place", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -1606,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526842843,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [72]
+		}, -- [36]
 		{
 			"*use soulstone*", -- [1]
 			"Uz-Rexxar", -- [2]
@@ -1628,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Uz-Rexxar|r",
 			[51] = 1526842855,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [73]
+		}, -- [37]
 		{
 			"shh", -- [1]
 			"Garhane-ShatteredHalls", -- [2]
@@ -1650,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGarhane-ShatteredHalls|r",
 			[51] = 1526842857,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [74]
+		}, -- [38]
 		{
 			"dps now", -- [1]
 			"Garhane-ShatteredHalls", -- [2]
@@ -1672,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGarhane-ShatteredHalls|r",
 			[51] = 1526842859,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [75]
+		}, -- [39]
 		{
 			"DH is faceroll", -- [1]
 			"Kryptikk-Tichondrius", -- [2]
@@ -1694,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kryptikk-Tichondrius|r",
 			[51] = 1526842861,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [76]
+		}, -- [40]
 		{
 			"^^^", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -1716,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526842861,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [77]
+		}, -- [41]
 		{
 			"congrats", -- [1]
 			"Kryptikk-Tichondrius", -- [2]
@@ -1738,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kryptikk-Tichondrius|r",
 			[51] = 1526842862,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [78]
+		}, -- [42]
 		{
 			"argue later", -- [1]
 			"Garhane-ShatteredHalls", -- [2]
@@ -1760,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGarhane-ShatteredHalls|r",
 			[51] = 1526842864,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [79]
+		}, -- [43]
 		{
 			"You raid normal boo hoo", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -1782,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526842864,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [44]
 		{
 			"Berserk  3:08", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -1804,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526842865,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [81]
+		}, -- [45]
 		{
 			"ORBS", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -1826,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526842891,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [82]
+		}, -- [46]
 		{
 			"ORBS", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -1848,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526842892,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [83]
+		}, -- [47]
 		{
 			"orbs", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -1870,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526842898,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [84]
+		}, -- [48]
 		{
 			"Soulburst (1{rt3}) on Cornot", -- [1]
 			"Cornot-Thrall", -- [2]
@@ -1892,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aCornot-Thrall|r",
 			[51] = 1526842934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [49]
 		{
 			"orbs", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -1914,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526842940,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [86]
+		}, -- [50]
 		{
 			"Berserk  1:26", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -1936,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526842967,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [87]
+		}, -- [51]
 		{
 			"orbs now", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -1958,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526842991,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [88]
+		}, -- [52]
 		{
 			"and hes dead again and not using the tree way to go ", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -1980,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526843007,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [89]
+		}, -- [53]
 		{
 			"{rt3}Burst{rt3}", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -2002,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526843014,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [54]
 		{
 			"Berserk  0:36", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2024,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843017,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [91]
+		}, -- [55]
 		{
 			"{rt3}4", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -2046,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526843025,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [56]
 		{
 			"{rt3}3", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -2068,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526843026,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [57]
 		{
 			"{rt3}2", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -2090,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526843027,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [58]
 		{
 			"{rt3}1", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -2112,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526843028,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [59]
 		{
 			"i was getting orbs you dip shit", -- [1]
 			"Psycoholic-Area52", -- [2]
@@ -2134,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Psycoholic-Area52|r",
 			[51] = 1526843030,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [96]
+		}, -- [60]
 		{
 			"gonna hit berserk again", -- [1]
 			"Pokhrwhole-Kil'jaeden", -- [2]
@@ -2156,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edPokhrwhole-Kil'jaeden|r",
 			[51] = 1526843034,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [97]
+		}, -- [61]
 		{
 			"orbs", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -2178,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526843043,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [98]
+		}, -- [62]
 		{
 			"TUNNEL BOSS", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2200,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843054,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [99]
+		}, -- [63]
 		{
 			"{rt2}Bomb{rt2}", -- [1]
 			"Narily-Mal'Ganis", -- [2]
@@ -2222,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNarily-Mal'Ganis|r",
 			[51] = 1526843054,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [64]
 		{
 			"Good job tunneling guys", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -2244,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526843070,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [101]
+		}, -- [65]
 		{
 			"I am proud.", -- [1]
 			"Hortzul-Feathermoon", -- [2]
@@ -2266,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHortzul-Feathermoon|r",
 			[51] = 1526843072,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [102]
+		}, -- [66]
 		{
 			"should had tunnel boss instead of last orbs", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2288,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843073,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [103]
+		}, -- [67]
 		{
 			"And this is why people are in LFR still.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -2310,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526843076,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [104]
+		}, -- [68]
 		{
 			"They tunnel too much.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -2332,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526843080,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [105]
+		}, -- [69]
 		{
 			"gte out with bombs", -- [1]
 			"Lichqueenie-Drak'Tharon", -- [2]
@@ -2354,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aLichqueenie-Drak'Tharon|r",
 			[51] = 1526843084,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [106]
+		}, -- [70]
 		{
 			"what does getting orbs have to do with using the tree ", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -2376,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526843089,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [107]
+		}, -- [71]
 		{
 			"get", -- [1]
 			"Lichqueenie-Drak'Tharon", -- [2]
@@ -2398,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aLichqueenie-Drak'Tharon|r",
 			[51] = 1526843093,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [108]
+		}, -- [72]
 		{
 			"best of luck guys gotta go", -- [1]
 			"Kärasu-Fenris", -- [2]
@@ -2420,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Kärasu-Fenris|r",
 			[51] = 1526843103,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [109]
+		}, -- [73]
 		{
 			"Osontarg, you're retarded if you decided to try and kill orbs instead of tunneling at the end right there.", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2442,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843105,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [110]
+		}, -- [74]
 		{
 			"casually flips his |Hitem:44430|h|cff0070dd[Titanium Seal of Dalaran]|r|h.", -- [1]
 			"Armoredsaint-Blade'sEdge", -- [2]
@@ -2464,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aArmoredsaint-Blade'sEdge|r",
 			[51] = 1526843108,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [111]
+		}, -- [75]
 		{
 			"finds the coin face down for tails!", -- [1]
 			"Armoredsaint-Blade'sEdge", -- [2]
@@ -2486,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aArmoredsaint-Blade'sEdge|r",
 			[51] = 1526843110,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [112]
+		}, -- [76]
 		{
 			"i swear if i get artifact power after all this", -- [1]
 			"Uz-Rexxar", -- [2]
@@ -2508,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Uz-Rexxar|r",
 			[51] = 1526843119,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [113]
+		}, -- [77]
 		{
 			"I don't know? Probably because we don't have enough damage.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -2530,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526843124,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [114]
+		}, -- [78]
 		{
 			"you will", -- [1]
 			"Tsgnuh-Mannoroth", -- [2]
@@ -2552,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aTsgnuh-Mannoroth|r",
 			[51] = 1526843125,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [115]
+		}, -- [79]
 		{
 			"can we just get it over with and kick the mage already", -- [1]
 			"Garhane-ShatteredHalls", -- [2]
@@ -2574,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGarhane-ShatteredHalls|r",
 			[51] = 1526843127,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [116]
+		}, -- [80]
 		{
 			"This is LFR, people gearing are in here.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -2596,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526843128,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [117]
+		}, -- [81]
 		{
 			"Those 3 orbs.", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2618,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843132,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [118]
+		}, -- [82]
 		{
 			"Had more hp than he had left.", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2640,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843135,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [119]
+		}, -- [83]
 		{
 			"And we killed 2 of them.", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2662,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843140,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [120]
+		}, -- [84]
 		{
 			"Those 3 orbs killed EVERONE even with the main DPS focusing boss.", -- [1]
 			"Osontarg-Area52", -- [2]
@@ -2684,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOsontarg-Area52|r",
 			[51] = 1526843146,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [121]
+		}, -- [85]
 		{
 			"Imagine if we decided to use that hp and kill him?", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2706,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843147,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [122]
+		}, -- [86]
 		{
 			"all you do is complain", -- [1]
 			"Garhane-ShatteredHalls", -- [2]
@@ -2728,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGarhane-ShatteredHalls|r",
 			[51] = 1526843170,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [123]
+		}, -- [87]
 		{
 			"imagine if you hit the vote to boot the failures and we would be done ", -- [1]
 			"Próphèt-Tichondrius", -- [2]
@@ -2750,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Próphèt-Tichondrius|r",
 			[51] = 1526843170,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [124]
+		}, -- [88]
 		{
 			"just hush", -- [1]
 			"Garhane-ShatteredHalls", -- [2]
@@ -2772,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aGarhane-ShatteredHalls|r",
 			[51] = 1526843173,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [125]
+		}, -- [89]
 		{
 			"I mean maybe if you were doing more than 500k dps we would be good.", -- [1]
 			"Pyroblast-Bonechewer", -- [2]
@@ -2794,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPyroblast-Bonechewer|r",
 			[51] = 1526843176,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [126]
+		}, -- [90]
 		{
 			"We are The Neverending Basement. We are seeking raiders . We do mostly PvE, mount hunts and cheeve runs, with a group of pvp players to liven up the mix. Care to join us?", -- [1]
 			"Profuguspba", -- [2]
@@ -2816,6 +2024,816 @@ ElvCharacterDB = {
 			[52] = "|cff8787edProfuguspba|r",
 			[51] = 1540092675,
 			[50] = "CHAT_MSG_WHISPER",
+		}, -- [91]
+		{
+			"|cffffff00The Celestial Court is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Timeless Isle", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Timeless Isle", -- [9]
+			0, -- [10]
+			372, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1548178752,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"Interrupted Hex of Lethargy on Glintrok Hexxer", -- [1]
+			"Dêadsy-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dêadsy-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			477, -- [11]
+			"Player-3678-0ACC5794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDêadsy-Thrall|r",
+			[51] = 1548179770,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [93]
+		{
+			"Interrupted Glintrok Oracle's |cff71d5ff|Hspell:118940:0|h[Cleansing Flame]|h|r!", -- [1]
+			"Tatankaska-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tatankaska-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			505, -- [11]
+			"Player-3676-0A1FAA3A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddTatankaska-Area52|r",
+			[51] = 1548179962,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [94]
+		{
+			"|cffffff00Valley of Strength is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Orgrimmar", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Orgrimmar", -- [9]
+			0, -- [10]
+			293, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1549049665,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS <<< Normal and Heroic Battle of Dazar'alor>>>  << Mythic+ Runs >>STARTING NOW /w for info", -- [1]
+			"Odolana-Bladefist", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Odolana-Bladefist", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2907, -- [11]
+			"Player-1147-080DA4CB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc69b6dOdolana|r",
+			[51] = 1549158901,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"are you doing lfr?", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3212, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160238,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [97]
+		{
+			"No Maddrussian roped me into Mythic", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3215, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160248,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [98]
+		{
+			"wtf", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3218, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160255,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [99]
+		{
+			"i want to do mythic", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3219, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160257,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [100]
+		{
+			"Only doing 1 more pull", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3220, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160260,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [101]
+		{
+			"thanks for the invite", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3221, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160260,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [102]
+		{
+			"They only needed 1 dps", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3224, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160269,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [103]
+		{
+			"sure", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3225, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160280,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [104]
+		{
+			"Hey boo", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3227, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160285,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [105]
+		{
+			"lol", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3228, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160288,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [106]
+		{
+			"I'd kick a tank if I could", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3229, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160291,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [107]
+		{
+			"i can dps too you know", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3237, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160323,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [108]
+		{
+			"True, but I'm not the leader", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3249, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160340,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [109]
+		{
+			"So you wanna do labs or ?", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3314, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160649,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [110]
+		{
+			"idc just wanna kill shit", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3317, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549160658,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [111]
+		{
+			"speedrun?", -- [1]
+			"Pãper-EmeraldDream", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pãper-EmeraldDream", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3381, -- [11]
+			"Player-162-09FA68CD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Pãper-EmeraldDream|r",
+			[51] = 1549160899,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [112]
+		{
+			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265089:0|h[Dark Reconstitution]|h|r!", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3388, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549160934,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [113]
+		{
+			"omw", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3420, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDcoy|r",
+			[51] = 1549161078,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [114]
+		{
+			"ok logging in", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3430, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Dcoy",
+			[51] = 1549161120,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dcoy",
+		}, -- [115]
+		{
+			"you can pull more", -- [1]
+			"Fadeawaydunk-EmeraldDream", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fadeawaydunk-EmeraldDream", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3432, -- [11]
+			"Player-162-09E1B026", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Fadeawaydunk-EmeraldDream|r",
+			[51] = 1549161126,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [116]
+		{
+			"ok im in disc", -- [1]
+			"|Kq45|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3433, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Dcoy",
+			[51] = 1549161126,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dcoy",
+		}, -- [117]
+		{
+			"if you want", -- [1]
+			"Fadeawaydunk-EmeraldDream", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fadeawaydunk-EmeraldDream", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3435, -- [11]
+			"Player-162-09E1B026", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Fadeawaydunk-EmeraldDream|r",
+			[51] = 1549161129,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [118]
+		{
+			"isn't that dude like 70 years old now", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"", -- [3]
+			"1. General - Vol'dun", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Vol'dun", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549209430,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"how r u level 270?", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"", -- [3]
+			"1. General - Vol'dun", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Vol'dun", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549209698,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"120 or 270?????????", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"", -- [3]
+			"1. General - Vol'dun", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Vol'dun", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549209716,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"dont root the 2nd wave, they need to move", -- [1]
+			"Brosiris-Ghostlands", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Brosiris-Ghostlands", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			244, -- [11]
+			"Player-1069-0A661744", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBrosiris-Ghostlands|r",
+			[51] = 1549210287,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [122]
+		{
+			"druid", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			296, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549210728,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [123]
+		{
+			"heal the boss plz", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			298, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549210730,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [124]
+		{
+			"{rt8}Avatar of Sethraliss", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549210734,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [125]
+		{
+			"thanks guys", -- [1]
+			"Phuusa-Zuluhed", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Phuusa-Zuluhed", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			324, -- [11]
+			"Player-156-076B8A7A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Phuusa-Zuluhed|r",
+			[51] = 1549210828,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [126]
+		{
+			"lmfaoooo", -- [1]
+			"Xenatu-Bladefist", -- [2]
+			"", -- [3]
+			"1. General - Vol'dun", -- [4]
+			"Xenatu-Bladefist", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Vol'dun", -- [9]
+			0, -- [10]
+			439, -- [11]
+			"Player-1147-06DCB86D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8787edXenatu|r",
+			[51] = 1549211475,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }
