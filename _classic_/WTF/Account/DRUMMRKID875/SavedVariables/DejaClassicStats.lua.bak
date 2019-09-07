@@ -1,0 +1,43 @@
+
+DejaClassicStatsDB = {
+	["gdbdefaults"] = {
+		["DejaClassicStatsShowItemRepairChecked"] = {
+			["ShowItemRepairSetChecked"] = true,
+		},
+		["dejacharacterstatsExpandButtonChecked"] = {
+			["ExpandButtonSetChecked"] = true,
+		},
+		["DejaClassicStatsShowAverageRepairChecked"] = {
+			["ShowAverageRepairSetChecked"] = true,
+		},
+		["DejaClassicStatsDesaturateScrollArtBackground"] = {
+			["DesaturateScrollArtBackgroundChecked"] = true,
+		},
+		["DejaClassicStatsShowItemLevelChecked"] = {
+			["ShowItemLevelSetChecked"] = true,
+		},
+		["dejacharacterstatsExpandChecked"] = {
+			["ExpandSetChecked"] = true,
+		},
+		["DejaClassicStatsSimpleItemColorChecked"] = {
+			["SimpleItemColorChecked"] = false,
+			["DarkerItemColorChecked"] = false,
+		},
+		["DejaClassicStatsAlternateInfoPlacement"] = {
+			["AlternateInfoPlacementChecked"] = false,
+		},
+		["DejaClassicStatsShowDuraTextureChecked"] = {
+			["ShowDuraTextureSetChecked"] = true,
+		},
+		["DejaClassicStatsShowHideScrollArtBackground"] = {
+			["ShowHideScrollArtBackgroundChecked"] = true,
+		},
+		["dejacharacterstatsExpandButtonAltPlacementChecked"] = {
+			["ExpandButtonAltPlacementSetChecked"] = false,
+		},
+		["DejaClassicStatsShowDuraChecked"] = {
+			["ShowDuraSetChecked"] = true,
+		},
+	},
+}
+DCS_ClassSpecDB = nil

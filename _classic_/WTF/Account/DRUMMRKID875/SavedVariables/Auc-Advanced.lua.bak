@@ -1,0 +1,60 @@
+
+AucAdvancedConfig = {
+	["profile.Default"] = {
+		["core"] = {
+			["matcher"] = {
+				["matcherlist"] = {
+					"BeanCount", -- [1]
+					"Undercut", -- [2]
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["SavedMailButtons"] = {
+				},
+			},
+			["appraiser"] = {
+				["columnsortcurDir"] = -1,
+				["columnsortcurSort"] = 6,
+			},
+		},
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+				["upgraded32"] = true,
+			},
+		},
+	},
+	["version"] = 1,
+	["users.Kromcrush.Alchemy"] = "Default",
+}
+AucAdvancedData = {
+	["UtilSearchUiData"] = {
+		["Global"] = {
+			["configator.left"] = 769.047607421875,
+			["configator.top"] = 935.714233398438,
+		},
+		["Current"] = {
+			["snatch.itemsList"] = {
+			},
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["KnownServerKeys"] = {
+		["Kromcrush"] = 1567861993,
+	},
+	["KnownRealms"] = {
+		["Kromcrush"] = "Kromcrush",
+	},
+	["Version"] = 1,
+	["Timestamp"] = 1567280773,
+}

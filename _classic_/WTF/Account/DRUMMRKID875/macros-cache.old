@@ -1,0 +1,13 @@
+VER 3 0000000000000001 "mobsteal" "INV_MISC_QUESTIONMARK"
+#showtooltip Fire Blast
+/tar burning blade seer
+/cast Fire Blast(Rank 1)
+END
+VER 3 0000000000000002 "ZygorAction1" "134797"
+#showtooltip Elixir of Water Breathing
+/use item:5996
+END
+VER 3 0000000000000003 "ZygorAction2" "134433"
+#showtooltip Soft-shelled Clam
+/use item:15874
+END

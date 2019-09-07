@@ -1,0 +1,97 @@
+
+AucScanData = {
+	["Version"] = 1.4,
+	["scans"] = {
+		["Kromcrush"] = {
+			["scanstats"] = {
+				{
+					["serverKey"] = "Kromcrush",
+					["source"] = "scan",
+					["matchedCount"] = 0,
+					["sameCount"] = 0,
+					["expiredDeleteCount"] = 0,
+					["missedCount"] = 0,
+					["query"] = {
+						["qryinfo"] = {
+							["finished"] = true,
+							["serverKey"] = "Kromcrush",
+							["sig"] = "blackfang#####1#2.15",
+							["scanSize"] = "Micro",
+							["page"] = 0,
+							["id"] = 0,
+						},
+						["name"] = "blackfang",
+						["exactMatch"] = true,
+						["pageIncomplete"] = false,
+						["filterData"] = {
+							{
+								["subClassID"] = 15,
+								["classID"] = 2,
+							}, -- [1]
+						},
+					},
+					["startTime"] = 1567313229,
+					["updateCount"] = 0,
+					["oldCount"] = 0,
+					["scanStoreTime"] = 2.57600000000093,
+					["started"] = 384921.32,
+					["endTime"] = 1567313232,
+					["filteredCount"] = 0,
+					["elapsed"] = 2.64600000000792,
+					["currentCount"] = 1,
+					["storeTime"] = 0,
+					["newCount"] = 1,
+					["paused"] = 0,
+					["scanCount"] = 1,
+					["wasGetAll"] = false,
+					["ended"] = 384923.966,
+					["wasIncomplete"] = false,
+					["earlyDeleteCount"] = 0,
+				}, -- [1]
+				["LastScan"] = 1567313251,
+				["ImageUpdated"] = 1567313251,
+				[0] = {
+					["serverKey"] = "Kromcrush",
+					["source"] = "scan",
+					["matchedCount"] = 1,
+					["sameCount"] = 1,
+					["expiredDeleteCount"] = 0,
+					["missedCount"] = 0,
+					["query"] = {
+						["qryinfo"] = {
+							["serverKey"] = "Kromcrush",
+							["finished"] = true,
+							["sig"] = "blackfang######",
+							["scanSize"] = "Partial",
+							["page"] = 0,
+							["id"] = 1,
+						},
+						["name"] = "blackfang",
+						["pageIncomplete"] = false,
+					},
+					["startTime"] = 1567313246,
+					["updateCount"] = 0,
+					["oldCount"] = 1,
+					["scanStoreTime"] = 5.15200000000186,
+					["started"] = 384937.728,
+					["endTime"] = 1567313251,
+					["filteredCount"] = 0,
+					["elapsed"] = 5.22200000000885,
+					["currentCount"] = 1,
+					["storeTime"] = 0,
+					["newCount"] = 0,
+					["paused"] = 0,
+					["scanCount"] = 1,
+					["wasGetAll"] = false,
+					["ended"] = 384942.95,
+					["wasIncomplete"] = false,
+					["earlyDeleteCount"] = 0,
+				},
+			},
+			["image"] = "rope",
+			["ropes"] = {
+				"return {{\"|cff0070dd|Hitem:2236::::::::80:::::::|h[Blackfang]|h|r\",25,2,15,13,21500,4,1567313251,\"Blackfang\",nil,1,3,true,20,21500,0,30000,0,false,\"Qwertyuiop\",0,\"\",2236,0,0,0,0,},}", -- [1]
+			},
+		},
+	},
+}

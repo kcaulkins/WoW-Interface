@@ -1,0 +1,35 @@
+
+AtlasLootClassicDB = {
+	["profileKeys"] = {
+		["Alchemy - Kromcrush"] = "Alchemy - Kromcrush",
+		["Kezia - Kromcrush"] = "Kezia - Kromcrush",
+	},
+	["global"] = {
+		["__addonrevision"] = 1010009,
+	},
+	["profiles"] = {
+		["Alchemy - Kromcrush"] = {
+			["minimap"] = {
+				["minimapPos"] = 163.810805117304,
+			},
+			["GUI"] = {
+				["point"] = {
+					nil, -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					127.999992370605, -- [4]
+					-153.999954223633, -- [5]
+				},
+				["selected"] = {
+					nil, -- [1]
+					"Naxxramas", -- [2]
+					15, -- [3]
+					3, -- [4]
+					0, -- [5]
+				},
+			},
+		},
+		["Kezia - Kromcrush"] = {
+		},
+	},
+}

@@ -1,0 +1,12 @@
+WeakAurasCompanion: enabled
+Prat-3.0: disabled
+Prat-3.0_Libraries: disabled
+Bartender4: disabled
+BetterVendorPrice: enabled
+OmniCC: disabled
+Leatrix_Maps: enabled
+Leatrix_Plus: enabled
+Details: enabled
+DejaClassicStats: enabled
+AAP-Classic: disabled
+Questie: enabled

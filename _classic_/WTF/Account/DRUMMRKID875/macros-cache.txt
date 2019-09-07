@@ -1,0 +1,9 @@
+VER 3 0000000000000001 "mobsteal" "INV_MISC_QUESTIONMARK"
+#showtooltip Fire Blast
+/tar slitherblade sor
+/cast Fire Blast(Rank 1)
+END
+VER 3 0000000000000002 "ZygorAction1" "134400"
+END
+VER 3 0000000000000003 "ZygorAction2" "134400"
+END
